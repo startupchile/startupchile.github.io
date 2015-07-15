@@ -24,9 +24,9 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "Start-Up Chile"
 organizerAlternateName: "Start-Up Chile community"
 organizerDescription: "La comunidad de emprendedores más grande de LatAm"
-organizerEmail: "contacto@devconfchile.com"
+organizerEmail: "contacto@devconfchile.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://www.devconfchile.com/"
+organizerLink: "http://www.devconfchile.org/"
 
 # Head
 metaKeywords: "eventos, devfest, google, programming, android, chrome, developers, programadores, chile, python, ruby, hackaton"
@@ -44,14 +44,14 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Conviertete en charlista"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Conviertete en charlista"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "DevConf Chile <typeout> 2015"
-eventDate: "Septiembre [4,5,6], 2015"
+eventDate: "Santiago - Chile, Septiembre [4,5,6], 2015"
 typeoutTextValues: '"", "Programadores", "Emprendedores", "Hackers"'
 typeoutFallback: "Programadores"
 heroButtons:
@@ -168,9 +168,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/devconfchile", icon: "twitter"}
+ - {link: "https://www.facebook.com/pages/Devconfchile/106866916316756?fref=ts", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -181,7 +180,7 @@ footerBlocks:
  -
   title: "Contacto"
   links:
-   - {link: "mailto:contacto@devconfchile.com", text: "contacto@devconfchile.com"}
+   - {link: "mailto:contacto@devconfchile.org", text: "contacto@devconfchile.org"}
  -
   title: "FAQ"
   links:
