@@ -44,9 +44,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Conviertete en charlista"}
+ - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Conviertete en charlista"}
+ - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,7 +55,7 @@ eventDate: "Santiago - Chile, Septiembre [4,5,6], 2015"
 typeoutTextValues: '"", "Programadores", "Emprendedores", "Hackers"'
 typeoutFallback: "Programadores"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Registrate"}
+ - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
  #- {permalink: "/#tickets", text: "Obten tu ticket"}
 
 # About Block
@@ -175,8 +175,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.startupchile.org", text: "Start-Up Chile"}
+   #- {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacto"
   links:
