@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DevConf Chile 2015"
 email: "contacto@devconfchile.org"
 description: "La conferencia de programadores más grande de Chile"
-baseurl: "/devconf"
+baseurl: "/devconf/"
 url: "http://www.devconfchile.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-62977251-1"
