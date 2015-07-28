@@ -79,8 +79,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Rockstars"
+rockstarSpeakersButtonText: "Ver todos los charlistas"
 
 # Location Block
 locationBlockTitle: "Dirección"
