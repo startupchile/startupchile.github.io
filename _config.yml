@@ -51,7 +51,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "DevConf Chile <typeout> 2015"
-eventDate: "Santiago - Chile, Septiembre [4,5,6], 2015"
+eventDate: "Santiago - Chile, Septiembre [4,5], 2015"
 typeoutTextValues: '"", "Programadores", "Emprendedores", "Hackers"'
 typeoutFallback: "Programadores"
 heroButtons:
