@@ -19,7 +19,7 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-62977251-1"
 googleAnalyticsSiteUrl: "http://www.devconfchile.org"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
-logo: "/img/seo/logo.png"
+
 # Organizer Info
 organizerName: "Start-Up Chile"
 organizerAlternateName: "Start-Up Chile community"
