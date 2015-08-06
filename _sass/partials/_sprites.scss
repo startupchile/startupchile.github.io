@@ -1,14 +1,14 @@
 .logo {
-    background-image: url($logos-sprite);
+    background-image: url(../img/sprites/logos.png);
     background-repeat: no-repeat;
     &.logo-dark {
-    	background-position: 0 -1px;
+    	background-position: 0 -182px;
     }
     &.logo-gray {
     	background-position: 0 -63px;
 	}
 	&.logo-light {
-	    background-position: 0 -127px;
+	    background-position: 0px 0px;
 	}
 }
 .icon {
