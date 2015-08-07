@@ -1,8 +1,8 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
-    <div class="content-wrapper">
-        {% for day in site.data.schedule %}
-        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+    <div class="content-wrapper container">
+      {% for day in site.data.schedule %}
+        <div class="schedule-table col-lg-12">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>
@@ -52,7 +52,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>
@@ -77,7 +77,7 @@
             </div>
             {% endfor %}
         </div>
-        {% endfor %}
+      {% endfor %}
     </div>
 </section>
 <!-- End Schedule Section -->

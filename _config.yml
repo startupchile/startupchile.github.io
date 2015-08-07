@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "DevConf Chile 2015"
+title: "DEVCONCHILE 2015"
 email: "contacto@devconfchile.org"
 description: "La conferencia de programadores más grande de Chile"
 baseurl: ""
@@ -29,8 +29,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.devconfchile.org/"
 
 # Head
-metaKeywords: "eventos, devconf, chile, devconfchile, google, programming, android, chrome, developers, programadores, chile, python, ruby, hackaton, amazon chile"
-twitterAccount: "@devconfchile"
+metaKeywords: "eventos, devcon, chile, devconfchile, google, programming, android, chrome, developers, programadores, chile, python, ruby, hackaton, amazon chile"
+twitterAccount: "@devconchile"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -43,6 +43,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
+ - {permalink: "/about", text: "Conferencia"}
+ - {permalink: "/schedule", text: "Programa"}
+ # - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "/hackathon", text: "Hackathon"}
+
 bottomNavigationLinks:
  - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
 rightNavigationButtons:
@@ -50,7 +55,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "DevConf Chile <typeout> 2015"
+heroTitle: "#DEVCONCHILE <typeout> 2015"
 eventDate: "Santiago - Chile, Septiembre [4,5], 2015"
 typeoutTextValues: '"", "Programadores", "Emprendedores", "Hackers"'
 typeoutFallback: "Programadores"
@@ -59,7 +64,7 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Obten tu ticket"}
 
 # About Block
-aboutTitle: "¿Qué es DevConfChile?"
+aboutTitle: "¿Qué es DevConChile?"
 aboutBlock:
  - {title: "Charlas", image: "conference.jpg", text: "Si estas aprendiendo o eres un desarrollador avanzado podrás participar en las charlas para para aprender y desarrollar tus habilidades, aquí la comunidad de Chile tiene voz." }
  - {title: "Talleres", image: "workshop.jpg", text: "Con talleres podrás aprender a crear cosas nuevas, mezclando el mundo de lo intangible a lo tangible, software meets hardware." }
