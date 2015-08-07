@@ -1,50 +1,58 @@
-- 
-  date: "2014-10-24"
-  dateReadable: "October 24"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+-
+  date: "2015-09-04"
+  dateReadable: "Septiembre 4"
+  tracks:
+    - {title: "Keynotes", color: "#90be4e"}
+    - {title: "Workshops", color: "#03a9f4"}
+    - {title: "Hackathon", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	startTime: "a",
+    	endTime: "",
+    	sessionIds: [101, 201, 301]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+    	startTime: "b",
+    	endTime: "",
+    	sessionIds: [102, 202, 301]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	startTime: "c",
+    	endTime: "",
+    	sessionIds: [103, 203, 301]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+    	startTime: "d",
+    	endTime: "",
+    	sessionIds: [104, 204, 301]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+    	startTime: "e",
+    	endTime: "",
+    	sessionIds: [105, 205, 301]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	startTime: "f",
+    	endTime: "",
+    	sessionIds: [106, 206, 301]
+    }
+    - {
+    	startTime: "g",
+    	endTime: "",
+    	sessionIds: [107, 207, 301]
+    }
+    - {
+    	startTime: "h",
+    	endTime: "",
+    	sessionIds: [108, 208, 301]
+    }
+    - {
+    	startTime: "i",
+    	endTime: "",
+    	sessionIds: [109, 209, 301]
+    }
+    - {
+    	startTime: "j",
+    	endTime: "",
+    	sessionIds: [0, 0 , 500]
     }

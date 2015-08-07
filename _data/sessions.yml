@@ -1,59 +1,199 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
+  id: 100
+  title: "Keynote"
+  description: "Lorem ipsum.."
+  subtype: keynote
   speakers: [3, 6]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//"
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
+  id: 101
+  title: "Building a Tech Starting team / operation in Chile"
+  description: "Lorem ipsum.."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//"
+-
+  id: 102
+  title: "The Impact of Data Visualisation"
+  description: "Lorem ipsum.."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "//"
+-
+  id: 103
+  title: "Pragmatic Programmers: Sharpen your toolset"
+  description: "Lorem ipsum.."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 104
+  title: "APIfest: From rethinking the competition to a successful hackathon"
+  description: "Lorem ipsum.."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 105
+  title: "Cómo escalar un e-commerce con Rails"
+  description: "Lorem ipsum.."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 106
+  title: " ¿Cómo diseñar una API?"
+  description: "Lorem ipsum.."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 107
+  title: "Descubre XAMARIN"
+  description: "Lorem ipsum.."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 108
+  title: "Scaling a Rails application to X Millions"
+  description: "Lorem ipsum.."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 109
+  title: "Automating deployments con Python"
+  description: "Lorem ipsum.."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 201
+  title: "Transbank (como integrarse al portal de pagos)"
+  description: ""
+  subtype: workshop
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Intermediate"
+  presentation: ""
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  id: 202
+  title: "How to use Arduinos"
+  description: ""
+  subtype: workshop
+  speakers: [4]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 203
+  title: "How to use Rasberi pi"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 204
+  title: "ECMAScript 2015"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 205
+  title: "Creating interactive Maps with D3"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 206
+  title: "Introduction to Data Visualisation with D3"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 207
+  title: "Desarrolla tu próxima aplicacion en AngularJs"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 208
+  title: "Omnipresent Javascript"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 209
+  title: "Swift for Objective-C developers"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 301
+  title: "Los desafíos del transporte en Santiago: UOCT"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 500
+  title: "Estamos actualizando el programa, pronto el programa completo. [+100 Keynotes +20 workshops +3 Hackathons]"
+  description: "+100 Keynotes +20 workshops +3000 developers 3 Hackathons"
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
