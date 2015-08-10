@@ -14,22 +14,22 @@ title: "DEVCONCHILE 2015"
 email: "contacto@devconfchile.org"
 description: "La conferencia de programadores más grande de Chile"
 baseurl: ""
-url: "http://www.devconfchile.org"
+url: "http://www.devconchile.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-62977251-1"
-googleAnalyticsSiteUrl: "http://www.devconfchile.org"
+googleAnalyticsSiteUrl: "http://www.devconchile.org"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "Start-Up Chile"
 organizerAlternateName: "Start-Up Chile community"
 organizerDescription: "La comunidad de emprendedores más grande de LatAm"
-organizerEmail: "contacto@devconfchile.org"
+organizerEmail: "contacto@devconchile.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://www.devconfchile.org/"
+organizerLink: "http://www.devconchile.org/"
 
 # Head
-metaKeywords: "eventos, devcon, chile, devconfchile, google, programming, android, chrome, developers, programadores, chile, python, ruby, hackaton, amazon chile"
+metaKeywords: "eventos, devcon, chile, devconchile, google, programming, android, chrome, developers, programadores, chile, python, ruby, hackaton, amazon chile"
 twitterAccount: "@devconchile"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -187,7 +187,7 @@ footerBlocks:
  -
   title: "Contacto"
   links:
-   - {link: "mailto:contacto@devconfchile.org", text: "contacto@devconfchile.org"}
+   - {link: "mailto:contacto@devconchile.org", text: "contacto@devconchile.org"}
  -
   title: "FAQ"
   links:
