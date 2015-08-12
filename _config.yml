@@ -25,15 +25,15 @@ organizerName: "Start-Up Chile"
 organizerAlternateName: "Start-Up Chile community"
 organizerDescription: "La comunidad de emprendedores más grande de LatAm"
 organizerEmail: "contacto@devconfchile.org"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/new-organizer-logo.png"
 organizerLink: "http://www.devconfchile.org/"
 
 # Head
 metaKeywords: "eventos, devcon, chile, devconfchile, google, programming, android, chrome, developers, programadores, chile, python, ruby, hackaton, amazon chile"
 twitterAccount: "@devconchile"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/new-sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/new-sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/new-sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
