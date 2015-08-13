@@ -69,7 +69,7 @@ aboutTitle: "¿Qué es DevConChile?"
 aboutBlock:
  - {title: "Charlas", image: "conference.jpg", text: "Si estas aprendiendo o eres un desarrollador avanzado podrás participar en las charlas para para aprender y desarrollar tus habilidades, aquí la comunidad de Chile tiene voz." }
  - {title: "Talleres", image: "workshop.jpg", text: "Con talleres podrás aprender a crear cosas nuevas, mezclando el mundo de lo intangible a lo tangible, software meets hardware." }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Ven y crea soluciones en equipo con tus amigos o aprovecha de formar un equipo con otras personas. Los mejores proyectos podrán ganar premios." }
+ # - {title: "Hackathon", image: "hackathon.jpg", text: "Ven y crea soluciones en equipo con tus amigos o aprovecha de formar un equipo con otras personas. Los mejores proyectos podrán ganar premios." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -256,7 +256,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
