@@ -12,9 +12,13 @@
 		<div class="col-md-{{ colWidth }} col-xs-6">
 			<h5>{{ block.title }}</h5>
 			<ul>
-				{% for linkElement in block.links %}
-				<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
-				{% endfor %}
+				{% if block.imageUrl == null %}
+					{% for linkElement in block.links %}
+						<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
+						{% endfor %}
+				{% else %}
+					<li><a href="#"><img class="logo-sponsor" src="{{block.imageUrl}}" alt="Amazon AWS" /></a></li>
+				{% endif %}
 			</ul>
 		</div>
 		{% endfor %}
