@@ -193,6 +193,9 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Codigo de conducta"}
+ -
+  title: "Premium Sponsor"
+  imageUrl: "/img/seo/aws-logo.png"
 
 # Blog
 blogTitle: "Latest news"
