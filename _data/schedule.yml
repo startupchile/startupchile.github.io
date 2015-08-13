@@ -4,55 +4,54 @@
   tracks:
     - {title: "Keynotes", color: "#90be4e"}
     - {title: "Workshops", color: "#03a9f4"}
-    - {title: "Hackathon", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "a",
     	endTime: "",
-    	sessionIds: [101, 201, 301]
+    	sessionIds: [101, 201]
     }
     - {
     	startTime: "b",
     	endTime: "",
-    	sessionIds: [102, 202, 301]
+    	sessionIds: [102, 202]
     }
     - {
     	startTime: "c",
     	endTime: "",
-    	sessionIds: [103, 203, 301]
+    	sessionIds: [103, 203]
     }
     - {
     	startTime: "d",
     	endTime: "",
-    	sessionIds: [104, 204, 301]
+    	sessionIds: [104, 204]
     }
     - {
     	startTime: "e",
     	endTime: "",
-    	sessionIds: [105, 205, 301]
+    	sessionIds: [105, 205]
     }
     - {
     	startTime: "f",
     	endTime: "",
-    	sessionIds: [106, 206, 301]
+    	sessionIds: [106, 206]
     }
     - {
     	startTime: "g",
     	endTime: "",
-    	sessionIds: [107, 207, 301]
+    	sessionIds: [107, 207]
     }
     - {
     	startTime: "h",
     	endTime: "",
-    	sessionIds: [108, 208, 301]
+    	sessionIds: [108, 208]
     }
     - {
     	startTime: "i",
     	endTime: "",
-    	sessionIds: [109, 209, 301]
+    	sessionIds: [109, 209]
     }
     - {
     	startTime: "j",
     	endTime: "",
-    	sessionIds: [0, 0 , 500]
+    	sessionIds: [0, 0 ]
     }
