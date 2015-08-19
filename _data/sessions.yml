@@ -1,7 +1,7 @@
 -
   id: 100
-  title: "Keynote"
-  description: "Lorem ipsum.."
+  title: "APIfest: From rethinking the competition to a successful hackathon"
+  description: "Hackathon take aways from hosting your first hackathon. Logistics, marketing, sponsors, theming, attendees, and a look into the implementation of a format that wasn't used before in Santiago that truly promotes creativity instead of a safe business."
   subtype: keynote
   speakers: [3, 6]
   language: en
@@ -10,18 +10,18 @@
   video: "//"
 -
   id: 101
-  title: "Building a Tech Starting team / operation in Chile"
-  description: "Lorem ipsum.."
+  title: "Exorcisando tu código asincrónico"
+  description: "El codigo asincrono es dificil de entender, los calbacks dentro de callbacks penan entre el bosque de archivos del proyecto, los bugs se esconden detras de cada nesteo de tu codigo. Ven y aprende un par de patrones poderosos para exorcisar tu codigo asincrono con Promesas, generadores y Async/Await"
   subtype: keynote
   speakers: [3, 6]
-  language: en
+  language: es
   complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//"
 -
   id: 102
-  title: "The Impact of Data Visualisation"
-  description: "Lorem ipsum.."
+  title: "Migrando a microservicios"
+  description: "¿Son los microservicios otra "buzzword" más? ¿Tal vez un remix de SOA para la generación hipster? ¿Son los monolitos algo del pasado?. Esta es la historia de cómo y por qué una aplicación Rails monolítica está siendo separada en servicios por equipos basados en features. En esta charla conocerás los pro y los contra de este enfoque, los problemas resuelve y qué nuevos problemas crea, para saber si es apropiado o no para tus problemas y tu equipo"
   subtype: keynote
   speakers: [3, 6]
   language: en
@@ -30,8 +30,12 @@
   video: "//"
 -
   id: 103
-  title: "Pragmatic Programmers: Sharpen your toolset"
-  description: "Lorem ipsum.."
+  title: "Escalar un e-commerce con Rails"
+  description: "Highlights.
+    - Dicen que Rails no escala, que tan cierto es eso?
+    - Los casos de escalamiento de twitter y groupon no aplican al 90% de nosotros
+    - Las estrategias de escalamiento dependen del uso de las aplicaciones
+    - La optimización de una app va desde el hardware, hasta el número de líneas de un método, donde empezamos?"
   subtype: keynote
   speakers: [3, 6]
   language: en
@@ -40,8 +44,9 @@
   video: "//"
 -
   id: 104
-  title: "APIfest: From rethinking the competition to a successful hackathon"
-  description: "Lorem ipsum.."
+  title: "Ginga, El middleware opensource que revolucionará la televisión digital en Chile."
+  description: "Qué es y como se desarrolla la televisión digital, las nuevas ventajas con el uso del middleware y como Ginga es el middleware que ha revolucionado los distintos tipos de normas de televisión digital. Aplicaciones, como se distribuyen, y pasos para crear su propia aplicación, fuentes, instalaciones y ejemplos de algunas aplicaciones.
+    Alcance a las distintas verticales que se pueden lograr, dando como ejemplo uno de mis papers publicados en webmedia 2011 Florianapolis Brasil. "
   subtype: keynote
   speakers: [3, 6]
   language: en
@@ -50,8 +55,8 @@
   video: "//"
 -
   id: 105
-  title: "Cómo escalar un e-commerce con Rails"
-  description: "Lorem ipsum.."
+  title: "Migrando a microservicios"
+  description: "¿Son los microservicios otra "buzzword" más? ¿Tal vez un remix de SOA para la generación hipster? ¿Son los monolitos algo del pasado?. Esta es la historia de cómo y por qué una aplicación Rails monolítica está siendo separada en servicios por equipos basados en features. En esta charla conocerás los pro y los contra de este enfoque, los problemas resuelve y qué nuevos problemas crea, para saber si es apropiado o no para tus problemas y tu equipo."
   subtype: keynote
   speakers: [3, 6]
   language: en
@@ -60,8 +65,9 @@
   video: "//"
 -
   id: 106
-  title: " ¿Cómo diseñar una API?"
-  description: "Lorem ipsum.."
+  title: "Arquitectura de Microservicios: más flexibilidad y productividad en el desarrollo de productos de software"
+  description: "En el desarrollo de produtos de software, es muy importante tener flexibilidad para cambiar o añadir nuevas features. En la medida que se conoce mejor las necesidades del cliente, hacer cambios rápidos y adaptarse a demandas de tus usuários es fundamental para el éxito de un produto. Todavía, si la arquitectura del sistema no permite esta flexibilidad, desarrolladores tardan cada vez más y el software se torna demasiado complejo, tornando caro y retrasando el lanzamiento de nuevas features.
+    Una arquitectura de micro-servicios divide el software em pequeños componentes independientes. Estos componentes son intercambiables, y pueden ser reutilizados muchas veces en el mismo producto, o mismo en productos distintos. Cada módulo del sistema se volve un pequeño problema aislado de la complexidad del sistema como un todo. Cambiar servicios o añadir nuevos servicios se vuelve trivial, resultando en un software flexible, con más calidad y permitiendo más productividad al equipo de desarrollo."
   subtype: keynote
   speakers: [3, 6]
   language: en
@@ -70,7 +76,7 @@
   video: "//"
 -
   id: 107
-  title: "Descubre XAMARIN"
+  title: "Hacking starbucks"
   description: "Lorem ipsum.."
   subtype: keynote
   speakers: [3, 6]
@@ -80,7 +86,7 @@
   video: "//"
 -
   id: 108
-  title: "Scaling a Rails application to X Millions"
+  title: "How we created this device with a rescue brigade in Mexico"
   description: "Lorem ipsum.."
   subtype: keynote
   speakers: [3, 6]
@@ -90,8 +96,148 @@
   video: "//"
 -
   id: 109
-  title: "Automating deployments con Python"
-  description: "Lorem ipsum.."
+  title: "Transbank"
+  description: "Presentación del nuevo producto del medio de pago mas importante de Chile."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 110
+  title: "Construir una API con Django y RestFramework"
+  description: "How to use Python to write in no time a fast and powerful API."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 111
+  title: "Cortex"
+  description: "Talk about using their case studies about their EEG data, figuring out how to increase sampling rates, data processing speeds, and memory constraints with their start-up, Cortex."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 112
+  title: "Keynote about developer communities and trends in San Francisco. "
+  description: "Keynote about developer communities and trends in San Francisco. ."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 113
+  title: "WordPress para prototipado de aplicaciones"
+  description: "Lorem Ipsum"
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 114
+  title: "Entornos virtualizados de testing y QA"
+  description: "Lorem ipsum"
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 115
+  title: "La Naturaleza del Software"
+  description: "Lorem ipsum"
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 116
+  title: "Internet of Bees (IoB) or Using bees as sensors for chemical analyses"
+  description: "Lorem ipsum"
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 117
+  title: "La palabra de git"
+  description: "Una charla introductoria a los sistemas de control de versiones (VCS). Aprende lo básico de git a través de una serie de ejemplos de uso real y cómo puedes intregrarlo a tu entorno de trabajo para hacerlo más eficiente."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 118
+  title: "Automobile Security"
+  description: "Senior research scientist at Fraunhofer CESE and an assistant adjunct professor at the Computer Science department, University of Maryland. My research areas are: 1) software engineering for high-confidence, embedded systems with a focus on medical devices 2) medical device security and 3) social media data analytics."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 119
+  title: "Building a Tech Starting team / operation in Chile"
+  description: "What worked for us, what did not. Advice and warnings to building a startup business in Santiago."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 120
+  title: "The Impact of Data Visualisation"
+  description: "The current ubiquity and abundance of data and tools makes easier to create applications to visualise and display these datasets. We will show examples and discuss the relevance of data visualisation the kind of problems that can be solved thanks to it. We will show and comment on different kinds of data visualisation projects, from data analysis to art installations."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 121
+  title: "Pragmatic Programmers: Sharpen your toolset"
+  description: "It has been more than a decade since the release of Andy Hunt and David Thomas’ quintessential book about software engineering practices. In this talk we will present a personal view of how these ideas can help us shape a career that is supported by a pragmatic mindset. We will explore ideas such as how to approach problem solving, debugging code and create software that is resilient to bugs."
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 122
+  title: "IT Security"
+  description: "Lorem ipsum"
+  subtype: keynote
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+  video: "//"
+-
+  id: 123
+  title: "MVC, MongoDB"
+  description: "Lorem ipsum"
   subtype: keynote
   speakers: [3, 6]
   language: en
@@ -100,7 +246,7 @@
   video: "//"
 -
   id: 201
-  title: "Transbank (como integrarse al portal de pagos)"
+  title: "Arduinos "
   description: ""
   subtype: workshop
   speakers: [4]
@@ -109,7 +255,7 @@
   presentation: ""
 -
   id: 202
-  title: "How to use Arduinos"
+  title: "Raspberry pis"
   description: ""
   subtype: workshop
   speakers: [4]
@@ -118,8 +264,8 @@
   presentation: ""
 -
   id: 203
-  title: "How to use Rasberi pi"
-  description: ""
+  title: "ECMAScript 2015"
+  description: "Los participantes deben tener node.js instalado en su equipo, no requiere experiencia previa en node.js, pero sí conocimientos básicos en JavaScript."
   subtype: workshop
   speakers: [4]
   language: en
@@ -127,8 +273,8 @@
   presentation: ""
 -
   id: 204
-  title: "ECMAScript 2015"
-  description: ""
+  title: "Creating interactive Maps with D3"
+  description: "Los participantes deben tener conocimiento basicos de JavaScript."
   subtype: workshop
   speakers: [4]
   language: en
@@ -136,8 +282,8 @@
   presentation: ""
 -
   id: 205
-  title: "Creating interactive Maps with D3"
-  description: ""
+  title: "Introduction to Data Visualisation with D3"
+  description: "Los participantes deben tener conocimientos básicos de JavaScript."
   subtype: workshop
   speakers: [4]
   language: en
@@ -145,8 +291,8 @@
   presentation: ""
 -
   id: 206
-  title: "Introduction to Data Visualisation with D3"
-  description: ""
+  title: "Omnipresent Javascript"
+  description: "Los participantes deben tener experiencia con JavaScript/node.js, y GIT."
   subtype: workshop
   speakers: [4]
   language: en
@@ -154,8 +300,8 @@
   presentation: ""
 -
   id: 207
-  title: "Desarrolla tu próxima aplicacion en AngularJs"
-  description: ""
+  title: "Swift for Objective-C developers"
+  description: "Los participantes deben tener experiencia en desarrollo con Objective C, y una computadora Mac para poder participar en el taller"
   subtype: workshop
   speakers: [4]
   language: en
@@ -163,8 +309,8 @@
   presentation: ""
 -
   id: 208
-  title: "Omnipresent Javascript"
-  description: ""
+  title: "Introducción a iOS con Objective-C"
+  description: "Introducción a iOS con Objective-C: en 2 horas se aprenderá a hacer una ToDo app utilizando el lenguaje de programación Objective-C en donde se verán una de las estructuras básicas dentro de una app de iOS, las tablas. Se enseñará como programarlo y editar la forma en como se ve. Además veremos como agregar, editar y eliminar objetos dentro de la tabla."
   subtype: workshop
   speakers: [4]
   language: en
@@ -172,7 +318,43 @@
   presentation: ""
 -
   id: 209
-  title: "Swift for Objective-C developers"
+  title: "Como desarrollar una aplicación web en Django en 120 minutos"
+  description: "Introducción a Django (Web Framework hecho en Python): en 2 horas aprenderás como hacer una aplicación web completa de 0 hasta el deploy. Para tomar máximo provecho de esta charla, deberías de tener Python 2.7.* y Pip ya instalados en tu maquina, y tener un breve conocimiento de Python."
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 210
+  title: "Notify, notificaciones en tiempo real para 6 millones de dispositivos"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 211
+  title: "Implementando Scrum y que funcione (TEAM_WORK != DEV_WORK)"
+  description: "Lorem ipsum"
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 212
+  title: "Cómo utilizar el nuevo producto de transbank"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  presentation: ""
+-
+  id: 213
+  title: "Aprender a programar en Angular con Coder house"
   description: ""
   subtype: workshop
   speakers: [4]
