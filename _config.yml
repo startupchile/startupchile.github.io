@@ -50,9 +50,9 @@ navigationLinks:
  # - {permalink: "/hackathon", text: "Hackathon"}
 
 bottomNavigationLinks:
- - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
+ - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
 rightNavigationButtons:
- - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
+ - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "Santiago - Chile, Septiembre 4 - 5, 2015"
 typeoutTextValues: '"", "Programadores", "Emprendedores", "Hackers"'
 typeoutFallback: "Programadores"
 heroButtons:
- - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
+ - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
  #- {permalink: "/#tickets", text: "Obten tu ticket"}
 
 # About Block
