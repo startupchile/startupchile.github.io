@@ -21,7 +21,7 @@
 -
   id: 102
   title: "Migrando a microservicios"
-  description: "¿Son los microservicios otra "buzzword" más? ¿Tal vez un remix de SOA para la generación hipster? ¿Son los monolitos algo del pasado?. Esta es la historia de cómo y por qué una aplicación Rails monolítica está siendo separada en servicios por equipos basados en features. En esta charla conocerás los pro y los contra de este enfoque, los problemas resuelve y qué nuevos problemas crea, para saber si es apropiado o no para tus problemas y tu equipo"
+  description: "¿Son los microservicios otra buzzword más? ¿Tal vez un remix de SOA para la generación hipster? ¿Son los monolitos algo del pasado?. Esta es la historia de cómo y por qué una aplicación Rails monolítica está siendo separada en servicios por equipos basados en features. En esta charla conocerás los pro y los contra de este enfoque, los problemas resuelve y qué nuevos problemas crea, para saber si es apropiado o no para tus problemas y tu equipo"
   subtype: keynote
   speakers: [3, 6]
   language: en
@@ -47,16 +47,6 @@
   title: "Ginga, El middleware opensource que revolucionará la televisión digital en Chile."
   description: "Qué es y como se desarrolla la televisión digital, las nuevas ventajas con el uso del middleware y como Ginga es el middleware que ha revolucionado los distintos tipos de normas de televisión digital. Aplicaciones, como se distribuyen, y pasos para crear su propia aplicación, fuentes, instalaciones y ejemplos de algunas aplicaciones.
     Alcance a las distintas verticales que se pueden lograr, dando como ejemplo uno de mis papers publicados en webmedia 2011 Florianapolis Brasil. "
-  subtype: keynote
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  presentation: ""
-  video: "//"
--
-  id: 105
-  title: "Migrando a microservicios"
-  description: "¿Son los microservicios otra "buzzword" más? ¿Tal vez un remix de SOA para la generación hipster? ¿Son los monolitos algo del pasado?. Esta es la historia de cómo y por qué una aplicación Rails monolítica está siendo separada en servicios por equipos basados en features. En esta charla conocerás los pro y los contra de este enfoque, los problemas resuelve y qué nuevos problemas crea, para saber si es apropiado o no para tus problemas y tu equipo."
   subtype: keynote
   speakers: [3, 6]
   language: en
