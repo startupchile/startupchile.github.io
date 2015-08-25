@@ -50,9 +50,9 @@ navigationLinks:
  # - {permalink: "/hackathon", text: "Hackathon"}
 
 bottomNavigationLinks:
- - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
+ - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
 rightNavigationButtons:
- - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
+ - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "Santiago - Chile, Septiembre 4 - 5, 2015"
 typeoutTextValues: '"", "Programadores", "Emprendedores", "Hackers"'
 typeoutFallback: "Programadores"
 heroButtons:
- - {link: "https://devconfchile.typeform.com/to/S0lJtZ", text: "Registrate"}
+ - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
  #- {permalink: "/#tickets", text: "Obten tu ticket"}
 
 # About Block
@@ -116,7 +116,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "devconchile"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -128,49 +128,8 @@ partnersC4sponsorsButton: "Conviertete en sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration is open. Number of seats are limited. Stay tuned!"
 
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
@@ -223,11 +182,11 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Santiago"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Santiago. So you can find your way in Google Maps.'}
+ - {title: "Hotels", information: 'Santiago has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
