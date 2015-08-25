@@ -155,7 +155,12 @@ footerBlocks:
  -
   title: "Premium Sponsor"
   imageUrl: "/img/seo/aws-logo.png"
-
+ -
+  title: "Sponsor"
+  imageUrl: "/img/seo/microsoft.png"
+ -
+  title: "Organiza"
+  imageUrl: "/img/seo/startupchile.png"
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
