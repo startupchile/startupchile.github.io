@@ -1,57 +1,278 @@
 -
   date: "2015-09-04"
-  dateReadable: "Septiembre 4"
+  dateReadable: "Septiembre 4 y 5 / 2015"
   tracks:
     - {title: "Keynotes", color: "#90be4e"}
     - {title: "Workshops", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "a",
+    	startTime: "-",
     	endTime: "",
     	sessionIds: [101, 201]
     }
     - {
-    	startTime: "b",
+    	startTime: "-",
     	endTime: "",
-    	sessionIds: [102, 202]
+    	sessionIds: [102, 201]
     }
     - {
-    	startTime: "c",
+    	startTime: "-",
     	endTime: "",
-    	sessionIds: [103, 203]
+    	sessionIds: [103, 201]
     }
     - {
-    	startTime: "d",
+    	startTime: "-",
     	endTime: "",
-    	sessionIds: [104, 204]
+    	sessionIds: [104, 202]
     }
     - {
-    	startTime: "e",
+    	startTime: "-",
     	endTime: "",
-    	sessionIds: [105, 205]
+    	sessionIds: [105, 202]
     }
     - {
-    	startTime: "f",
+    	startTime: "-",
     	endTime: "",
-    	sessionIds: [106, 206]
+    	sessionIds: [106, 202]
     }
     - {
-    	startTime: "g",
+    	startTime: "-",
     	endTime: "",
-    	sessionIds: [107, 207]
+    	sessionIds: [107, 203]
     }
     - {
-    	startTime: "h",
+    	startTime: "-",
     	endTime: "",
-    	sessionIds: [108, 208]
+    	sessionIds: [108, 203]
     }
     - {
-    	startTime: "i",
+    	startTime: "-",
     	endTime: "",
-    	sessionIds: [109, 209]
+    	sessionIds: [109, 203]
     }
     - {
-    	startTime: "j",
+    	startTime: "-",
     	endTime: "",
-    	sessionIds: [0, 0 ]
+    	sessionIds: [110, 204 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [111, 204]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [112, 204 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [113, 205 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [114, 205 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [115, 205 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [116, 206 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [117, 206 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [118, 206 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [119, 207 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [120, 207 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [121, 207 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [122, 208 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [123, 208 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [124, 208 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [125, 209 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [126, 209 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [127, 209 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [128, 210 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [129, 210 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [130, 210 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [131, 211 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [132, 211 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [133, 211 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [134, 212 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [135, 212 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [136, 212 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [137, 213 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [138, 213 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [139, 213 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [140, 214 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [141, 214 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [142, 214 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [143, 214 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [144, 214 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [144, 214 ]
+    }
+
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [145, 215 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [146, 215 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [146, 215 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [147, 216 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [148, 216 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [149, 216 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [150, 216 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [151, 216 ]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [152, 216 ]
     }
