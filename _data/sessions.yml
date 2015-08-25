@@ -1,193 +1,496 @@
 -
-  id: 100
-  title: "Keynote"
-  description: "Lorem ipsum.."
-  subtype: keynote
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//"
--
   id: 101
-  title: "Building a Tech Starting team / operation in Chile"
-  description: "Lorem ipsum.."
+  title: "Exorcisando tu código asincrónico"
+  description: " El codigo asincrono es dificil de entender, los calbacks dentro de callbacks penan entre el bosque de archivos del proyecto, los bugs se esconden detras de cada nesteo de tu codigo. Ven y aprende un par de patrones poderosos para exorcisar tu codigo asincrono con Promesas, generadores y Async/Await"
   subtype: keynote
-  speakers: [3, 6]
   language: en
   complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//"
 -
   id: 102
-  title: "The Impact of Data Visualisation"
-  description: "Lorem ipsum.."
+  title: "Escalar un e-commerce con Rails"
+  description: "Highlights: Dicen que Rails no escala, que tan cierto es eso?, Los casos de escalamiento de twitter y groupon no aplican al 90% de nosotros, Las estrategias de escalamiento dependen del uso de las aplicaciones, La optimización de una app va desde el hardware, hasta el número de líneas de un método, donde empezamos?"
   subtype: keynote
-  speakers: [3, 6]
-  language: en
+  language: es
   complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//"
 -
   id: 103
-  title: "Pragmatic Programmers: Sharpen your toolset"
-  description: "Lorem ipsum.."
+  title: "Ginga, El middleware opensource que revolucionará la televisión digital en Chile."
+  description: Qué es y como se desarrolla la televisión digital, las nuevas ventajas con el uso del middleware y como Ginga es el middleware que ha revolucionado los distintos tipos de normas de televisión digital. Aplicaciones, como se distribuyen, y pasos para crear su propia aplicación, fuentes, instalaciones y ejemplos de algunas aplicaciones. Alcance a las distintas verticales que se pueden lograr, dando como ejemplo uno de mis papers publicados en webmedia 2011 Florianapolis Brasil. "
   subtype: keynote
-  speakers: [3, 6]
   language: en
   complexity: "Intermediate"
-  presentation: ""
-  video: "//"
 -
   id: 104
-  title: "APIfest: From rethinking the competition to a successful hackathon"
-  description: "Lorem ipsum.."
+  title: "Migrando a microservicios"
+  description: "¿Son los microservicios otra 'buzzword' más? ¿Tal vez un remix de SOA para la generación hipster? ¿Son los monolitos algo del pasado?. Esta es la historia de cómo y por qué una aplicación Rails monolítica está siendo separada en servicios por equipos basados en features. En esta charla conocerás los pro y los contra de este enfoque, los problemas resuelve y qué nuevos problemas crea, para saber si es apropiado o no para tus problemas y tu equipo."
   subtype: keynote
-  speakers: [3, 6]
   language: en
   complexity: "Intermediate"
-  presentation: ""
-  video: "//"
 -
   id: 105
-  title: "Cómo escalar un e-commerce con Rails"
-  description: "Lorem ipsum.."
+  title: "Arquitectura de Microservicios: más flexibilidad y productividad en el desarrollo de productos de software"
+  description: "En el desarrollo de produtos de software, es muy importante tener flexibilidad para cambiar o añadir nuevas features. En la medida que se conoce mejor las necesidades del cliente, hacer cambios rápidos y adaptarse a demandas de tus usuários es fundamental para el éxito de un produto. Todavía, si la arquitectura del sistema no permite esta flexibilidad, desarrolladores tardan cada vez más y el software se torna demasiado complejo, tornando caro y retrasando el lanzamiento de nuevas features. Una arquitectura de micro-servicios divide el software em pequeños componentes independientes. Estos componentes son intercambiables, y pueden ser reutilizados muchas veces en el mismo producto, o mismo en productos distintos. Cada módulo del sistema se volve un pequeño problema aislado de la complexidad del sistema como un todo. Cambiar servicios o añadir nuevos servicios se vuelve trivial, resultando en un software flexible, con más calidad y permitiendo más productividad al equipo de desarrollo."
   subtype: keynote
-  speakers: [3, 6]
   language: en
   complexity: "Intermediate"
-  presentation: ""
-  video: "//"
 -
   id: 106
-  title: " ¿Cómo diseñar una API?"
-  description: "Lorem ipsum.."
+  title: "InfoSec for Developers'"
+  description: "InfoSec (Information Security) will introduce some known and lesser-known attack vectors developers should be aware of, how these vectors are exploited (with examples) and methods to mitigate these attacks. The session will also introduce OpSec (operational security), how to mitigate against various attack vectors and practical tools to get started and provide visibility of software systems."
   subtype: keynote
-  speakers: [3, 6]
   language: en
   complexity: "Intermediate"
-  presentation: ""
-  video: "//"
 -
   id: 107
-  title: "Descubre XAMARIN"
-  description: "Lorem ipsum.."
+  title: "How we created this device with a rescue brigade in Mexico"
+  description: "En esta charla conoceremos la historia de cómo un célebre grupo de rescatistas en México incorporaron la tecnología para financiar sus operaciones y salvar vidas."
   subtype: keynote
-  speakers: [3, 6]
   language: en
   complexity: "Intermediate"
-  presentation: ""
-  video: "//"
 -
   id: 108
-  title: "Scaling a Rails application to X Millions"
-  description: "Lorem ipsum.."
+  title: "Development with Docker"
+  description: ""
   subtype: keynote
-  speakers: [3, 6]
   language: en
   complexity: "Intermediate"
-  presentation: ""
-  video: "//"
 -
   id: 109
-  title: "Automating deployments con Python"
-  description: "Lorem ipsum.."
+  title: "API Design"
+  description: ""
   subtype: keynote
-  speakers: [3, 6]
   language: en
   complexity: "Intermediate"
-  presentation: ""
-  video: "//"
+-
+  id: 110
+  title: "Development with Real Time (Websockets)"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 111
+  title: "Javacript: The good and the bad parts"
+  description: "JavaScript is an important language because it is the language of the web browser. Its association with the browser makes it one of the most popular programming languages in the world. At the same time, it is one of the most despised programming languages in the world. The API of the browser, the Document Object Model (DOM) is quite awful, and JavaScript is unfairly blamed.JavaScript is built on some very good ideas and a few very bad ones.The very good ideas include functions, loose typing, dynamic objects, and an expressive object literal notation. The bad ideas include a programming model based on global variables."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 112
+  title: "How to get a job at a startup"
+  description: "My experience in learning how to code, and give advice about getting a job as an engineer at a startup."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 113
+  title: "Presentación nuevo producto de Transbank"
+  description: "Presentación de su nuevo producto"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 114
+  title: "Construir una API con Django y RestFramework"
+  description: "how to use Python to write in no time a fast and powerful API."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 115
+  title: "About developer communities and trends in San Francisco. "
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 116
+  title: "WordPress para prototipado de aplicaciones"
+  description: "Aunque no lo creas, este administrador de contenido hace funcionar 1 de cada 4 sitios en todo Internet. Sin embargo, también lo puedes poner a prueba como una plataforma para desarrollar servicios, como prototipo o incluso como aplicación final. En esta presentación te mostraré por qué tomar una decisión así, las ventajas de usar WordPress sobre algún otro framework, y realizaré un pequeño ejemplo con alguna idea que presenten en la exposición"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 117
+  title: "Entornos virtualizados de testing y QA"
+  description: "Probablemente ya tienes 'el código funciona en mi máquina!' en tu diccionario de excusas. Muchas veces, al publicar nuestro trabajo, nos encontramos con errores que no aparecieron en desarrollo. Antes era carísimo tener una máquina sólo para probar, pero ahora puedes tener cuantas quepan en tu PC. En esta presentación, replicaré un servidor web como máquina virtual; y crearé la configuración para que otros compañeros de trabajo puedan usarlo (mediante Vagrant)"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 118
+  title: "La Naturaleza del Software"
+  description: "Qué significa Desarrollar software y algo de su historia."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 119
+  title: "Internet of Bees (IoB)” or “Using bees as sensors for chemical analyses"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 120
+  title: "La palabra de git"
+  description: "Una charla introductoria a los sistemas de control de versiones (VCS). Aprende lo básico de git a través de una serie de ejemplos de uso real y cómo puedes intregrarlo a tu entorno de trabajo para hacerlo más eficiente."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 121
+  title: "Automotive Security"
+  description: "senior research scientist at Fraunhofer CESE and an assistant adjunct professor at the Computer Science department, University of Maryland. My research areas are: 1) software engineering for high-confidence, embedded systems with a focus on medical devices 2) medical device security and 3) social media data analytics."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 122
+  title: "The Impact of Data Visualisation"
+  description: "Hoy en día es más sencillo visualizar y presentar conjuntos complejos de datos gracias su creciente abundancia y omnipresencia. Presentaremos ejemplos y discutiremos la relevancia de la visualización de datos y los problemas que se pueden resolver gracias a ella. Estudiaremos distintos tipos de proyectos que se pueden desarrollar usando como herramienta la visualización de datos, desde análisis de datos hasta instalaciones artísticas."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 123
+  title: "El programador pragmático: Desarrolla tus herramientas"
+  description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta charla presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 124
+  title: "Parkinson, Brooks, Lisp y Unix: Lecciones del siglo pasado para los devs de hoy"
+  description:  "Se trata de rescatar sabiduría de (literalmente) el siglo pasado y aplicarla a nuestro día a día. Cosas de The Mythical Man Month (1975), Parkinson's Law (1958), lecciones de la comunidad Unix y Lisp, etc (muchas de las cuales son redescubiertas cada cierto tiempo por cada generación)."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 125
+  title: "Privacy and Security"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 126
+  title: "MVC (Model-View-Controller)"
+  description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta charla presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 127
+  title: "Intro to MoongoDB &/or NoSQL"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 128
+  title: " Internet of Things (Vessel.io)"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 129
+  title: "EC2: Cómputo en la Nube"
+  description: "Amazon Summit"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 130
+  title: "Seguridad en la nube de AWS"
+  description: "Amazon Summit"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 131
+  title: "Almacenamiento y respaldos en la nube de AWS"
+  description: "Amazon Summit"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 132
+  title: "Bases de Datos en AWS"
+  description: "Amazon Summit"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 133
+  title: "Aplicaciones Móviles en AWS"
+  description: "Amazon Summit"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 134
+  title: "Big Data en AWS"
+  description: "Amazon Summit"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 135
+  title: "Microsoft"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 136
+  title: "Introduction to agile"
+  description: "Introduction to Agile, Principles of Agile, The people in volved, Product Manager vs. Product Owner, Release vs. Sprint vs. Iteration, Product Backlog vs. Sprint Backlog, Agile Reports, Agile Solution Providers"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 137
+  title: "Hardware IoT friendly..."
+  description: "Alternativas sobre placas de desarrollo, comparaciones, ventajas, algo de sensores, etc"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 138
+  title: "¿Qué es IOT? ¿Qué tener en cuenta al hacer un producto?"
+  description: "Muchas veces nos preguntamos que es Internet of Things, y por qué ahora es un boom. En esta charla vamos a tratar de entender algunos conceptos básicos, y desmentir algunos otros para poder saber que tener en cuenta al momento de desarrollar un producto que sea para IOT."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 139
+  title: "¿Por qué importan los tipos?"
+  description: "Los lenguajes de programación dinámicos frecuentemente abandonan las ventajas de el chequeo de tipos estático -que ayuda a descubrir muchos errores comunes en tiempo de compilación- en favor de la conveniencia y la flexibilidad que los caracteriza."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 140
+  title: "Data Scientist, the sexiest job of the 21 century"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 141
+  title: "Deployments múltiples con Docker"
+  description: "Mostraremos como acelerar y simplificar la configuración y deployments de tus aplicaciones usando Docker containers, con ejemplos prácticos y casos reales sobre como estamos usando está poderosa tecnología en el Observatorio ALMA."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 142
+  title: "Oportunidades de innovación en el Estado"
+  description: "Diversos instrumentos que existen en el estado para crear herramientas y plataformas innovativas que ayuden a mejorar la vida de los ciudadanos."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 143
+  title: "UX y diseño de Interacción: Introducción a UX para desarrolladores"
+  description: "¿Qué son UX, diseño de interacción y diseño centrado en el usuario? ¿Cómo impactan en el proceso de desarrollo y en el producto final? ¿Es posible un punto de encuentro y lenguaje común entre diseño y desarrollo? En la charla se presenta un caso hipotético de creación de una aplicación en la que se repiten algunos de los problemas comunes a los que enfrentan diseñadores, programadores y emprendedores. Se muestra cómo se resolvería el mismo encargo desde una visión de UX que integra tecnología, diseño y negocio, exponiendo las diferencias de criterio y proceso, y la aplicación de un modelo cuantificado para comparar los resultados y lograr calidad."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 144
+  title: "UX y Metodologías Agiles: diseñando sin desperdicio"
+  description: "¿Qué problemas vienen a resolver las metodologías ágiles? ¿Cómo lo logran? ¿Cómo integrar diseño y desarrollo en este marco? Proyectos que se vuelven interminables, clientes insatisfechos y productos finales con los que el equipo no se siente orgulloso, son problemas comunes a muchos proyectos de diseño y desarrollo. Esta presentación introduce conceptos fundamentales para que diseñadores y desarrolladores puedan lograr mejores resultados, y expone un caso real de aplicación de sus principios."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 145
+  title: "User Experience Touch vs. Ouch: UX para dispositivos móviles"
+  description: "Además de desafíos técnicos particulares, el desarrollo de software para dispositivos táctiles y móviles requiere satisfacer necesidades y contextos de uso muy diferentes a las que se dan en entornos de escritorio. Conocer estas dimensiones es esencial para lograr software que los usuarios finales puedan realmente aprovechar y valorar. Esta presentación muestra el proceso de diseño y desarrollo centrado en el usuario necesario para lograrlo, del cual las guías oficiales de diseño de interfaces para cada plataforma resultan sólo la punta del iceberg."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 146
+  title: "QA automático con Selenium"
+  description: "Comenzaremos viendo en qué consiste la automatización de QA, en particular pruebas funcionales; luego mostraremos cómo implementar utilizando selenium; para finalmente mostrar un mini-framework desarrollado por el expositor que simplifica todo este proceso."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 147
+  title: "Hacia la integración de pagos que queremos."
+  description: "Los desarrolladores siempre soñamos en integrarnos con sistemas externos a la primera, en esta charla exploraremos como lo podemos lograr sin depender de un tercero."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 148
+  title: "Mi experiencia con transbank"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 149
+  title: "Técnicas para la toma de requerimientos"
+  description: "Todo proyecto, por pequeño que sea, comienza con una toma de requerimientos. Lo que se logre entender en esta etapa será la base de la construcción del proyecto hasta su término, por lo que esta fase se convierte en algo crítico y fundamental. Esta exposición apunta a entregar técnicas aplicables en entornos reales para realizar una toma de requerimientos efectiva y que estos -y sus consecuencias- sean entendidos por ambas partes (cliente y prestador de servicios), quedando ambas expectativas alineadas y en sintonía. Enfocado a personas que tienen (o buscan) participación en proyectos TI, ya sea como clientes o como prestadores de servicios."
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 150
+  title: "Desarrollo (De Software) Móvil"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 151
+  title: "Guía definitiva para unirse al lado oscuro, emprender y levantar dinero siendo un programador."
+  description: "Quién dijo que un programador no puede emprender ?.Esta charla fue pensada para entregarte los tips que necesitas para sacar el máximo provecho a tu KI de programador, sepas en que lugares buscar fondos y como lidiar con los SoT ('Smoker of things' también conocidos como  'Ingenieros Comerciales')"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+-
+  id: 152
+  title: "Discovering supernova with Python*"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
 -
   id: 201
-  title: "Transbank (como integrarse al portal de pagos)"
-  description: ""
+  title: "Arduinos"
+  description: "En este taller se abordaran algunas temáticas  básicas que permiten desarrollar prototipos de manera fácil y rápida con Arduino. Los participantes verán algunos circuitos en donde se utilizarán las formas analógicas y digitales de entrada y salida, monitoreo y control vía comunicación serial, etc. Conocerán el entorno de programación de Arduino, en donde visualizarán de manera simple la programación de controles ON-OFF, salidas PWM, lectura de sensores analógicos para la medición de diversas variables físicas del entorno, etc."
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
 -
   id: 202
-  title: "How to use Arduinos"
-  description: ""
+  title: "ECMAScript 2015"
+  description: "Conoce lo nuevo de Javascript con su nuevo estándar ECMAScript 2015, aprenderás las novedades que incluye la nueva versión, cuáles son sus ventajas y cómo podrás sacarle provecho desde hoy en tus aplicaciones utilizando BabelJS.Los participantes deben tener node.js instalado en su equipo, no requiere experiencia previa en node.js, pero sí conocimientos básicos en JavaScript."
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
 -
   id: 203
-  title: "How to use Rasberi pi"
-  description: ""
+  title: "Creating interactive Maps with D3"
+  description: "Los participantes deben tener conocimiento basicos de JavaScript."
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
 -
   id: 204
-  title: "ECMAScript 2015"
-  description: ""
+  title: "Introduction to Data Visualisation with D3"
+  description: "Los participantes deben tener conocimientos básicos de JavaScript."
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
 -
   id: 205
-  title: "Creating interactive Maps with D3"
-  description: ""
+  title: "Omnipresent Javascript"
+  description: "Los participantes deben tener experiencia con JavaScript/node.js, y GIT."
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
 -
   id: 206
-  title: "Introduction to Data Visualisation with D3"
-  description: ""
+  title: "Introducción a iOS con Objective-C"
+  description: "Introducción a iOS con Objective-C: en 2 horas se aprenderá a hacer una ToDo app utilizando el lenguaje de programación Objective-C en donde se verán una de las estructuras básicas dentro de una app de iOS, las tablas. Se enseñará como programarlo y editar la forma en como se ve. Además veremos como agregar, editar y eliminar objetos dentro de la tabla."
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
 -
   id: 207
-  title: "Desarrolla tu próxima aplicacion en AngularJs"
-  description: ""
+  title: "Como desarrollar una aplicación web en Django en 120 minutos"
+  description: "Introducción a Django (Web Framework hecho en Python): en 2 horas aprenderás como hacer una aplicación web completa de 0 hasta el deploy. Para tomar máximo provecho de esta charla, deberías de tener Python 2.7.* y Pip ya instalados en tu maquina, y tener un breve conocimiento de Python."
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
 -
   id: 208
-  title: "Omnipresent Javascript"
-  description: ""
+  title: "Notify, notificaciones en tiempo real para 6 millones de dispositivos"
+  description: "Prey ha presentado interesantes problemas de escalabilidad desde sus inicios dada la naturaleza del servicio. Hoy contamos con más de 10 millones de dispositivos registrados. ¿Cómo entregar notificaciones en tiempo real para todos esos dispositivos? Generalmente partiríamos con polling de forma periódica, solamente hasta que nos damos cuenta de que nuestros clientes nos atacan como si fuera un DDoS. En esta presentación mostraremos las ventajas y desventajas de polling como mecanismo de notificación y presentamos un nuevo sistema de notificaciones que permite notificar a cualquier dispositivo de Prey en menos de 1 segundo."
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
 -
   id: 209
-  title: "Swift for Objective-C developers"
-  description: ""
+  title: "Implementando Scrum y que funcione (TEAM_WORK != DEV_WORK)"
+  description: "Una de las características principales del desarrollo de software es la entrega de soluciones de calidad. Asegurar que el producto entregado cumpla con los principios de calidad del cliente es parte de un eterno debate y experimentación. 'Así no lo quería', 'en verdad no lo necesito', 'aquí hay nuevos requerimientos' son solo algunas de las frases que generalmente nos causan recelo y molestia. Después de años de experimentación aplicamos Scrum y nos dimos cuenta del secreto para una implementación exitosa: disciplina. En este workshop relataremos nuestra experiencia y compartiremos tips que deberían ayudarte a implementar Scrum en tu equipo de trabajo."
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
 -
-  id: 301
-  title: "Los desafíos del transporte en Santiago: UOCT"
+  id: 210
+  title: "Cómo utilizar el nuevo producto de transbank"
   description: ""
   subtype: workshop
   speakers: [4]
   language: en
   complexity: "Intermediate"
-  presentation: ""
+-
+  id: 211
+  title: "Aprender a programar en Angular con Coder house"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 212
+  title: "Como fracasar en un proyecto de desarrollo"
+  description: "Hemos construido empresas que solucionaban varios problemas desde un punto de vista informatico y hemos fracasado. La idea de esta charla es mostrar que tan fácil es hacer fracasar una buena idea"
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 213
+  title: "Mastering Grunt"
+  description: "A deep dive into the core concepts of Grunt JS"
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 214
+  title: "MVC"
+  description: "La actividad consistira en ver como crear un blog, aplicando la arquitectura de diseño Modelo Vista Controlador. Se trabajara con PHP mas un framweok liviano Code Igniter, como agregado usaremos Boostrap 3. El objetivo es ir construyendo el sitio web paso a paso,  desglosando cada concepto para entender el rol que debe cumpli cada ente esto es que debe hacer un modelo, lo que debe hacer el controlador y lo que debe hacer la vista."
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 215
+  title: "Crea tu primera startup con Ruby on Rails desde cero"
+  description: "Eres programador y quieres tener tu propia startup ?. Este es un taller en el que abarcaremos algunas cosas de lenguaje Ruby y les ayudaré a armar su primera aplicación en Ruby on Rails. A lo largo de este taller aprenderás: Nociones de Ruby, Nociones de Rails, Creación de modelos, controladores y vistas, Agregaremos bootstrap, Agregaremos Autenticación a la aplicación, Login con Facebook."
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 216
+  title: "Crea tu primera startup con Ruby on Rails desde cero"
+  description: "Eres programador y quieres tener tu propia startup ?. Este es un taller en el que abarcaremos algunas cosas de lenguaje Ruby y les ayudaré a armar su primera aplicación en Ruby on Rails. A lo largo de este taller aprenderás: Nociones de Ruby, Nociones de Rails, Creación de modelos, controladores y vistas, Agregaremos bootstrap, Agregaremos Autenticación a la aplicación, Login con Facebook."
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
 -
   id: 500
   title: "Estamos actualizando el programa, pronto el programa completo. [+100 Keynotes +20 workshops +3 Hackathons]"
