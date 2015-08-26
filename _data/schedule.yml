@@ -1,6 +1,6 @@
 -
   date: "2015-09-04"
-  dateReadable: "Septiembre 4 y 5 / 2015"
+  dateReadable: "Septiembre 4"
   tracks:
     - {title: "Keynotes", color: "#90be4e"}
     - {title: "Workshops", color: "#03a9f4"}
@@ -271,3 +271,27 @@
     	endTime: "",
     	sessionIds: [152, 0 ]
     }
+
+-
+  date: "2015-09-05"
+  dateReadable: "Septiembre 5"
+  tracks:
+    - {title: "Keynotes", color: "#90be4e"}
+    - {title: "Workshops", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [101, 201]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [102]
+    }
+    - {
+    	startTime: "-",
+    	endTime: "",
+    	sessionIds: [103, 0]
+    }
+    
