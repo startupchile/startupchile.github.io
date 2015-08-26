@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/", text: "Inicio"}
  # - {permalink: "/about", text: "Conferencia"}
  - {permalink: "/schedule", text: "Programa"}
- # - {permalink: "/speakers", text: "Speakers"}
+ - {permalink: "/speakers", text: "Speakers"}
  # - {permalink: "/hackathon", text: "Hackathon"}
 
 bottomNavigationLinks:
@@ -75,9 +75,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "72.6", specialCharacter: "+", info: "hours", detail: "of digital knowledge"}
+ - {count: "72", specialCharacter: "+", info: "hours", detail: "of digital knowledge"}
  - {count: "76", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "32", specialCharacter: "", info: "talks", detail: "plus entertainment lounge"}
+ - {count: "32", specialCharacter: "", info: "talks", detail: "on latest technologies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -110,8 +110,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Universidad San Sebastián"
+venueFeatures: ["3 huge halls", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
