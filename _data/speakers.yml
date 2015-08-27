@@ -49,7 +49,7 @@
   company: "Start-Up Chile"
   title: "Lead developer"
   bio: ""
-  thumbnailUrl: nelson.jpg
+  thumbnailUrl: nelson_jimenezz.png
   rockstar: true
   social: 
     - {name: "twitter", link: "https://www.twitter.com/_patojimenez"}
@@ -79,13 +79,13 @@
     - {name: "site", link: "http://olostan.name/"}
 -
   id: 9
-  name: "Nicolas"
-  surname: "Fernandez"
+  name: "Nicolás"
+  surname: "Fernández"
   company: "SantiagoLab"
   title: "CTO/CPO"
-  bio: ""
+  bio: "Nicolas '@elBurabure' Fernandez, CTO/CPO de SantiagoLab, es un amante de JavaScript, Haskell, UX, DX y la programación funcional y declarativa. Forma parte de el equipo de Noders y uno de los hosts de NodersCast, el podcast oficial de misma comunidad"
   thumbnailUrl: nicolas_fernandez.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/leosoto"}
     - {name: "site", link: "http://olostan.name/"}
@@ -138,12 +138,12 @@
   name: "Fernando"
   surname: "Larrañaga"
   company: "Grupon"
-  title: "Backend"
-  bio: ""
-  thumbnailUrl: doge.jpg
-  rockstar: false
+  title: "Software Engineer"
+  bio: "Ingeniero Informático, especializado en desarrollo de proyectos en plataformas Web y móviles. Más de 10 años de experiencia en desarrollo Web y móvil, con metodologías enfocadas a la usabilidad y accesibilidad de los usuarios finales. Adicionalmente, desarrollando aplicaciones y herramientas basadas en tecnologías Web desde 2005, con un fuerte enfoque a la asistencia desde el inicio al final de cada proyecto."
+  thumbnailUrl: fernando_larragana.jpg
+  rockstar: true
   social: 
-    - {name: "twitter", link: "https://www.twitter.com/#"}
+    - {name: "twitter", link: "https://www.twitter.com/xabadu"}
 -
   id: 16
   name: "Raúl"
@@ -170,10 +170,10 @@
   id: 21
   name: "Juan"
   surname: "Correa"
-  company: ""
-  title: "CTO"
-  bio: ""
-  thumbnailUrl: doge.jpg
+  company: "Grupo el Mercurio"
+  title: "Programador"
+  bio: "Buena onda, hasta que se cae Internet. Trabajando para Medios Regionales (Grupo El Mercurio)"
+  thumbnailUrl: juan_correa.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "https://www.twitter.com/pottersys"}
@@ -247,7 +247,7 @@
   id: 28
   name: "Eduardo"
   surname: "Diaz"
-  company: ""
+  company: "Chile Ágil"
   title: ""
   bio: ""
   thumbnailUrl: eduardodiaz.png
@@ -280,10 +280,10 @@
   id: 31
   name: "Pedro"
   surname: "Israel"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: doge.jpg
+  company: "Fluor.io"
+  title: "Entrepreneur"
+  bio: "Entrepreneur that enjoys developing businesses and great software. Worked at Accenture, developing complex software for steel plants and mining industries. Graduated in Computer Science at UFMG (Brazil), Masters in Industrial Management by the consortium of Politecnica de Madrid (Spain), Polimi (Italy) and Royal Institute of Technology (Sweden). Specialized in Business and IT at the University of Melbourne (Australia) and in Marketing and Sales Management at ESIC (Spain)."
+  thumbnailUrl: pedro_israel.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "https://www.twitter.com/#" }

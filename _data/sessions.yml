@@ -1,10 +1,11 @@
 -
   id: 101
   title: "Exorcisando tu código asincrónico"
-  description: " El codigo asincrono es dificil de entender, los calbacks dentro de callbacks penan entre el bosque de archivos del proyecto, los bugs se esconden detras de cada nesteo de tu codigo. Ven y aprende un par de patrones poderosos para exorcisar tu codigo asincrono con Promesas, generadores y Async/Await"
+  description: "El codigo asincrono es dificil de entender, los calbacks dentro de callbacks penan entre el bosque de archivos del proyecto, los bugs se esconden detras de cada nesteo de tu codigo. Ven y aprende un par de patrones poderosos para exorcisar tu codigo asincrono con Promesas, generadores y Async/Await"
   subtype: keynote
   language: en
   complexity: "Intermediate"
+  speakers: [9]
 -
   id: 102
   title: "Escalar un e-commerce con Rails"
@@ -17,15 +18,15 @@
   id: 103
   title: "Ginga, El middleware opensource que revolucionará la televisión digital en Chile."
   description: "Qué es y como se desarrolla la televisión digital, las nuevas ventajas con el uso del middleware y como Ginga es el middleware que ha revolucionado los distintos tipos de normas de televisión digital. Aplicaciones, como se distribuyen, y pasos para crear su propia aplicación, fuentes, instalaciones y ejemplos de algunas aplicaciones. Alcance a las distintas verticales que se pueden lograr, dando como ejemplo uno de mis papers publicados en webmedia 2011 Florianapolis Brasil. "
-  subtype: charla
+  subtype: keynote
   language: en
   complexity: "Intermedio"
   speakers: [17]
 -
   id: 104
   title: "Migrando a microservicios (HANGOUT)"
-  description: "¿Son los microservicios otra 'buzzword' más? ¿Tal vez un remix de SOA para la generación hipster? ¿Son los monolitos algo del pasado?. Esta es la historia de cómo y por qué una aplicación Rails monolítica está siendo separada en servicios por equipos basados en features. En esta charla conocerás los pro y los contra de este enfoque, los problemas resuelve y qué nuevos problemas crea, para saber si es apropiado o no para tus problemas y tu equipo."
-  subtype: charla
+  description: "¿Son los microservicios otra 'buzzword' más? ¿Tal vez un remix de SOA para la generación hipster? ¿Son los monolitos algo del pasado?. Esta es la historia de cómo y por qué una aplicación Rails monolítica está siendo separada en servicios por equipos basados en features. En esta keynote conocerás los pro y los contra de este enfoque, los problemas resuelve y qué nuevos problemas crea, para saber si es apropiado o no para tus problemas y tu equipo."
+  subtype: keynote
   language: es
   complexity: "Intermedio"
   speakers: [18]
@@ -38,15 +39,16 @@
   complexity: "Intermediate"
 -
   id: 106
-  title: "InfoSec for Developers'"
+  title: "InfoSec for Developers"
   description: "InfoSec (Information Security) will introduce some known and lesser-known attack vectors developers should be aware of, how these vectors are exploited (with examples) and methods to mitigate these attacks. The session will also introduce OpSec (operational security), how to mitigate against various attack vectors and practical tools to get started and provide visibility of software systems."
-  subtype: charla
+  subtype: keynote
   language: es
   complexity: "Avanzando"
+  speakers: [25]
 -
   id: 107
   title: "How we created this device with a rescue brigade in Mexico"
-  description: "En esta charla conoceremos la historia de cómo un célebre grupo de rescatistas en México incorporaron la tecnología para financiar sus operaciones y salvar vidas."
+  description: "En esta keynote conoceremos la historia de cómo un célebre grupo de rescatistas en México incorporaron la tecnología para financiar sus operaciones y salvar vidas."
   subtype: keynote
   language: en
   complexity: "Intermediate"
@@ -75,7 +77,7 @@
   id: 111
   title: "Javacript: The good and the bad parts"
   description: "JavaScript is an important language because it is the language of the web browser. Its association with the browser makes it one of the most popular programming languages in the world. At the same time, it is one of the most despised programming languages in the world. The API of the browser, the Document Object Model (DOM) is quite awful, and JavaScript is unfairly blamed.JavaScript is built on some very good ideas and a few very bad ones.The very good ideas include functions, loose typing, dynamic objects, and an expressive object literal notation. The bad ideas include a programming model based on global variables."
-  subtype: charla
+  subtype: keynote
   language: en
   complexity: "Intermedio"
   speakers: [23]
@@ -83,7 +85,7 @@
   id: 112
   title: "How to get a job at a startup"
   description: "My experience in learning how to code, and give advice about getting a job as an engineer at a startup."
-  subtype: charla
+  subtype: keynote
   language: en
   complexity: "Fácil"
   speakers: [24]
@@ -112,7 +114,7 @@
   id: 116
   title: "WordPress para prototipado de aplicaciones"
   description: "Aunque no lo creas, este administrador de contenido hace funcionar 1 de cada 4 sitios en todo Internet. Sin embargo, también lo puedes poner a prueba como una plataforma para desarrollar servicios, como prototipo o incluso como aplicación final. En esta presentación te mostraré por qué tomar una decisión así, las ventajas de usar WordPress sobre algún otro framework, y realizaré un pequeño ejemplo con alguna idea que presenten en la exposición"
-  subtype: charla
+  subtype: keynote
   language: es
   complexity: "Intermedio"
   speakers: [21]
@@ -127,7 +129,7 @@
   id: 118
   title: "La Naturaleza del Software"
   description: "Qué significa Desarrollar software y algo de su historia."
-  subtype: charla
+  subtype: keynote
   speakers: [28]
   language: es
   complexity: "Fácil"
@@ -141,7 +143,7 @@
 -
   id: 120
   title: "La palabra de git"
-  description: "Una charla introductoria a los sistemas de control de versiones (VCS). Aprende lo básico de git a través de una serie de ejemplos de uso real y cómo puedes intregrarlo a tu entorno de trabajo para hacerlo más eficiente."
+  description: "Una keynote introductoria a los sistemas de control de versiones (VCS). Aprende lo básico de git a través de una serie de ejemplos de uso real y cómo puedes intregrarlo a tu entorno de trabajo para hacerlo más eficiente."
   subtype: keynote
   speakers: [2]
   language: es
@@ -157,14 +159,14 @@
   id: 122
   title: "The Impact of Data Visualisation"
   description: "Hoy en día es más sencillo visualizar y presentar conjuntos complejos de datos gracias su creciente abundancia y omnipresencia. Presentaremos ejemplos y discutiremos la relevancia de la visualización de datos y los problemas que se pueden resolver gracias a ella. Estudiaremos distintos tipos de proyectos que se pueden desarrollar usando como herramienta la visualización de datos, desde análisis de datos hasta instalaciones artísticas."
-  subtype: charla
+  subtype: keynote
   language: es
   complexity: "Intermedio"
   speakers: [13]
 -
   id: 123
   title: "El programador pragmático: Desarrolla tus herramientas"
-  description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta charla presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
+  description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta keynote presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
   subtype: keynote
   language: en
   complexity: "Intermediate"
@@ -172,7 +174,7 @@
   id: 124
   title: "Parkinson, Brooks, Lisp y Unix: Lecciones del siglo pasado para los devs de hoy"
   description:  "Se trata de rescatar sabiduría de (literalmente) el siglo pasado y aplicarla a nuestro día a día. Cosas de The Mythical Man Month (1975), Parkinson's Law (1958), lecciones de la comunidad Unix y Lisp, etc (muchas de las cuales son redescubiertas cada cierto tiempo por cada generación)."
-  subtype: charla
+  subtype: keynote
   speakers: [7]
   language: es
   complexity: "Intermediate"
@@ -187,7 +189,7 @@
 -
   id: 126
   title: "MVC (Model-View-Controller)"
-  description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta charla presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
+  description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta keynote presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
   subtype: keynote
   language: en
   complexity: "Intermediate"
@@ -271,8 +273,8 @@
 -
   id: 138
   title: "¿Qué es IOT? ¿Qué tener en cuenta al hacer un producto?"
-  description: "Muchas veces nos preguntamos que es Internet of Things, y por qué ahora es un boom. En esta charla vamos a tratar de entender algunos conceptos básicos, y desmentir algunos otros para poder saber que tener en cuenta al momento de desarrollar un producto que sea para IOT."
-  subtype: charla
+  description: "Muchas veces nos preguntamos que es Internet of Things, y por qué ahora es un boom. En esta keynote vamos a tratar de entender algunos conceptos básicos, y desmentir algunos otros para poder saber que tener en cuenta al momento de desarrollar un producto que sea para IOT."
+  subtype: keynote
   language: es
   complexity: "Fácil"
   speakers: [41]
@@ -294,7 +296,7 @@
   id: 141
   title: "Deployments múltiples con Docker"
   description: "Mostraremos como acelerar y simplificar la configuración y deployments de tus aplicaciones usando Docker containers, con ejemplos prácticos y casos reales sobre como estamos usando está poderosa tecnología en el Observatorio ALMA."
-  subtype: keynote
+  subtype: workshop
   language: es
   speakers: [34]
   complexity: "Intermedio"
@@ -308,8 +310,8 @@
 -
   id: 143
   title: "UX y diseño de Interacción: Introducción a UX para desarrolladores"
-  description: "¿Qué son UX, diseño de interacción y diseño centrado en el usuario? ¿Cómo impactan en el proceso de desarrollo y en el producto final? ¿Es posible un punto de encuentro y lenguaje común entre diseño y desarrollo? En la charla se presenta un caso hipotético de creación de una aplicación en la que se repiten algunos de los problemas comunes a los que enfrentan diseñadores, programadores y emprendedores. Se muestra cómo se resolvería el mismo encargo desde una visión de UX que integra tecnología, diseño y negocio, exponiendo las diferencias de criterio y proceso, y la aplicación de un modelo cuantificado para comparar los resultados y lograr calidad."
-  subtype: charla
+  description: "¿Qué son UX, diseño de interacción y diseño centrado en el usuario? ¿Cómo impactan en el proceso de desarrollo y en el producto final? ¿Es posible un punto de encuentro y lenguaje común entre diseño y desarrollo? En la keynote se presenta un caso hipotético de creación de una aplicación en la que se repiten algunos de los problemas comunes a los que enfrentan diseñadores, programadores y emprendedores. Se muestra cómo se resolvería el mismo encargo desde una visión de UX que integra tecnología, diseño y negocio, exponiendo las diferencias de criterio y proceso, y la aplicación de un modelo cuantificado para comparar los resultados y lograr calidad."
+  subtype: keynote
   language: es
   complexity: "Fácil"
   speakers: [33]
@@ -324,7 +326,7 @@
   id: 145
   title: "User Experience Touch vs. Ouch: UX para dispositivos móviles"
   description: "Además de desafíos técnicos particulares, el desarrollo de software para dispositivos táctiles y móviles requiere satisfacer necesidades y contextos de uso muy diferentes a las que se dan en entornos de escritorio. Conocer estas dimensiones es esencial para lograr software que los usuarios finales puedan realmente aprovechar y valorar. Esta presentación muestra el proceso de diseño y desarrollo centrado en el usuario necesario para lograrlo, del cual las guías oficiales de diseño de interfaces para cada plataforma resultan sólo la punta del iceberg."
-  subtype: charla
+  subtype: keynote
   language: es
   complexity: "Intermedio"
   speakers: [33]
@@ -332,14 +334,14 @@
   id: 146
   title: "QA automático con Selenium"
   description: "Comenzaremos viendo en qué consiste la automatización de QA, en particular pruebas funcionales; luego mostraremos cómo implementar utilizando selenium; para finalmente mostrar un mini-framework desarrollado por el expositor que simplifica todo este proceso."
-  subtype: charla
+  subtype: keynote
   language: es
   complexity: "Intermedio"
   speakers: [30]
 -
   id: 147
   title: "Hacia la integración de pagos que queremos."
-  description: "Los desarrolladores siempre soñamos en integrarnos con sistemas externos a la primera, en esta charla exploraremos como lo podemos lograr sin depender de un tercero."
+  description: "Los desarrolladores siempre soñamos en integrarnos con sistemas externos a la primera, en esta keynote exploraremos como lo podemos lograr sin depender de un tercero."
   subtype: keynote
   language: en
   complexity: "Intermediate"
@@ -367,24 +369,17 @@
 -
   id: 151
   title: "Guía definitiva para unirse al lado oscuro, emprender y levantar dinero siendo un programador."
-  description: "Quién dijo que un programador no puede emprender ?.Esta charla fue pensada para entregarte los tips que necesitas para sacar el máximo provecho a tu KI de programador, sepas en que lugares buscar fondos y como lidiar con los SoT ('Smoker of things' también conocidos como  'Ingenieros Comerciales')"
-  subtype: charla
+  description: "Quién dijo que un programador no puede emprender ?.Esta keynote fue pensada para entregarte los tips que necesitas para sacar el máximo provecho a tu KI de programador, sepas en que lugares buscar fondos y como lidiar con los SoT ('Smoker of things' también conocidos como  'Ingenieros Comerciales')"
+  subtype: keynote
   language: es
   complexity: "Fácil"
   speakers: [20]
+
 -
   id: 152
   title: "Discovering supernova with Python*"
   description: ""
   subtype: keynote
-  language: en
-  complexity: "Intermediate"
--
-  id: 201
-  title: "Arduinos"
-  description: "En este taller se abordaran algunas temáticas  básicas que permiten desarrollar prototipos de manera fácil y rápida con Arduino. Los participantes verán algunos circuitos en donde se utilizarán las formas analógicas y digitales de entrada y salida, monitoreo y control vía comunicación serial, etc. Conocerán el entorno de programación de Arduino, en donde visualizarán de manera simple la programación de controles ON-OFF, salidas PWM, lectura de sensores analógicos para la medición de diversas variables físicas del entorno, etc."
-  subtype: workshop
-  speakers: [4]
   language: en
   complexity: "Intermediate"
 -
@@ -404,14 +399,6 @@
   language: es
   complexity: "Fácil"
 -
-  id: 204
-  title: "Introduction to Data Visualisation with D3"
-  description: "Los participantes deben tener conocimientos básicos de JavaScript."
-  subtype: workshop
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
--
   id: 205
   title: "Omnipresent Javascript"
   description: "Los participantes deben tener experiencia con JavaScript/node.js, y GIT."
@@ -430,7 +417,7 @@
 -
   id: 207
   title: "Como desarrollar una aplicación web en Django en 120 minutos"
-  description: "Introducción a Django (Web Framework hecho en Python): en 2 horas aprenderás como hacer una aplicación web completa de 0 hasta el deploy. Para tomar máximo provecho de esta charla, deberías de tener Python 2.7.* y Pip ya instalados en tu maquina, y tener un breve conocimiento de Python."
+  description: "Introducción a Django (Web Framework hecho en Python): en 2 horas aprenderás como hacer una aplicación web completa de 0 hasta el deploy. Para tomar máximo provecho de esta keynote, deberías de tener Python 2.7.* y Pip ya instalados en tu maquina, y tener un breve conocimiento de Python."
   subtype: workshop
   speakers: [10]
   language: es
@@ -447,7 +434,7 @@
   id: 209
   title: "Scrum en el mundo real: o cómo hacer para que funcione"
   description: "Una de las características principales del desarrollo de software es la entrega de soluciones de calidad. Asegurar que el producto entregado cumpla con los principios de calidad del cliente es parte de un eterno debate y experimentación. 'Así no lo quería', 'en verdad no lo necesito', 'aquí hay nuevos requerimientos' son solo algunas de las frases que generalmente nos causan recelo y molestia. Después de años de experimentación aplicamos Scrum y nos dimos cuenta del secreto para una implementación exitosa: disciplina. En este workshop relataremos nuestra experiencia y compartiremos tips que deberían ayudarte a implementar Scrum en tu equipo de trabajo."
-  subtype: workshop
+  subtype: keynote
   speakers: [11]
   language: en
   complexity: "Intermediate"
@@ -470,8 +457,8 @@
 -
   id: 212
   title: "Como fracasar en un proyecto de desarrollo"
-  description: "Hemos construido empresas que solucionaban varios problemas desde un punto de vista informatico y hemos fracasado. La idea de esta charla es mostrar que tan fácil es hacer fracasar una buena idea"
-  subtype: charla
+  description: "Hemos construido empresas que solucionaban varios problemas desde un punto de vista informatico y hemos fracasado. La idea de esta keynote es mostrar que tan fácil es hacer fracasar una buena idea"
+  subtype: keynote
   speakers: [4]
   language: en
   complexity: "Fácil"
@@ -511,7 +498,7 @@
   id: 217
   title: "Innovación en la Escala de AWS"
   description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube."
-  subtype: charla
+  subtype: sala250
   speakers: [1]
   language: es
   complexity: "Intermediate"
@@ -519,15 +506,15 @@
   id: 218
   title: "El Tercer Por qué"
   description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube."
-  subtype: charla
+  subtype: keynote
   speakers: [1]
   language: es
   complexity: "Fácil"
 -
   id: 219
   title: "Why Types Matter (HANGOUT)"
-  description: "Los lenguajes de programación dinámicos frecuentemente abandonan las ventajas de el chequeo de tipos estático que ayuda a descubrir muchos errores comunes en tiempo de compilación en favor de la conveniencia y la flexibilidad que los caracteriza. Una tendencia reciente es tratar de combinar las ventajas de ambos tipos de lenguajes en los llamados sistemas de tipos opcionales que agregan chequeos de tipos estáticos a los lenguajes dinámicos mientras se preservan las convenciones y estilos propios de los lenguajes. En esta charla haremos una introducción a los sistemas de tipos, exploraremos sus características, ventajas y desventajas y como se reconcilian las diferencias en los sistemas de tipos opcionales. También veremos algunos ejemplos notables de lenguajes con sistemas de tipos opcionales como TypeScript de Microsoft, Flow y Hack de Facebook y Dart de Google."
-  subtype: charla
+  description: "Los lenguajes de programación dinámicos frecuentemente abandonan las ventajas de el chequeo de tipos estático que ayuda a descubrir muchos errores comunes en tiempo de compilación en favor de la conveniencia y la flexibilidad que los caracteriza. Una tendencia reciente es tratar de combinar las ventajas de ambos tipos de lenguajes en los llamados sistemas de tipos opcionales que agregan chequeos de tipos estáticos a los lenguajes dinámicos mientras se preservan las convenciones y estilos propios de los lenguajes. En esta keynote haremos una introducción a los sistemas de tipos, exploraremos sus características, ventajas y desventajas y como se reconcilian las diferencias en los sistemas de tipos opcionales. También veremos algunos ejemplos notables de lenguajes con sistemas de tipos opcionales como TypeScript de Microsoft, Flow y Hack de Facebook y Dart de Google."
+  subtype: keynote
   speakers: [43]
   language: es
   complexity: "Intermedio"
