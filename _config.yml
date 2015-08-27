@@ -46,6 +46,7 @@ navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/schedule", text: "Programa"}
  - {permalink: "/speakers", text: "Speakers"}
+ # - {permalink: "/hackathon", text: "Hackathon"}
 
 bottomNavigationLinks:
  - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
@@ -72,10 +73,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "1000", specialCharacter: "+", info: "Participantes", detail: "De todas partes de Chile"}
+ - {count: "72", specialCharacter: "+", info: "Horas", detail: "de conocimiento digital"}
+ - {count: "76", specialCharacter: "+", info: "Charlistas", detail: "de Chile y el mundo"}
+ - {count: "32", specialCharacter: "", info: "Talleres", detail: "de las tecnologías que se usan en el mundo"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -108,8 +109,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Universidad San Sebastián"
+venueFeatures: ["3 huge halls", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
