@@ -1,84 +1,411 @@
 -
-  id: 7
-  name: "Leo"
-  surname: "Soto"
-  company: "Contiuum"
-  title: "Software engineer/country manager"
-  bio: "Passionate software developer. Making & Learning things. Continuum.cl, Dynlangchile."
-  thumbnailUrl: leoSoto_400x400.png
+  id: 1
+  name: "Julio"
+  surname: "Faerman"
+  company: "Amazon"
+  title: "Technical Evangelist AWS"
+  bio: ""
+  thumbnailUrl: jmfaerman.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/leosoto"}
-    - {name: "site", link: "http://olostan.name/"}
-- 
-  id: 8
-  name: "Seba"
-  surname: "Gamboa"
-  company: "Welcu Inc."
-  title: "Co Founder and CTO"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: sebaGamboa_400x400.jpeg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/SagMor"}
+    - {name: "twitter", link: "https://twitter.com/jmfaerman" }
 -
-  id: 9
-  name: "Nicolas"
-  surname: "Fernandez"
-  company: "SantiagoLab"
-  title: "CTO/CPO"
-  bio: "Nicolas '@elBurabure' Fernandez, es un amante de JavaScript, Haskell, UX, DX y la programación funcional y declarativa. Forma parte de el equipo de Noders y uno de los hosts de NodersCast, el podcast oficial de misma comunidad"
-  thumbnailUrl: nicolas_fernandez.jpg
+  id: 2
+  name: "Felipe"
+  surname: "Cabargas"
+  company: "Startup Podium"
+  title: "Senior Frontend Developer"
+  bio: ""
+  thumbnailUrl: felipecabargas.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/leosoto"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://www.twitter.com/juanpintoduran"}
 -
-  id: 10
-  name: "Tim"
-  surname: "Zenderman"
-  company: "Banana Desk"
-  title: "CTO"
-  bio: "Nicolas '@elBurabure' Fernandez, es un amante de JavaScript, Haskell, UX, DX y la programación funcional y declarativa. Forma parte de el equipo de Noders y uno de los hosts de NodersCast, el podcast oficial de misma comunidad"
-  thumbnailUrl: tim_zenderman.jpg
+  id: 18
+  name: "Alenjandro (Jano)"
+  surname: "Gonzalez"
+  company: "SoundCloud"
+  title: "Engineer"
+  bio: ""
+  thumbnailUrl: jano.jpg
   rockstar: true
   social: 
-    - {name: "website", link: "https://bananadesk.com"}
-    - {name: "facebook", link: "https://www.facebook.com/tzenderman"}
+    - {name: "twitter", link: "https://www.twitter.com/janogonzalez"}
 -
   id: 11
   name: "Rodrigo"
   surname: "Aliste"
   company: "Prey"
   title: "CTO"
-  bio: "Nicolas '@elBurabure' Fernandez, es un amante de JavaScript, Haskell, UX, DX y la programación funcional y declarativa. Forma parte de el equipo de Noders y uno de los hosts de NodersCast, el podcast oficial de misma comunidad"
+  bio: ""
   thumbnailUrl: rodrigo_aliste.jpg
   rockstar: true
   social: 
+    - {name: "twitter", link: "https://www.twitter.com/alpistee"}
+-
+  id: 20
+  name: "Nelson"
+  surname: "Jimenez"
+  company: "Start-Up Chile"
+  title: "Lead developer"
+  bio: ""
+  thumbnailUrl: nelson.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/_patojimenez"}
+-
+  id: 10
+  name: "Tim"
+  surname: "Zenderman"
+  company: "Banana Desk"
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: tim_zenderman.jpg
+  rockstar: false
+  social: 
     - {name: "website", link: "https://bananadesk.com"}
     - {name: "facebook", link: "https://www.facebook.com/tzenderman"}
+-
+  id: 7
+  name: "Leo"
+  surname: "Soto"
+  company: "Contiuum"
+  title: "CEO / Programmer"
+  bio: ""
+  thumbnailUrl: leoSoto_400x400.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/leosoto"}
+    - {name: "site", link: "http://olostan.name/"}
+-
+  id: 9
+  name: "Nicolas"
+  surname: "Fernandez"
+  company: "SantiagoLab"
+  title: "CTO/CPO"
+  bio: ""
+  thumbnailUrl: nicolas_fernandez.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/leosoto"}
+    - {name: "site", link: "http://olostan.name/"}
 -
   id: 12
   name: "Gert"
   surname: "Findel"
   company: "Acid Labs"
   title: "CTO y Co fundador"
-  bio: "Nicolas '@elBurabure' Fernandez, es un amante de JavaScript, Haskell, UX, DX y la programación funcional y declarativa. Forma parte de el equipo de Noders y uno de los hosts de NodersCast, el podcast oficial de misma comunidad"
+  bio: ""
   thumbnailUrl: gert_findel.jpg
-  rockstar: true
+  rockstar: false
   social: 
-    - {name: "website", link: "https://bananadesk.com"}
-    - {name: "facebook", link: "https://www.facebook.com/tzenderman"}
-
+    - {name: "twitter", link: "https://www.twitter.com/gertfindel"}
 -
   id: 13
-  name: "Felipe"
-  surname: "Reyes Bulo"
-  company: "chiletrabajos.cl"
-  title: "Co fundador y developer"
-  bio: "Nicolas '@elBurabure' Fernandez, es un amante de JavaScript, Haskell, UX, DX y la programación funcional y declarativa. Forma parte de el equipo de Noders y uno de los hosts de NodersCast, el podcast oficial de misma comunidad"
-  thumbnailUrl: felipe_reyes.jpg
+  name: "Pablo"
+  surname: "Navarro"
+  company: "Axiom Zen"
+  title: "Developer"
+  bio: ""
+  thumbnailUrl: pablo_navarro.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/pnavarrc"}
+-
+  id: 14
+  name: "Fabio"
+  surname: "Kenji"
+  company: "Axiom Zen"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: fabio_kenyi.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/seibzhen"}
+-
+  id: 43
+  name: "Guillermo"
+  surname: "Iguaran"
+  company: "Core team Rails / Ride"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: guillermo_iguaran.jpeg
   rockstar: true
   social: 
-    - {name: "website", link: "https://www.chiletrabajos.cl"}
-    - {name: "facebook", link: "https://www.facebook.com/freyesb"}
+    - {name: "twitter", link: "https://twitter.com/guilleiguaran"}
+-
+  id: 15
+  name: "Fernando"
+  surname: "Larrañaga"
+  company: "Grupon"
+  title: "Backend"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#"}
+-
+  id: 16
+  name: "Raúl"
+  surname: "Pino"
+  company: "Axiom Zen"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: raul_pino.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/p1nox"}
+-
+  id: 17
+  name: "Jonathan"
+  surname: "Reyes"
+  company: "First Job"
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: lagenteestamuyloca.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/jonreyest"}
+-
+  id: 21
+  name: "Juan"
+  surname: "Correa"
+  company: ""
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/pottersys"}
+-
+  id: 22
+  name: "Rodrigo"
+  surname: "Salinas"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#"}
+-
+  id: 23
+  name: "Chris"
+  surname: "Naveen"
+  company: ""
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#"}
+-
+  id: 24
+  name: "Kendall"
+  surname: "Cole"
+  company: "Hypementor"
+  title: "Programmer"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/kcole16" }
+-
+  id: 25
+  name: "Gavin"
+  surname: "Kearney"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 26
+  name: "Emiliano"
+  surname: "Rodriguez Nuesh"
+  company: "pacifico.la"
+  title: "Founder"
+  bio: ""
+  thumbnailUrl: emirodriguez.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/emilianorn" }
+-
+  id: 27
+  name: "Sergey"
+  surname: "Petrov"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 28
+  name: "Eduardo"
+  surname: "Diaz"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: eduardodiaz.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/lnds" }
+-
+  id: 29
+  name: "Estanislao"
+  surname: "Lopez Morgan"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 30
+  name: "Aldrin"
+  surname: "Martoq"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 31
+  name: "Pedro"
+  surname: "Israel"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 32
+  name: "Hector"
+  surname: "Vergara"
+  company: "Laboratorio de Gobierno"
+  title: "Coordinador de Creatividad Tech"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 33
+  name: "Santiago"
+  surname: "Bustelo"
+  company: "KambriCa"
+  title: "Founder"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 34
+  name: "Alvaro"
+  surname: "Aguirre"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/alvaro_aguirre" }
+-
+  id: 35
+  name: "Sebastian"
+  surname: "Saavedra"
+  company: "ELUN"
+  title: "CTO"
+  bio: ""
+  thumbnailUrl: sebasaavedra.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/elun" }
+-
+  id: 36
+  name: "Pedro"
+  surname: "Buron"
+  company: "Python Chile"
+  title: "Founder"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 37
+  name: "Abraham"
+  surname: "Barrera"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 38
+  name: "Daniela"
+  surname: "Serrano"
+  company: "Girls in tech"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 39
+  name: "Francisco"
+  surname: "Förster"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 40
+  name: "Francisca"
+  surname: "Varela"
+  company: "Girls in tech"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 41
+  name: "Sebastian"
+  surname: "Cerone"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: sebacerone.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/sebascerone" }
+-
+  id: 42
+  name: "Victor"
+  surname: "Ruiz Vargas"
+  company: "Dreambox3d"
+  title: "Programmer"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+

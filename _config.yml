@@ -44,10 +44,8 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
- # - {permalink: "/about", text: "Conferencia"}
  - {permalink: "/schedule", text: "Programa"}
- # - {permalink: "/speakers", text: "Speakers"}
- # - {permalink: "/hackathon", text: "Hackathon"}
+ - {permalink: "/speakers", text: "Speakers"}
 
 bottomNavigationLinks:
  - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
