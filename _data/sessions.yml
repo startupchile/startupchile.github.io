@@ -578,3 +578,11 @@
   language: es
   complexity: "Intermedio"
   speakers: [1]
+-
+  id: 228
+  title: "How to get your first 1000 app downloads"
+  description: "Worked hard on your app and made it into a polished product. Now all you need to do is to get users. As simple as it sounds, getting users is one of the hardest tricks for developers. We're going to explore growth hacks and tips to get to that initial 1000!"
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+  speakers: [51]

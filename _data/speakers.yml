@@ -7,7 +7,7 @@
   bio: "I’m responsible for the relationship between Amazon Web Services and Latin American developers, exploring the cloud with them and bringing back the lessons from the road. Before that, i worked at Red Hat, Borland and countless enterprise customers. Other than that, i co-lead the UAI Java User Group, teach at UNITRI, write at InfoQ/QCon and innovate as a co-founder of Craftware, an e-learning startup."
   thumbnailUrl: jmfaerman.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/jmfaerman" }
 -
   id: 2
@@ -18,7 +18,7 @@
   bio: ""
   thumbnailUrl: felipecabargas.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/juanpintoduran"}
 -
   id: 18
@@ -29,7 +29,7 @@
   bio: "Yo ❤ la programación, hablar en conferencias y tocar música. Me gano el pan el mundo de la programación desde hace 10 años, involucrado en proyectos que van desde aplicaciones web sencillas hasta complejas arquitectural empresariales. Mis responsabilidades han incluido programación, arquitectura y liderazgo de equipos."
   thumbnailUrl: jano.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/janogonzalez"}
 -
   id: 11
@@ -40,7 +40,7 @@
   bio: ""
   thumbnailUrl: rodrigo_aliste.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/alpistee"}
 -
   id: 20
@@ -51,7 +51,7 @@
   bio: "Nelson Jimenez aka '@_patojimenez' es programador en Ruby hace más de 4 años. Actualmente es el lead developer de Start-Up Chile, la comunidad más grande de emprendedores de LatAm. Gracias a esto él ha adquirido el conocimiento de muchos emprendedores de todas partes del mundo."
   thumbnailUrl: nelson_jimenezz.png
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/_patojimenez"}
 -
   id: 10
@@ -62,7 +62,7 @@
   bio: ""
   thumbnailUrl: tim_zenderman.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "website", link: "https://bananadesk.com"}
     - {name: "facebook", link: "https://www.facebook.com/tzenderman"}
 -
@@ -74,7 +74,7 @@
   bio: ""
   thumbnailUrl: leoSoto_400x400.png
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/leosoto"}
     - {name: "site", link: "http://olostan.name/"}
 -
@@ -86,7 +86,7 @@
   bio: "Nicolas '@elBurabure' Fernandez, CTO/CPO de SantiagoLab, es un amante de JavaScript, Haskell, UX, DX y la programación funcional y declarativa. Forma parte de el equipo de Noders y uno de los hosts de NodersCast, el podcast oficial de misma comunidad"
   thumbnailUrl: nicolas_fernandez.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/leosoto"}
     - {name: "site", link: "http://olostan.name/"}
 -
@@ -98,7 +98,7 @@
   bio: ""
   thumbnailUrl: gert_findel.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/gertfindel"}
 -
   id: 13
@@ -109,7 +109,7 @@
   bio: ""
   thumbnailUrl: pablo_navarro.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/pnavarrc"}
 -
   id: 14
@@ -120,7 +120,7 @@
   bio: ""
   thumbnailUrl: fabio_kenyi.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/seibzhen"}
 -
   id: 43
@@ -131,7 +131,7 @@
   bio: ""
   thumbnailUrl: guillermo_iguaran.jpeg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/guilleiguaran"}
 -
   id: 15
@@ -142,7 +142,7 @@
   bio: "Ingeniero Informático, especializado en desarrollo de proyectos en plataformas Web y móviles. Más de 10 años de experiencia en desarrollo Web y móvil, con metodologías enfocadas a la usabilidad y accesibilidad de los usuarios finales. Adicionalmente, desarrollando aplicaciones y herramientas basadas en tecnologías Web desde 2005, con un fuerte enfoque a la asistencia desde el inicio al final de cada proyecto."
   thumbnailUrl: fernando_larragana.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/xabadu"}
 -
   id: 16
@@ -153,7 +153,7 @@
   bio: ""
   thumbnailUrl: raul_pino.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/p1nox"}
 -
   id: 17
@@ -164,7 +164,7 @@
   bio: ""
   thumbnailUrl: lagenteestamuyloca.png
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/jonreyest"}
 -
   id: 21
@@ -175,7 +175,7 @@
   bio: "Buena onda, hasta que se cae Internet. Trabajando para Medios Regionales (Grupo El Mercurio)"
   thumbnailUrl: juan_correa.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/pottersys"}
 -
   id: 22
@@ -186,7 +186,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#"}
 -
   id: 23
@@ -197,7 +197,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#"}
 -
   id: 24
@@ -208,7 +208,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/kcole16" }
 -
   id: 25
@@ -219,7 +219,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 26
@@ -230,7 +230,7 @@
   bio: ""
   thumbnailUrl: emirodriguez.png
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/emilianorn" }
 -
   id: 27
@@ -241,7 +241,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 28
@@ -252,7 +252,7 @@
   bio: ""
   thumbnailUrl: eduardodiaz.png
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/lnds" }
 -
   id: 29
@@ -263,7 +263,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 30
@@ -274,7 +274,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 31
@@ -285,7 +285,7 @@
   bio: "Entrepreneur that enjoys developing businesses and great software. Worked at Accenture, developing complex software for steel plants and mining industries. Graduated in Computer Science at UFMG (Brazil), Masters in Industrial Management by the consortium of Politecnica de Madrid (Spain), Polimi (Italy) and Royal Institute of Technology (Sweden). Specialized in Business and IT at the University of Melbourne (Australia) and in Marketing and Sales Management at ESIC (Spain)."
   thumbnailUrl: pedro_israel.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 32
@@ -296,7 +296,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 33
@@ -307,7 +307,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 34
@@ -318,7 +318,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/alvaro_aguirre" }
 -
   id: 35
@@ -329,7 +329,7 @@
   bio: ""
   thumbnailUrl: sebasaavedra.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/elun" }
 -
   id: 36
@@ -340,7 +340,7 @@
   bio: "Desarrollo en base a python y django, con una fuerte orientación al devops. Impulsor de la comunidad Python en Chile"
   thumbnailUrl: pedro_buron.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 37
@@ -351,7 +351,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 38
@@ -362,7 +362,7 @@
   bio: "Emprendedora Tech. Amante del mar y la playa. Lloro con las películas. Creo en el amor. Fundadora de http://www.matsya.cl  y http://www.thevoyage.cl "
   thumbnailUrl: daniela_serrano.png
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/danyserrano" }
 -
   id: 39
@@ -373,7 +373,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 40
@@ -384,7 +384,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 41
@@ -395,7 +395,7 @@
   bio: ""
   thumbnailUrl: sebacerone.jpeg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/sebascerone" }
 -
   id: 42
@@ -406,7 +406,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 44
@@ -417,7 +417,7 @@
   bio: ""
   thumbnailUrl: ivan_toledo.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 45
@@ -428,7 +428,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 46
@@ -439,7 +439,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 47
@@ -450,7 +450,7 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 48
@@ -461,7 +461,7 @@
   bio: "Gabriel Cor es el fundador y arquitecto principal en Beacon42, Microsoft Regional Director para Sudamérica (Chile) y ha sido MVP de SQL Server. Es conocido y respetado en las comunidades Microsoft en Chile, Argentina, Uruguay, Paraguay y Bolivia como un líder técnico en las tecnologías Microsoft, con foco en arquitectura en el cloud e integración."
   thumbnailUrl: gabriel_cor.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 49
@@ -472,7 +472,7 @@
   bio: ""
   thumbnailUrl: nico_fiorito.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
   id: 50
@@ -483,5 +483,16 @@
   bio: ""
   thumbnailUrl: nico_fiorito.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 51
+  name: "Aswin"
+  surname: "Shibu"
+  company: "Sous Chef"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: aswin_shibu.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Ashwin_7" }
