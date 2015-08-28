@@ -13,27 +13,17 @@
     - {
     	startTime: "11:00",
     	endTime: "12:00",
-    	sessionIds: [217,209]
-    }
-    - {
-    	startTime: "11:45",
-    	endTime: "12:15",
-    	sessionIds: [141]
+    	sessionIds: [209,221]
     }
     - {
     	startTime: "12:00",
-    	endTime: "13:00",
-    	sessionIds: [218]
-    }
-    - {
-    	startTime: "12:15",
-    	endTime: "12:45",
-    	sessionIds: [120]
-    }
-    - {
-    	startTime: "12:15",
     	endTime: "12:30",
-    	sessionIds: [124]
+    	sessionIds: [141]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "13:00",
+    	sessionIds: [120, 220]
     }
     - {
     	startTime: "12:30",
@@ -49,6 +39,11 @@
     	startTime: "14:00",
     	endTime: "16:00",
     	sessionIds: [203]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "14:30",
+        sessionIds: [222]
     }
     - {
     	startTime: "14:00",
@@ -124,18 +119,47 @@
     - {title: "Workshops", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "-",
-    	endTime: "",
-    	sessionIds: [101, 201]
+        startTime: "10:30",
+        endTime: "10:45",
+        sessionIds: [142]
+      }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [101]
+      }
+    - {
+        startTime: "10:30",
+        endTime: "12:30",
+        sessionIds: [215]
+      }
+    - {
+        startTime: "11:00",
+        endTime: "12:00",
+        sessionIds: [217]
+      }
+    - {
+        startTime: "11:15",
+        endTime: "11:30",
+        sessionIds: [126]
+      }
+    - {
+        startTime: "11:30",
+        endTime: "11:45",
+        sessionIds: [127]
+      }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [105]
+      }
+    - {
+        startTime: "11:30",
+        endTime: "11:45",
+        sessionIds: [124]
     }
     - {
-    	startTime: "-",
-    	endTime: "",
-    	sessionIds: [102]
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [218]
     }
-    - {
-    	startTime: "-",
-    	endTime: "",
-    	sessionIds: [103, 0]
-    }
-    

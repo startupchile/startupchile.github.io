@@ -3,8 +3,8 @@
   title: "Exorcisando tu código asincrónico"
   description: "El codigo asincrono es dificil de entender, los calbacks dentro de callbacks penan entre el bosque de archivos del proyecto, los bugs se esconden detras de cada nesteo de tu codigo. Ven y aprende un par de patrones poderosos para exorcisar tu codigo asincrono con Promesas, generadores y Async/Await"
   subtype: keynote
-  language: en
-  complexity: "Intermediate"
+  language: es
+  complexity: "Intermedio"
   speakers: [9]
 -
   id: 102
@@ -35,8 +35,9 @@
   title: "Arquitectura de Microservicios: más flexibilidad y productividad en el desarrollo de productos de software"
   description: "En el desarrollo de produtos de software, es muy importante tener flexibilidad para cambiar o añadir nuevas features. En la medida que se conoce mejor las necesidades del cliente, hacer cambios rápidos y adaptarse a demandas de tus usuários es fundamental para el éxito de un produto. Todavía, si la arquitectura del sistema no permite esta flexibilidad, desarrolladores tardan cada vez más y el software se torna demasiado complejo, tornando caro y retrasando el lanzamiento de nuevas features. Una arquitectura de micro-servicios divide el software em pequeños componentes independientes. Estos componentes son intercambiables, y pueden ser reutilizados muchas veces en el mismo producto, o mismo en productos distintos. Cada módulo del sistema se volve un pequeño problema aislado de la complexidad del sistema como un todo. Cambiar servicios o añadir nuevos servicios se vuelve trivial, resultando en un software flexible, con más calidad y permitiendo más productividad al equipo de desarrollo."
   subtype: keynote
-  language: en
-  complexity: "Intermediate"
+  language: es
+  complexity: "Intermedio"
+  speakers: [31]
 -
   id: 106
   title: "InfoSec for Developers"
@@ -192,14 +193,16 @@
   description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta keynote presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedio"
+  speakers: [46]
 -
   id: 127
   title: "Intro to MoongoDB &/or NoSQL"
   description: ""
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedio"
+  speakers: [46]
 -
   id: 128
   title: " Internet of Things (Vessel.io)"
@@ -307,6 +310,7 @@
   subtype: keynote
   language: es
   complexity: "Fácil"
+  speakers: [32]
 -
   id: 143
   title: "UX y diseño de Interacción: Introducción a UX para desarrolladores"
@@ -483,17 +487,9 @@
   title: "Crea tu primera startup con Ruby on Rails desde cero"
   description: "Eres programador y quieres tener tu propia startup ?. Este es un taller en el que abarcaremos algunas cosas de lenguaje Ruby y les ayudaré a armar su primera aplicación en Ruby on Rails. A lo largo de este taller aprenderás: Nociones de Ruby, Nociones de Rails, Creación de modelos, controladores y vistas, Agregaremos bootstrap, Agregaremos Autenticación a la aplicación, Login con Facebook."
   subtype: workshop
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
--
-  id: 216
-  title: "Crea tu primera startup con Ruby on Rails desde cero"
-  description: "Eres programador y quieres tener tu propia startup ?. Este es un taller en el que abarcaremos algunas cosas de lenguaje Ruby y les ayudaré a armar su primera aplicación en Ruby on Rails. A lo largo de este taller aprenderás: Nociones de Ruby, Nociones de Rails, Creación de modelos, controladores y vistas, Agregaremos bootstrap, Agregaremos Autenticación a la aplicación, Login con Facebook."
-  subtype: workshop
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
+  speakers: [20]
+  language: es
+  complexity: "Intermedio"
 -
   id: 217
   title: "Innovación en la Escala de AWS"
@@ -518,3 +514,27 @@
   speakers: [43]
   language: es
   complexity: "Intermedio"
+-
+  id: 220
+  title: "Cloud, Escalabilidad y Aplicaciones Móviles"
+  description: "En esta charla, exploraremos distintas alternativas de implementación de infraestructura y servicios de Microsoft Azure para dar soporte a aplicaciones móviles en Android, IOs y Windows. Conoceremos los detalles de la plataforma subyacente de aplicaciones como Earthquake Watch y TransantiagoMaster, con foco en tips de escalabilidad, implementación de notificaciones push y agilidad en tiempos de respuesta."
+  subtype: keynote
+  speakers: [44]
+  language: es
+  complexity: "Intermedio"
+-
+  id: 221
+  title: "Sin servidores: Mobile Backend como Servicio en AWS"
+  description: "Los Backends-as-a-Service (BaaS), específicamente en Mobile (MBaaS), son tendencia reciente de la computación en la nube. La idea es ofrecer servicios que exponen funcionalidades de backend con la premisa de reducir complejidad, costo y tiempo de desarrollo. Estas plataformas habilitan funcionalidades para las aplicaciones como autenticación, sincronización y almacenamiento. Este abordaje consiste en la creación de diversos tipos de aplicaciones móviles y web sin utilizar servidores físicos o virtuales para implementar funcionalidades de backend. En esta presentación, discutiremos el Mobile Backend as a Service, su propuesta de valor, aplicaciones y casos de uso, además de un ejemplo de arquitectura en que las funcionalidades de backend son 100% basadas en servicios, demostrados en un mini-generador de contenido con clientes web y móvil. Serán presentados diversos servicios AWS como: Amazon Cognito (autenticación y datastore), AWS Lambda (procesamiento computacional), Amazon DynamoDB (base de datos noSQL), Amazon Mobile Analytics (colección y análisis de datos), Amazon CloudFront (CDN para entrega de contenido), Amazon S3 (almacenamiento de objetos) y Amazon CloudSerach (búsqueda textual), además de los SDK’s de AWS para JavaScript, IOS y Android."
+  subtype: keynote
+  speakers: [45]
+  language: es
+  complexity: "Intermedio"
+-
+  id: 222
+  title: "Aprovechando al máximo el Programa Microsoft Bizspark para Start-Ups"
+  description: "Microsoft Bizspark es un programa de apoyo a Start-Ups con foco en negocios basados en tecnología. En esta sesión explicaremos el programay comentaremos escenarios de uso frecuente de los beneficios en Cloud, Desarrollo y Apps en donde pueden ser utilizados estos recursos"
+  subtype: keynote
+  language: es
+  complexity: "Fácil"
+

@@ -4,7 +4,7 @@
   surname: "Faerman"
   company: "Amazon"
   title: "Technical Evangelist AWS"
-  bio: ""
+  bio: "I’m responsible for the relationship between Amazon Web Services and Latin American developers, exploring the cloud with them and bringing back the lessons from the road. Before that, i worked at Red Hat, Borland and countless enterprise customers. Other than that, i co-lead the UAI Java User Group, teach at UNITRI, write at InfoQ/QCon and innovate as a co-founder of Craftware, an e-learning startup."
   thumbnailUrl: jmfaerman.jpg
   rockstar: true
   social: 
@@ -26,7 +26,7 @@
   surname: "Gonzalez"
   company: "SoundCloud"
   title: "Engineer"
-  bio: ""
+  bio: "Yo ❤ la programación, hablar en conferencias y tocar música. Me gano el pan el mundo de la programación desde hace 10 años, involucrado en proyectos que van desde aplicaciones web sencillas hasta complejas arquitectural empresariales. Mis responsabilidades han incluido programación, arquitectura y liderazgo de equipos."
   thumbnailUrl: jano.jpg
   rockstar: true
   social: 
@@ -48,7 +48,7 @@
   surname: "Jimenez"
   company: "Start-Up Chile"
   title: "Lead developer"
-  bio: ""
+  bio: "Nelson Jimenez aka '@_patojimenez' es programador en Ruby hace más de 4 años. Actualmente es el lead developer de Start-Up Chile, la comunidad más grande de emprendedores de LatAm. Gracias a esto él ha adquirido el conocimiento de muchos emprendedores de todas partes del mundo. Además es uno de los miembros activos de @programdoresChile la comunidad más grande de programadores en Chile."
   thumbnailUrl: nelson_jimenezz.png
   rockstar: true
   social: 
@@ -218,7 +218,7 @@
   title: ""
   bio: ""
   thumbnailUrl: doge.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
@@ -306,7 +306,7 @@
   title: "Founder"
   bio: ""
   thumbnailUrl: doge.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://www.twitter.com/#" }
 -
@@ -408,4 +408,36 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://www.twitter.com/#" }
-
+-
+  id: 44
+  name: "Iván"
+  surname: "Toledo"
+  company: "Microsoft"
+  title: "CTO Birdie/Microsoft MVP de Windows"
+  bio: ""
+  thumbnailUrl: ivan_toledo.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 45
+  name: "Henry"
+  surname: "Alvarado"
+  company: "Amazon"
+  title: "Arquitecto de Soluciones"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 46
+  name: "Arvinth"
+  surname: "Chandramouli"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
