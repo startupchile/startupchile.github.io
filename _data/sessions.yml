@@ -546,4 +546,12 @@
   language: es
   complexity: "Fácil"
   speakers: [38]
+-
+  id: 224
+  title: "Microsoft Edge: The Browser for Doing"
+  description: "Un nuevo browser unificado que entrega la mejor experiencia en todos los dispositivos Windows 10. En esta sesión veremos las ventajas de preparar los sitios para Edge, y analizaremos cómo el nuevo motor trae una nueva experiencia no solamente para el usuario final sino para los desarrolladores."
+  subtype: keynote
+  language: es
+  complexity: "Fácil"
+  speakers: [48]
 
