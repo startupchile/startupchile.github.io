@@ -173,3 +173,28 @@
         endTime: "13:00",
         sessionIds: [218,224]
     }
+    - {
+        startTime: "14:00",
+        endTime: "15:30",
+        sessionIds: [225]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:30",
+        sessionIds: [217]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [214]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionIds: [218]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [227]
+    }

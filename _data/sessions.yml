@@ -480,9 +480,9 @@
   title: "MVC"
   description: "La actividad consistira en ver como crear un blog, aplicando la arquitectura de diseño Modelo Vista Controlador. Se trabajara con PHP mas un framweok liviano Code Igniter, como agregado usaremos Boostrap 3. El objetivo es ir construyendo el sitio web paso a paso,  desglosando cada concepto para entender el rol que debe cumpli cada ente esto es que debe hacer un modelo, lo que debe hacer el controlador y lo que debe hacer la vista."
   subtype: workshop
-  speakers: [4]
-  language: en
-  complexity: "Intermediate"
+  speakers: [49]
+  language: es
+  complexity: "Intermedio"
 -
   id: 215
   title: "Crea tu primera startup con Ruby on Rails desde cero"
@@ -498,7 +498,7 @@
   subtype: sala250
   speakers: [1]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedio"
 -
   id: 218
   title: "El Tercer Por qué"
@@ -554,4 +554,27 @@
   language: es
   complexity: "Fácil"
   speakers: [48]
-
+-
+  id: 225
+  title: "Fundamentos de Backbone.js"
+  description: "En este workshop vamos a aprender los fundamentos de Backbone.js y construiremos un pequeño proyecto para entender como funciona."
+  subtype: workshop
+  language: es
+  complexity: "Fácil"
+  speakers: [48]
+-
+  id: 226
+  title: "Cómo definir el seniority de un desarrollador"
+  description: "Durante una hora estos 3 experimentados programadores estarán charlando y debatiendo sobre la industria y cómo se define el seniority de un desarrollador"
+  subtype: workshop
+  language: es
+  complexity: "Intermedio"
+  speakers: [15]
+-
+  id: 227
+  title: "Escalando para los primeros millones de usuarios"
+  description: ""
+  subtype: keynote
+  language: es
+  complexity: "Intermedio"
+  speakers: [1]

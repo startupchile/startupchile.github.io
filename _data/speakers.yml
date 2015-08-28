@@ -48,7 +48,7 @@
   surname: "Jimenez"
   company: "Start-Up Chile"
   title: "Lead developer"
-  bio: "Nelson Jimenez aka '@_patojimenez' es programador en Ruby hace más de 4 años. Actualmente es el lead developer de Start-Up Chile, la comunidad más grande de emprendedores de LatAm. Gracias a esto él ha adquirido el conocimiento de muchos emprendedores de todas partes del mundo. Además es uno de los miembros activos de @programdoresChile la comunidad más grande de programadores en Chile."
+  bio: "Nelson Jimenez aka '@_patojimenez' es programador en Ruby hace más de 4 años. Actualmente es el lead developer de Start-Up Chile, la comunidad más grande de emprendedores de LatAm. Gracias a esto él ha adquirido el conocimiento de muchos emprendedores de todas partes del mundo."
   thumbnailUrl: nelson_jimenezz.png
   rockstar: true
   social: 
@@ -463,3 +463,27 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 49
+  name: "Nicolás"
+  surname: "Fiorito"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nico_fiorito.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 50
+  name: "Edwin"
+  surname: "Gonzalez"
+  company: "DevCode.la"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: nico_fiorito.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+
+edwin_gonzalez.jpeg
