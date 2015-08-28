@@ -132,8 +132,8 @@ subscribeInfo: "Registration is open. Number of seats are limited. Stay tuned!"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/devconfchile", icon: "twitter"}
- - {link: "https://www.facebook.com/pages/Devconfchile/106866916316756?fref=ts", icon: "facebook"}
+ - {link: "https://twitter.com/DevConChile", icon: "twitter"}
+ - {link: "https://www.facebook.com/devconchile?fref=ts", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
