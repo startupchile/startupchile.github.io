@@ -334,11 +334,11 @@
 -
   id: 36
   name: "Pedro"
-  surname: "Buron"
-  company: "Python Chile"
-  title: "Founder"
-  bio: ""
-  thumbnailUrl: doge.jpg
+  surname: "Burón"
+  company: "Witoi"
+  title: "CTO"
+  bio: "Desarrollo en base a python y django, con una fuerte orientación al devops. Impulsor de la comunidad Python en Chile"
+  thumbnailUrl: pedro_buron.jpg
   rockstar: false
   social: 
     - {name: "twitter", link: "https://www.twitter.com/#" }
@@ -359,11 +359,11 @@
   surname: "Serrano"
   company: "Girls in tech"
   title: ""
-  bio: ""
-  thumbnailUrl: doge.jpg
+  bio: "Emprendedora Tech. Amante del mar y la playa. Lloro con las películas. Creo en el amor. Fundadora de http://www.matsya.cl  y http://www.thevoyage.cl "
+  thumbnailUrl: daniela_serrano.png
   rockstar: false
   social: 
-    - {name: "twitter", link: "https://www.twitter.com/#" }
+    - {name: "twitter", link: "https://www.twitter.com/danyserrano" }
 -
   id: 39
   name: "Francisco"
@@ -439,5 +439,27 @@
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 47
+  name: "Estanislao"
+  surname: "López Morgan"
+  company: "Tallion"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/#" }
+-
+  id: 48
+  name: "Gabriel"
+  surname: "Cor"
+  company: "Beacon42"
+  title: "Arquitecto"
+  bio: "Gabriel Cor es el fundador y arquitecto principal en Beacon42, Microsoft Regional Director para Sudamérica (Chile) y ha sido MVP de SQL Server. Es conocido y respetado en las comunidades Microsoft en Chile, Argentina, Uruguay, Paraguay y Bolivia como un líder técnico en las tecnologías Microsoft, con foco en arquitectura en el cloud e integración."
+  thumbnailUrl: gabriel_cor.jpg
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://www.twitter.com/#" }

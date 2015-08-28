@@ -271,8 +271,9 @@
   title: "Hardware IoT friendly..."
   description: "Alternativas sobre placas de desarrollo, comparaciones, ventajas, algo de sensores, etc"
   subtype: keynote
-  language: en
+  language: en105
   complexity: "Intermediate"
+  speakers: [47]
 -
   id: 138
   title: "¿Qué es IOT? ¿Qué tener en cuenta al hacer un producto?"
@@ -347,8 +348,8 @@
   title: "Hacia la integración de pagos que queremos."
   description: "Los desarrolladores siempre soñamos en integrarnos con sistemas externos a la primera, en esta keynote exploraremos como lo podemos lograr sin depender de un tercero."
   subtype: keynote
-  language: en
-  complexity: "Intermediate"
+  language: es
+  complexity: "Intermedio"
 -
   id: 148
   title: "Mi experiencia con transbank"
@@ -512,7 +513,7 @@
   description: "Los lenguajes de programación dinámicos frecuentemente abandonan las ventajas de el chequeo de tipos estático que ayuda a descubrir muchos errores comunes en tiempo de compilación en favor de la conveniencia y la flexibilidad que los caracteriza. Una tendencia reciente es tratar de combinar las ventajas de ambos tipos de lenguajes en los llamados sistemas de tipos opcionales que agregan chequeos de tipos estáticos a los lenguajes dinámicos mientras se preservan las convenciones y estilos propios de los lenguajes. En esta keynote haremos una introducción a los sistemas de tipos, exploraremos sus características, ventajas y desventajas y como se reconcilian las diferencias en los sistemas de tipos opcionales. También veremos algunos ejemplos notables de lenguajes con sistemas de tipos opcionales como TypeScript de Microsoft, Flow y Hack de Facebook y Dart de Google."
   subtype: keynote
   speakers: [43]
-  language: es
+  language: es1
   complexity: "Intermedio"
 -
   id: 220
@@ -537,4 +538,12 @@
   subtype: keynote
   language: es
   complexity: "Fácil"
+-
+  id: 223
+  title: "¿Cómo presentarte ante tus clientes?"
+  description: "Guía práctica sobre todo lo que debes hacer y lo que no al momento de presentarte ante tus clientes."
+  subtype: keynote
+  language: es
+  complexity: "Fácil"
+  speakers: [38]
 
