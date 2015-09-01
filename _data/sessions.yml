@@ -67,6 +67,7 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+  speakers: [61]
 -
   id: 110
   title: "Development with Real Time (Websockets)"
@@ -74,6 +75,7 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+  speakers: [61]
 -
   id: 111
   title: "Javacript: The good and the bad parts"
@@ -111,6 +113,7 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+  speaker: [60]
 -
   id: 116
   title: "WordPress para prototipado de aplicaciones"
@@ -498,7 +501,7 @@
   title: "Mastering Grunt"
   description: "A deep dive into the core concepts of Grunt JS <br /><a href=\"http://www.eventbrite.com/e/workshop-mastering-gruntjs-tickets-18376058285?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18376058285\" alt=\"Eventbrite - [Workshop] Mastering Grunt.js\" /></a>"
   subtype: workshop
-  speakers: [4]
+  speakers: [60]
   language: en
   complexity: "Intermediate"
 -

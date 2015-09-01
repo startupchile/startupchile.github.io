@@ -574,3 +574,25 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 60
+  name: "Spencer"
+  surname: "Handley"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/spencer48" }
+-
+  id: 61
+  name: "Ankur"
+  surname: "Agarwal"
+  company: "Filtr.io"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ankurdadreamer" }
