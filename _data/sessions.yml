@@ -388,6 +388,31 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+
+-
+  id: 153
+  title: "Software Development in the Age of Breaches (HANGOUT)"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+  speakers: [58]
+-
+  id: 154
+  title: "Inscripción y Amazon Web Services Solutions Architect (SA) Corner"
+  description: ""
+  subtype: keynote
+  language: es
+  complexity: "Intermediate"
+  speakers: []
+-
+  id: 155
+  title: "Arduinos"
+  description: "En este taller se abordaran algunas temáticas  básicas que permiten desarrollar prototipos de manera fácil y rápida con Arduino. Los participantes verán algunos circuitos en donde se utilizarán las formas analógicas y digitales de entrada y salida, monitoreo y control vía comunicación serial, etc. Conocerán el entorno de programación de Arduino, en donde visualizarán de manera simple la programación de controles ON-OFF, salidas PWM, lectura de sensores analógicos para la medición de diversas variables físicas del entorno, etc."
+  subtype: workshop
+  language: es
+  complexity: "Intermediate"
+  speakers: [59]
 -
   id: 202
   title: "ECMAScript 2015"

@@ -418,7 +418,7 @@
   thumbnailUrl: ivan_toledo.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://www.twitter.com/#" }
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=ADEAAABKI8QBpOXXG1lqu22Dl-WqvFAOhwTnzdE&authType=NAME_SEARCH&authToken=qAsb&locale=en_US&srchid=492643791440779912386&srchindex=1&srchtotal=114&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A492643791440779912386%2CVSRPtargetId%3A4858820%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH" }
 -
   id: 45
   name: "Henry"
@@ -552,3 +552,25 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=75651003&authType=name&authToken=mYvn&trk=api*a109924*s118458*" }
+-
+  id: 58
+  name: "Karthik"
+  surname: "Bhat"
+  company: "SecureDB"
+  title: "CEO"
+  bio: "Karthik Bhat is the Founder and CEO of SecureDB, Encryption as a Service company. Karthik has 15 years of coding experience with web, mobile and enterprise systems. Karthik hopes to see increase in security awareness among developers and strives to increase the adoption of encryption in mobile and web apps. You can read his thoughts [here](https://medium.com/@karthikvbhat)"
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=6139133&authType=name&authToken=rlPm&trk=api*a109924*s118458*" }
+-
+  id: 59
+  name: ""
+  surname: ""
+  company: "MCI"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
