@@ -16,6 +16,16 @@
     	sessionIds: [209,221]
     }
     - {
+    	startTime: "11:00",
+    	endTime: "13:00",
+    	sessionIds: [404,211]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "13:00",
+    	sessionIds: [404,206]
+    }
+    - {
     	startTime: "12:00",
     	endTime: "12:30",
     	sessionIds: [404,141]

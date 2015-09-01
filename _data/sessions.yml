@@ -416,7 +416,7 @@
   title: "Introducción a iOS con Objective-C"
   description: "Introducción a iOS con Objective-C: en 2 horas se aprenderá a hacer una ToDo app utilizando el lenguaje de programación Objective-C en donde se verán una de las estructuras básicas dentro de una app de iOS, las tablas. Se enseñará como programarlo y editar la forma en como se ve. Además veremos como agregar, editar y eliminar objetos dentro de la tabla. <br /><a href=\"http://www.eventbrite.com/e/workshop-introduccion-a-ios-con-objective-c-tickets-18375887775?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18375887775\" alt=\"Eventbrite - [Workshop] Introducción a iOS con Objective-C\" /></a>"
   subtype: workshop
-  speakers: [4]
+  speakers: [55]
   language: en
   complexity: "Intermediate"
 -
@@ -454,9 +454,9 @@
 -
   id: 211
   title: "Aprender a programar en Angular con Coder house"
-  description: ""
+  description: "Oscar realizará una introducción sobre AngularJS, el framework open-source de aplicaciones web creado por Google. <br /><a href=\"http://www.eventbrite.com/e/workshop-introduccion-a-angularjs-por-coderhouse-tickets-18377823565?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18377823565\" alt=\"Eventbrite - [Workshop] Introducción a AngularJS por Coderhouse\" /></a>"
   subtype: workshop
-  speakers: [4]
+  speakers: [54]
   language: en
   complexity: "Intermediate"
 -

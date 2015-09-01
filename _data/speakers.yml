@@ -508,3 +508,25 @@
   rockstar: false
   social:
     - {name: "twitter", link: "" }
+-
+  id: 54
+  name: "Oscar"
+  surname: "Molina"
+  company: "Coderhouse"
+  title: "Profesor de FrontEnd de Coderhouse"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 55
+  name: "José"
+  surname: "Antonio"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
