@@ -266,6 +266,7 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+  speakers: [57]
 -
   id: 137
   title: "Hardware IoT friendly..."
@@ -464,8 +465,8 @@
   title: "Como fracasar en un proyecto de desarrollo"
   description: "Hemos construido empresas que solucionaban varios problemas desde un punto de vista informatico y hemos fracasado. La idea de esta keynote es mostrar que tan fácil es hacer fracasar una buena idea"
   subtype: keynote
-  speakers: [4]
-  language: en
+  speakers: [54, 56]
+  language: es
   complexity: "Fácil"
 -
   id: 213

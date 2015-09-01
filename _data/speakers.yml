@@ -529,4 +529,26 @@
   thumbnailUrl: doge.jpg
   rockstar: false
   social:
+    - {name: "facebook", link: "https://www.facebook.com/jagonzalr182?fref=ts" }
+-
+  id: 56
+  name: "Sebastián "
+  surname: "Duran"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
     - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 57
+  name: "Daniil"
+  surname: "Brodovich"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=75651003&authType=name&authToken=mYvn&trk=api*a109924*s118458*" }
