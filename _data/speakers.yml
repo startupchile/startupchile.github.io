@@ -596,3 +596,14 @@
   rockstar: false
   social:
     - {name: "facebook", link: "https://www.facebook.com/ankurdadreamer" }
+-
+  id: 62
+  name: "AWS Team"
+  surname: ""
+  company: "AMazon"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }

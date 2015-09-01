@@ -113,7 +113,7 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
-  speaker: [60]
+  speakers: [60]
 -
   id: 116
   title: "WordPress para prototipado de aplicaciones"
@@ -411,7 +411,7 @@
 -
   id: 155
   title: "Arduinos"
-  description: "En este taller se abordaran algunas temáticas  básicas que permiten desarrollar prototipos de manera fácil y rápida con Arduino. Los participantes verán algunos circuitos en donde se utilizarán las formas analógicas y digitales de entrada y salida, monitoreo y control vía comunicación serial, etc. Conocerán el entorno de programación de Arduino, en donde visualizarán de manera simple la programación de controles ON-OFF, salidas PWM, lectura de sensores analógicos para la medición de diversas variables físicas del entorno, etc."
+  description: "En este taller se abordaran algunas temáticas  básicas que permiten desarrollar prototipos de manera fácil y rápida con Arduino. Los participantes verán algunos circuitos en donde se utilizarán las formas analógicas y digitales de entrada y salida, monitoreo y control vía comunicación serial, etc. Conocerán el entorno de programación de Arduino, en donde visualizarán de manera simple la programación de controles ON-OFF, salidas PWM, lectura de sensores analógicos para la medición de diversas variables físicas del entorno, etc. <br /><a href=\"http://www.eventbrite.com/e/workshop-arduino-tickets-18375800514?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18375800514\" alt=\"Eventbrite - [Workshop] Arduino\" /></a>"
   subtype: workshop
   language: es
   complexity: "Intermediate"
@@ -507,7 +507,7 @@
 -
   id: 214
   title: "MVC"
-  description: "La actividad consistira en ver como crear un blog, aplicando la arquitectura de diseño Modelo Vista Controlador. Se trabajara con PHP mas un framweok liviano Code Igniter, como agregado usaremos Boostrap 3. El objetivo es ir construyendo el sitio web paso a paso,  desglosando cada concepto para entender el rol que debe cumpli cada ente esto es que debe hacer un modelo, lo que debe hacer el controlador y lo que debe hacer la vista."
+  description: "La actividad consistira en ver como crear un blog, aplicando la arquitectura de diseño Modelo Vista Controlador. Se trabajara con PHP mas un framweok liviano Code Igniter, como agregado usaremos Boostrap 3. El objetivo es ir construyendo el sitio web paso a paso,  desglosando cada concepto para entender el rol que debe cumpli cada ente esto es que debe hacer un modelo, lo que debe hacer el controlador y lo que debe hacer la vista. <br /><a href=\"http://www.eventbrite.com/e/workshop-mvs-tickets-18414316717?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18414316717\" alt=\"Eventbrite - [workshop] MVS\" /></a>"
   subtype: workshop
   speakers: [49]
   language: es
@@ -523,7 +523,7 @@
 -
   id: 217
   title: "Innovación en la Escala de AWS"
-  description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube."
+  description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube.<br /><a href=\"http://www.eventbrite.com/e/amazon-innovacion-en-la-escala-de-aws-tickets-18419734923?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18419734923\" alt=\"Eventbrite - AMAZON - Innovación en la Escala de AWS\" /></a>"
   subtype: sala250
   speakers: [1]
   language: es
@@ -531,8 +531,8 @@
 -
   id: 218
   title: "El Tercer Por qué"
-  description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube."
-  subtype: keynote
+  description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube.<br /><a href=\"http://www.eventbrite.com/e/amazon-el-tercer-por-que-tickets-18420616560?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18420616560\" alt=\"Eventbrite - AMAZON - El Tercer Por qué\" /></a>"
+  subtype: workshop
   speakers: [1]
   language: es
   complexity: "Fácil"
@@ -578,8 +578,8 @@
 -
   id: 224
   title: "Microsoft Edge: The Browser for Doing"
-  description: "Un nuevo browser unificado que entrega la mejor experiencia en todos los dispositivos Windows 10. En esta sesión veremos las ventajas de preparar los sitios para Edge, y analizaremos cómo el nuevo motor trae una nueva experiencia no solamente para el usuario final sino para los desarrolladores."
-  subtype: keynote
+  description: "Un nuevo browser unificado que entrega la mejor experiencia en todos los dispositivos Windows 10. En esta sesión veremos las ventajas de preparar los sitios para Edge, y analizaremos cómo el nuevo motor trae una nueva experiencia no solamente para el usuario final sino para los desarrolladores.<br /><a href=\"http://www.eventbrite.com/e/workshop-microsoft-edge-the-browser-for-doing-tickets-18381107387?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18381107387\" alt=\"Eventbrite - [Workshop] Microsoft Edge: The Browser for Doing\" /></a>"
+  subtype: workshop
   language: es
   complexity: "Fácil"
   speakers: [48]
@@ -602,8 +602,8 @@
 -
   id: 227
   title: "Escalando para los primeros millones de usuarios"
-  description: ""
-  subtype: keynote
+  description: "<br /><a href=\"http://www.eventbrite.com/e/amazon-escalando-para-los-primeros-millones-de-usuarios-tickets-18420665707?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18420665707\" alt=\"Eventbrite - AMAZON - Escalando para los primeros millones de usuarios\" /></a>"
+  subtype: workshop
   language: es
   complexity: "Intermedio"
   speakers: [1]
@@ -615,3 +615,19 @@
   language: en
   complexity: "Intermediate"
   speakers: [51]
+-
+  id: 229
+  title: "AMAZON - Fireside Chat: La Nube y el Negocio de Startups  - Amazon Web Services, 4 Startups (Casos de Éxito)"
+  description: "<br /><a href=\"http://www.eventbrite.com/e/amazon-fireside-chat-la-nube-y-el-negocio-de-startups-tickets-18419180264?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18419180264\" alt=\"Eventbrite - AMAZON - Fireside Chat: La Nube y el Negocio de Startups\" /></a>"
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+  speakers: [62]
+-
+  id: 230
+  title: "AMAZON - Startup Best Practices: Asesoramiento empresarial y técnico sobre los temas alrededor de negocios innovadores con AWS y Startup Chile"
+  description: "<br /><a href=\"http://www.eventbrite.com/e/amazon-startup-best-practices-tickets-18419503230?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18419503230\" alt=\"Eventbrite - AMAZON - Startup Best Practices\" /></a>"
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+  speakers: [62]
