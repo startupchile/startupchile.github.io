@@ -210,11 +210,6 @@
         sessionIds: [404,215]
       }
     - {
-        startTime: "11:00",
-        endTime: "12:00",
-        sessionIds: [404, 217]
-      }
-    - {
         startTime: "11:15",
         endTime: "11:30",
         sessionIds: [126, 404]
@@ -256,8 +251,8 @@
     }
     - {
         startTime: "14:00",
-        endTime: "15:30",
-        sessionIds: [217, 404]
+        endTime: "15:00",
+        sessionIds: [404, 217]
     }
     - {
         startTime: "14:00",
