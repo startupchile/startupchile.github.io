@@ -607,3 +607,40 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 63
+  name: "Webpay Team"
+  surname: ""
+  company: "Transbank"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 64
+  name: "Juan"
+  surname: "Pablo Garcia"
+  company: "Microsoft"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 65
+  name: "Pablo"
+  surname: "Davicino"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }

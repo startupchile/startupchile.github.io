@@ -475,9 +475,9 @@
 -
   id: 210
   title: "Cómo utilizar el nuevo producto de transbank"
-  description: ""
+  description: "presentación de los productos Webpay, presentación del portal de integradores y practica con desarrolladores <br /><a href=\"http://www.eventbrite.com/e/workshop-como-utilizar-el-nuevo-producto-de-transbank-tickets-18414162255?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18414162255\" alt=\"Eventbrite - [workshop] Cómo utilizar el nuevo producto de transbank\" /></a>"
   subtype: workshop
-  speakers: [4]
+  speakers: [63]
   language: en
   complexity: "Intermediate"
 -
@@ -631,3 +631,19 @@
   language: en
   complexity: "Intermediate"
   speakers: [62]
+-
+  id: 231
+  title: "Azure Web Apps: plataforma para desarrollo de aplicaciones Web en la Nube"
+  description: "El servicio Azure Web Apps permite a los desarrolladores crear, implementar y administrar sitios y aplicaciones web. Permite construir aplicaciones web y APIs basadas en estándares no sólo con .NET sino que con NodeJS, PHP, Python y Java. En este presentación veremos cómo crear y hacer deploy de una aplicación Web de manera rápida, en alta disponibilidad y que auto escale según demanda en tre otras características."
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+  speakers: [64]
+-
+  id: 232
+  title: "Seguridad 3.0: Blindaje de aplicaciones en un mundo globalizado"
+  description: "Los vectores de ataque y posibilidades de compromiso se multiplican, lo que hace que los aspectos referentes a Seguridad de la Información se conviertan en un factor crítico que típicamente es ignorado o es implementado de forma deficiente en las distintas fases del ciclo de vida del desarrollo y posterior puesta en producción de una aplicación. Durante el taller se analizaran los problemas de seguridad mas severos típicamente encontrados en un alto porcentaje de aplicaciones productivas y se mostraran técnicas de programación defensiva para intentar mitigar los mismos. <br /><a href=\"http://www.eventbrite.com/e/workshop-seguridad-30-blindaje-de-aplicaciones-en-un-mundo-globalizado-tickets-18376148555?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18376148555\" alt=\"Eventbrite - [Workshop] Seguridad 3.0: Blindaje de aplicaciones en un mundo globalizado\" /></a>"
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+  speakers: [65]
