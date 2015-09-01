@@ -271,7 +271,7 @@
   title: "Hardware IoT friendly..."
   description: "Alternativas sobre placas de desarrollo, comparaciones, ventajas, algo de sensores, etc"
   subtype: keynote
-  language: en105
+  language: en
   complexity: "Intermediate"
   speakers: [47]
 -
@@ -439,7 +439,7 @@
   id: 209
   title: "Scrum en el mundo real: o cómo hacer para que funcione"
   description: "Una de las características principales del desarrollo de software es la entrega de soluciones de calidad. Asegurar que el producto entregado cumpla con los principios de calidad del cliente es parte de un eterno debate y experimentación. 'Así no lo quería', 'en verdad no lo necesito', 'aquí hay nuevos requerimientos' son solo algunas de las frases que generalmente nos causan recelo y molestia. Después de años de experimentación aplicamos Scrum y nos dimos cuenta del secreto para una implementación exitosa: disciplina. En este workshop relataremos nuestra experiencia y compartiremos tips que deberían ayudarte a implementar Scrum en tu equipo de trabajo. <br /><a href=\"http://www.eventbrite.com/e/workshop-scrum-en-el-mundo-real-o-como-hacer-para-que-funcione-tickets-18375932910?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18375932910\" alt=\"Eventbrite - [Workshop] Scrum en el mundo real: o cómo hacer para que funcione.\" /></a>"
-  subtype: keynote
+  subtype: workshop
   speakers: [11]
   language: en
   complexity: "Intermediate"
