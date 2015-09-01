@@ -257,11 +257,11 @@
 -
   id: 29
   name: "Estanislao"
-  surname: "Lopez Morgan"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: doge.jpg
+  surname: "López Morgan"
+  company: "Tallion"
+  title: "Software Engineer"
+  bio: "Ingeniero electrónico egresado de la Facultad de Ingeniería de la Universidad de Buenos Aires, oriundo de la ciudad de Puerto Madryn provincia de Chubut;  Co fundador de entropy (www.entropy.com.ar), un emprendimiento de desarrollo de software & hardware especializado en IoT y aplicaciónes Android, y colaborador en EmprendING, una posgrado sobre emprendimientos digtado por emprendedores, en la Facultad de Ingeniería de la Universidad de Buenos Aires. Trabajé en la base Antártica San Martín durante el 2008 como técnico científico, luego en el rubro de sistemas y comunicaciones de PC por un par de años y finalmente como programador y desarrollador de dispositivos en el rubro de transporte y puntos de servicios. "
+  thumbnailUrl: estanislao.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
@@ -437,21 +437,11 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: arvinth.jpg
+  thumbnailUrl: arvinth.png
   rockstar: false
   social:
     - {name: "twitter", link: "https://www.twitter.com/achandramouli" }
--
-  id: 47
-  name: "Estanislao"
-  surname: "López Morgan"
-  company: "Tallion"
-  title: "Software Engineer"
-  bio: "Ingeniero electrónico egresado de la Facultad de Ingeniería de la Universidad de Buenos Aires, oriundo de la ciudad de Puerto Madryn provincia de Chubut;  Co fundador de entropy (www.entropy.com.ar), un emprendimiento de desarrollo de software & hardware especializado en IoT y aplicaciónes Android, y colaborador en EmprendING, una posgrado sobre emprendimientos digtado por emprendedores, en la Facultad de Ingeniería de la Universidad de Buenos Aires. Trabajé en la base Antártica San Martín durante el 2008 como técnico científico, luego en el rubro de sistemas y comunicaciones de PC por un par de años y finalmente como programador y desarrollador de dispositivos en el rubro de transporte y puntos de servicios. "
-  thumbnailUrl: estanislao.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://www.twitter.com/#" }
+
 -
   id: 48
   name: "Gabriel"
@@ -514,7 +504,7 @@
   company: "Microsoft"
   title: "Technical Evangelist"
   bio: "Technical Evangelist de Microsoft con foco en soluciones de Automatización, Infraestructura y Cloud, especialista en integración de herramientas para la disciplina de DevOps y fanático de la Internet of Things (IoT)."
-  thumbnailUrl: doge.jpg
+  thumbnailUrl: alex.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "" }
