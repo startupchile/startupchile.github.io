@@ -181,13 +181,13 @@
   id: 22
   name: "Rodrigo"
   surname: "Salinas"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: doge.jpg
+  company: "Veris SpA"
+  title: "Founder"
+  bio: "A nivel profesional, durante los últimos 20 años he estado aprendiendo, practicando y enseñando a la ingeniería de software en varias universidades. Actualmente, realmente creo en el valor de Software Artesanía, Diseño Driven-Domain, patrones de diseño, principios y métodos ágiles de Integración / entrega continua. Conectado a estos conceptos, me gusta leer y aprender de la gente que respeto como Christopher Alexander, Martin Fowler, tío 'Bob' Martin, Vaughn Vernon, Eric Evans, entre muchos otros. Con frecuencia me gusta escribir mensajes para mi blog, donde tengo la oportunidad de poner en palabras mis pensamientos y experiencias relacionadas con la lucha contra la complejidad en el corazón del desarrollo de software empresarial. Yo soy uno de los fundadores de Veris SpA, una firma de arquitectura de software que proporciona un alto nivel de consultoría a empresas importantes."
+  thumbnailUrl: rodrigo_salinas.png
   rockstar: false
   social:
-    - {name: "twitter", link: "https://www.twitter.com/#"}
+    - {name: "twitter", link: "https://www.twitter.com/rodrigosalinas"}
 -
   id: 23
   name: "Chris"
@@ -206,7 +206,7 @@
   company: "Hypementor"
   title: "Programmer"
   bio: ""
-  thumbnailUrl: doge.jpg
+  thumbnailUrl: kendall.png
   rockstar: false
   social:
     - {name: "twitter", link: "https://www.twitter.com/kcole16" }
@@ -214,13 +214,13 @@
   id: 25
   name: "Gavin"
   surname: "Kearney"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: doge.jpg
+  company: "Jumble.io"
+  title: "Privacy advocate"
+  bio: "Privacy advocate, tech enthusiast, entrepreneur, founder of https://Jumble.io "
+  thumbnailUrl: gavin.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://www.twitter.com/#" }
+    - {name: "twitter", link: "https://www.twitter.com/gavkearney" }
 -
   id: 26
   name: "Emiliano"
@@ -414,7 +414,7 @@
   surname: "Toledo"
   company: "Microsoft"
   title: "CTO Birdie/Microsoft MVP de Windows"
-  bio: ""
+  bio: "Es el Fundador y CTO de Birdie, compañía que desarrolla aplicaciones móviles y cloud. Developer de aplicaciones como TransantiagoMaster y Earthquake Watch. Desde el 2013 es reconocido como Most Valuable Professional por Microsoft y es el fundador de la comunidad local de desarrolladores de Xamarin Chile."
   thumbnailUrl: ivan_toledo.jpg
   rockstar: false
   social:
@@ -425,8 +425,8 @@
   surname: "Alvarado"
   company: "Amazon"
   title: "Arquitecto de Soluciones"
-  bio: ""
-  thumbnailUrl: doge.jpg
+  bio: "Ingeniero de Sistemas y Computación, egresado de la Universidad de Los Andes, en Bogotá – Colombia. Actualmente Arquitecto de Soluciones en Amazon Web Services para Latinoamérica, con énfasis en países de habla hispana en el cono sur. Con más de 5 años de experiencia en el área de tecnología, se ha enfocado en la computación en nube y diseño de arquitecturas escalables, altamente disponibles y tolerantes a fallas. Además, ha ejercido también como creador de medios digitales para empresas del sector automotriz, incluyendo modelaje y animación CAD."
+  thumbnailUrl: henry_alvarado.png
   rockstar: true
   social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
@@ -437,18 +437,18 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: doge.jpg
+  thumbnailUrl: arvinth.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://www.twitter.com/#" }
+    - {name: "twitter", link: "https://www.twitter.com/achandramouli" }
 -
   id: 47
   name: "Estanislao"
   surname: "López Morgan"
   company: "Tallion"
   title: "Software Engineer"
-  bio: ""
-  thumbnailUrl: doge.jpg
+  bio: "Ingeniero electrónico egresado de la Facultad de Ingeniería de la Universidad de Buenos Aires, oriundo de la ciudad de Puerto Madryn provincia de Chubut;  Co fundador de entropy (www.entropy.com.ar), un emprendimiento de desarrollo de software & hardware especializado en IoT y aplicaciónes Android, y colaborador en EmprendING, una posgrado sobre emprendimientos digtado por emprendedores, en la Facultad de Ingeniería de la Universidad de Buenos Aires. Trabajé en la base Antártica San Martín durante el 2008 como técnico científico, luego en el rubro de sistemas y comunicaciones de PC por un par de años y finalmente como programador y desarrollador de dispositivos en el rubro de transporte y puntos de servicios. "
+  thumbnailUrl: estanislao.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
@@ -496,3 +496,25 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/Ashwin_7" }
+-
+  id: 52
+  name: "Hans"
+  surname: "Nemarich"
+  company: "Microsoft"
+  title: "Gerente de Arquitectura y Technical Evangelist"
+  bio: "Gerente de Arquitectura y Technical Evangelist de Microsoft en las áreas de Innovación y nuevas Tecnologías. Paralelamente, es mentor en varios programas de incubación locales y responsable de la ejecución local del programa Microsoft Bizspark para Start-ups."
+  thumbnailUrl: hans.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "" }
+-
+  id: 53
+  name: "Alex"
+  surname: "Campos"
+  company: "Microsoft"
+  title: "Technical Evangelist"
+  bio: "Technical Evangelist de Microsoft con foco en soluciones de Automatización, Infraestructura y Cloud, especialista en integración de herramientas para la disciplina de DevOps y fanático de la Internet of Things (IoT)."
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "" }
