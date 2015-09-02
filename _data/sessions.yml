@@ -650,8 +650,8 @@
 -
   id: 233
   title: "Workflow profesional para el desarrollador independiente"
-  description: ""
+  description: "La alta demanda de la industria además del crecimiento exponencial del emprendimiento en Chile han llevado a que muchos desarrolladores trabajemos bajo el modelo freelance o de manera remota. En este taller revisaremos técnicas de organización, manejo de proyectos y trackeo de tareas. Recuerda traer tu proyecto y en conjunto obtendrás consejos para sacarle mayor provecho a tu tiempo."
   subtype: workshop
-  language: en
+  language: es
   complexity: "Intermediate"
   speakers: [2]
