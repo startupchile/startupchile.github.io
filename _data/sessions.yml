@@ -220,7 +220,7 @@
   title: "MVC (Model-View-Controller)"
   description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta keynote presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
   subtype: keynote
-  sala: A401
+  sala: A403
   language: en
   complexity: "Intermedio"
   speakers: [46]
@@ -563,6 +563,7 @@
   title: "MVC"
   description: "La actividad consistira en ver como crear un blog, aplicando la arquitectura de diseño Modelo Vista Controlador. Se trabajara con PHP mas un framweok liviano Code Igniter, como agregado usaremos Boostrap 3. El objetivo es ir construyendo el sitio web paso a paso,  desglosando cada concepto para entender el rol que debe cumpli cada ente esto es que debe hacer un modelo, lo que debe hacer el controlador y lo que debe hacer la vista. <br /><a href=\"http://www.eventbrite.com/e/workshop-mvs-tickets-18414316717?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18414316717\" alt=\"Eventbrite - [workshop] MVS\" /></a>"
   subtype: workshop
+  sala: A401
   speakers: [49]
   language: es
   complexity: "Intermedio"
@@ -633,6 +634,7 @@
   title: "¿Cómo presentarte ante tus clientes?"
   description: "Guía práctica sobre todo lo que debes hacer y lo que no al momento de presentarte ante tus clientes."
   subtype: keynote
+  sala: Main Stage
   language: es
   complexity: "Fácil"
   speakers: [38]
