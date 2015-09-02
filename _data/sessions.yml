@@ -121,6 +121,7 @@
   sala: A308
   language: es
   complexity: "Intermedia"
+
 -
   id: 115
   title: "About developer communities and trends in San Francisco. "
@@ -539,6 +540,7 @@
   speakers: [10]
   language: es
   complexity: "Intermedio"
+  complete: true
 -
   id: 208
   title: "Notify, notificaciones en tiempo real para 6 millones de dispositivos"
@@ -611,6 +613,7 @@
   speakers: [20]
   language: es
   complexity: "Intermedio"
+  complete: true
 -
   id: 217
   title: "Innovación en la Escala de AWS"
