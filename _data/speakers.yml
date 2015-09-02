@@ -382,11 +382,11 @@
   surname: "Serrano"
   company: "Girls in tech"
   title: ""
-  bio: "Emprendedora Tech. Amante del mar y la playa. Lloro con las películas. Creo en el amor. Fundadora de http://www.matsya.cl  y http://www.thevoyage.cl "
+  bio: "Emprendedora Tech. Master in Business Administration. Desarrolladora Web. Fundadora de Matsya, empresa de branding digital ubicada en la V región. Asesora en estrategia de marketing digital y SEO. Miembro del directorio de Girls in Tech V región."
   thumbnailUrl: daniela_serrano.png
   rockstar: false
   social:
-    - {name: "twitter", link: "https://www.twitter.com/danyserrano" }
+    - {name: "twitter", link: "" }
 -
   id: 39
   name: "Francisco"
@@ -494,7 +494,7 @@
   company: "DevCode.la"
   title: "CEO"
   bio: ""
-  thumbnailUrl: nico_fiorito.jpg
+  thumbnailUrl: edwin.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
@@ -687,3 +687,25 @@
   rockstar: false
   social:
     - {name: "twitter", link: "" }
+-
+  id: 69
+  name: "Christian"
+  surname: "Vito"
+  company: "Hackealo"
+  title: ""
+  bio: ""
+  thumbnailUrl: christian.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/christian_vito" }
+-
+  id: 70
+  name: "Ruben Gonzalez"
+  surname: "Vito"
+  company: "Hackealo"
+  title: ""
+  bio: ""
+  thumbnailUrl: ruben.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/ruben8816" }
