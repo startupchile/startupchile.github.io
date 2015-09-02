@@ -640,7 +640,14 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/pablodavicino" }
-
+-
+  id: 66
+  name: "Maximiliano"
+  surname: "Castro"
+  company: "Axiomzen"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/#" }
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pablodavicino" }

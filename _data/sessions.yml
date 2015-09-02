@@ -3,6 +3,7 @@
   title: "Exorcisando tu código asincrónico"
   description: "El codigo asincrono es dificil de entender, los calbacks dentro de callbacks penan entre el bosque de archivos del proyecto, los bugs se esconden detras de cada nesteo de tu codigo. Ven y aprende un par de patrones poderosos para exorcisar tu codigo asincrono con Promesas, generadores y Async/Await"
   subtype: keynote
+  sala:
   language: es
   complexity: "Intermedio"
   speakers: [9]
@@ -421,8 +422,9 @@
   title: "ECMAScript 2015"
   description: "Conoce lo nuevo de Javascript con su nuevo estándar ECMAScript 2015, aprenderás las novedades que incluye la nueva versión, cuáles son sus ventajas y cómo podrás sacarle provecho desde hoy en tus aplicaciones utilizando BabelJS.Los participantes deben tener node.js instalado en su equipo, no requiere experiencia previa en node.js, pero sí conocimientos básicos en JavaScript.<br /><a href=\"http://www.eventbrite.com/e/workshop-ecmascript-2015-tickets-18375852670?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18375852670\" alt=\"Eventbrite - [Workshop] ECMAScript 2015\" /></a>"
   subtype: workshop
-  speakers: [4]
-  language: en
+  sala: sala65
+  speakers: [66]
+  language: es
   complexity: "Intermediate"
 -
   id: 203

@@ -12,6 +12,9 @@
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
 						<h4>{{ session.title }}</h4>
+						{% if session.sala != null %}
+						<span class="theme-metadata"><span class="caption">Sala: </span>{{ session.sala }}</span>
+						{% endif %}
 						{% if session.language != null %}
 						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
 						{% endif %}
@@ -43,7 +46,7 @@
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
 					                            {% for ribbon in speaker.ribbon %}
-					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
 					                            {% endfor %}
 					                        </div>
 					                        {% endif %}
