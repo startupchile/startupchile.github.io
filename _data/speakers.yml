@@ -21,6 +21,17 @@
   social:
     - {name: "twitter", link: "https://www.twitter.com/juanpintoduran"}
 -
+  id: 64
+  name: "Juan"
+  surname: "Pablo Garcia"
+  company: "Microsoft"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
   id: 18
   name: "Alenjandro (Jano)"
   surname: "Gonzalez"
@@ -31,6 +42,18 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://www.twitter.com/janogonzalez"}
+-
+  id: 66
+  name: "Maximiliano"
+  surname: "Castro"
+  company: "Axiomzen"
+  title: ""
+  bio: ""
+  thumbnailUrl: Maximiliano_Castro.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pablodavicino" }
+
 -
   id: 11
   name: "Rodrigo"
@@ -239,7 +262,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: doge.jpg
+  thumbnailUrl: Sergey_Petrov.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
@@ -526,7 +549,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: doge.jpg
+  thumbnailUrl: Jose_Antonio_Gonzalez.jpg
   rockstar: false
   social:
     - {name: "facebook", link: "https://www.facebook.com/jagonzalr182?fref=ts" }
@@ -537,7 +560,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: doge.jpg
+  thumbnailUrl: Sebastian_Duran.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/#" }
@@ -548,7 +571,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: doge.jpg
+  thumbnailUrl: Daniil_Brodovich.jpg
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=75651003&authType=name&authToken=mYvn&trk=api*a109924*s118458*" }
@@ -581,7 +604,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: doge.jpg
+  thumbnailUrl: Spencer_Handley.jpg
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/spencer48" }
@@ -619,35 +642,13 @@
   social:
     - {name: "twitter", link: "https://twitter.com/#" }
 -
-  id: 64
-  name: "Juan"
-  surname: "Pablo Garcia"
-  company: "Microsoft"
-  title: ""
-  bio: ""
-  thumbnailUrl: doge.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/#" }
--
   id: 65
   name: "Pablo"
   surname: "Davicino"
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: doge.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pablodavicino" }
--
-  id: 66
-  name: "Maximiliano"
-  surname: "Castro"
-  company: "Axiomzen"
-  title: ""
-  bio: ""
-  thumbnailUrl: doge.jpg
+  thumbnailUrl: Pablo_Davicino.jpg
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/pablodavicino" }
