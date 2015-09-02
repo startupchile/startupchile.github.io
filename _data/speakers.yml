@@ -283,7 +283,7 @@
   surname: "López Morgan"
   company: "Tallion"
   title: "Software Engineer"
-  bio: "Ingeniero electrónico egresado de la Facultad de Ingeniería de la Universidad de Buenos Aires, oriundo de la ciudad de Puerto Madryn provincia de Chubut;  Co fundador de entropy (www.entropy.com.ar), un emprendimiento de desarrollo de software & hardware especializado en IoT y aplicaciónes Android, y colaborador en EmprendING, una posgrado sobre emprendimientos digtado por emprendedores, en la Facultad de Ingeniería de la Universidad de Buenos Aires. Trabajé en la base Antártica San Martín durante el 2008 como técnico científico, luego en el rubro de sistemas y comunicaciones de PC por un par de años y finalmente como programador y desarrollador de dispositivos en el rubro de transporte y puntos de servicios. "
+  bio: "Ingeniero electrónico egresado de la Facultad de Ingeniería de la Universidad de Buenos Aires, oriundo de la ciudad de Puerto Madryn provincia de Chubut;  Co fundador de entropy (www.entropy.com.ar), un emprendimiento de desarrollo de software & hardware especializado en IoT y aplicaciónes Android, y colaborador en EmprendING, una posgrado sobre emprendimientos dictado por emprendedores, en la Facultad de Ingeniería de la Universidad de Buenos Aires. Trabajé en la base Antártica San Martín durante el 2008 como técnico científico, luego en el rubro de sistemas y comunicaciones de PC por un par de años y finalmente como programador y desarrollador de dispositivos en el rubro de transporte y puntos de servicios. "
   thumbnailUrl: estanislao.jpg
   rockstar: false
   social:
@@ -385,8 +385,6 @@
   bio: "Emprendedora Tech. Master in Business Administration. Desarrolladora Web. Fundadora de Matsya, empresa de branding digital ubicada en la V región. Asesora en estrategia de marketing digital y SEO. Miembro del directorio de Girls in Tech V región."
   thumbnailUrl: daniela_serrano.png
   rockstar: false
-  social:
-    - {name: "twitter", link: "" }
 -
   id: 39
   name: "Francisco"
