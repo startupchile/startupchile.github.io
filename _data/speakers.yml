@@ -587,15 +587,15 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/spencer48" }
 -
   id: 61
-  name: "Ankur"
-  surname: "Agarwal"
+  name: "Juan"
+  surname: "Antonio Karmy"
   company: "Filtr.io"
-  title: "CEO"
+  title: ""
   bio: ""
   thumbnailUrl: doge.jpg
   rockstar: false
   social:
-    - {name: "facebook", link: "https://www.facebook.com/ankurdadreamer" }
+    - {name: "facebook", link: "https://www.facebook.com/#" }
 -
   id: 62
   name: "AWS Team"

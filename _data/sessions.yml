@@ -3,7 +3,7 @@
   title: "Exorcisando tu código asincrónico"
   description: "El codigo asincrono es dificil de entender, los calbacks dentro de callbacks penan entre el bosque de archivos del proyecto, los bugs se esconden detras de cada nesteo de tu codigo. Ven y aprende un par de patrones poderosos para exorcisar tu codigo asincrono con Promesas, generadores y Async/Await"
   subtype: keynote
-  sala:
+  sala: Main Stage
   language: es
   complexity: "Intermedio"
   speakers: [9]
@@ -12,6 +12,7 @@
   title: "Escalar un e-commerce con Rails"
   description: "Highlights: Dicen que Rails no escala, que tan cierto es eso?, Los casos de escalamiento de twitter y groupon no aplican al 90% de nosotros, Las estrategias de escalamiento dependen del uso de las aplicaciones, La optimización de una app va desde el hardware, hasta el número de líneas de un método, donde empezamos?"
   subtype: keynote
+  sala: A401
   speakers: [12]
   language: es
   complexity: "Intermedio"
@@ -38,6 +39,7 @@
   title: "Arquitectura de Microservicios: más flexibilidad y productividad en el desarrollo de productos de software"
   description: "En el desarrollo de produtos de software, es muy importante tener flexibilidad para cambiar o añadir nuevas features. En la medida que se conoce mejor las necesidades del cliente, hacer cambios rápidos y adaptarse a demandas de tus usuários es fundamental para el éxito de un produto. Todavía, si la arquitectura del sistema no permite esta flexibilidad, desarrolladores tardan cada vez más y el software se torna demasiado complejo, tornando caro y retrasando el lanzamiento de nuevas features. Una arquitectura de micro-servicios divide el software em pequeños componentes independientes. Estos componentes son intercambiables, y pueden ser reutilizados muchas veces en el mismo producto, o mismo en productos distintos. Cada módulo del sistema se volve un pequeño problema aislado de la complexidad del sistema como un todo. Cambiar servicios o añadir nuevos servicios se vuelve trivial, resultando en un software flexible, con más calidad y permitiendo más productividad al equipo de desarrollo."
   subtype: keynote
+  sala: Main Stage
   language: es
   complexity: "Intermedio"
   speakers: [31]
@@ -193,13 +195,15 @@
   title: "El programador pragmático: Desarrolla tus herramientas"
   description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta keynote presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
   subtype: keynote
-  language: en
+  sala: A401
+  language: es
   complexity: "Intermediate"
 -
   id: 124
   title: "Parkinson, Brooks, Lisp y Unix: Lecciones del siglo pasado para los devs de hoy"
   description:  "Se trata de rescatar sabiduría de (literalmente) el siglo pasado y aplicarla a nuestro día a día. Cosas de The Mythical Man Month (1975), Parkinson's Law (1958), lecciones de la comunidad Unix y Lisp, etc (muchas de las cuales son redescubiertas cada cierto tiempo por cada generación)."
   subtype: keynote
+  sala: Main Stage
   speakers: [7]
   language: es
   complexity: "Intermediate"
@@ -216,6 +220,7 @@
   title: "MVC (Model-View-Controller)"
   description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta keynote presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
   subtype: keynote
+  sala: A401
   language: en
   complexity: "Intermedio"
   speakers: [46]
@@ -224,6 +229,7 @@
   title: "Intro to MoongoDB &/or NoSQL"
   description: ""
   subtype: keynote
+  sala: A403
   language: en
   complexity: "Intermedio"
   speakers: [46]
@@ -297,6 +303,7 @@
   title: "Hardware IoT friendly..."
   description: "Alternativas sobre placas de desarrollo, comparaciones, ventajas, algo de sensores, etc"
   subtype: keynote
+  sala: A403
   language: en
   complexity: "Intermediate"
   speakers: [47]
@@ -321,6 +328,7 @@
   title: "Data Scientist, the sexiest job of the 21 century"
   description: ""
   subtype: keynote
+  sala: Main Stage
   language: en
   complexity: "Intermediate"
 -
@@ -337,6 +345,7 @@
   title: "Oportunidades de innovación en el Estado"
   description: "Diversos instrumentos que existen en el estado para crear herramientas y plataformas innovativas que ayuden a mejorar la vida de los ciudadanos."
   subtype: keynote
+  sala: A408
   language: es
   complexity: "Fácil"
   speakers: [32]
@@ -380,6 +389,7 @@
   title: "Hacia la integración de pagos que queremos."
   description: "Los desarrolladores siempre soñamos en integrarnos con sistemas externos a la primera, en esta keynote exploraremos como lo podemos lograr sin depender de un tercero."
   subtype: keynote
+  sala: A403
   language: es
   complexity: "Intermedio"
 -
@@ -419,6 +429,7 @@
   title: "Discovering supernova with Python*"
   description: ""
   subtype: keynote
+  sala: Main Stage
   language: en
   complexity: "Intermediate"
 
@@ -560,6 +571,7 @@
   title: "Crea tu primera startup con Ruby on Rails desde cero"
   description: "Eres programador y quieres tener tu propia startup ?. Este es un taller en el que abarcaremos algunas cosas de lenguaje Ruby y les ayudaré a armar su primera aplicación en Ruby on Rails. A lo largo de este taller aprenderás: Nociones de Ruby, Nociones de Rails, Creación de modelos, controladores y vistas, Agregaremos bootstrap, Agregaremos Autenticación a la aplicación, Login con Facebook. <br /><a href=\"http://www.eventbrite.com/e/workshop-crea-tu-primera-startup-con-ruby-on-rails-desde-cero-tickets-18376087372?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18376087372\" alt=\"Eventbrite - [Workshop] Crea tu primera startup con Ruby on Rails desde cero\" /></a>"
   subtype: workshop
+  sala: A401
   speakers: [20]
   language: es
   complexity: "Intermedio"
@@ -567,7 +579,8 @@
   id: 217
   title: "Innovación en la Escala de AWS"
   description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube.<br /><a href=\"http://www.eventbrite.com/e/amazon-innovacion-en-la-escala-de-aws-tickets-18419734923?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18419734923\" alt=\"Eventbrite - AMAZON - Innovación en la Escala de AWS\" /></a>"
-  subtype: sala250
+  subtype: workshop
+  sala: A405
   speakers: [1]
   language: es
   complexity: "Intermedio"
@@ -576,6 +589,7 @@
   title: "El Tercer Por qué"
   description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube.<br /><a href=\"http://www.eventbrite.com/e/amazon-el-tercer-por-que-tickets-18420616560?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18420616560\" alt=\"Eventbrite - AMAZON - El Tercer Por qué\" /></a>"
   subtype: workshop
+  sala: A405
   speakers: [1]
   language: es
   complexity: "Fácil"
@@ -627,6 +641,7 @@
   title: "Microsoft Edge: The Browser for Doing"
   description: "Un nuevo browser unificado que entrega la mejor experiencia en todos los dispositivos Windows 10. En esta sesión veremos las ventajas de preparar los sitios para Edge, y analizaremos cómo el nuevo motor trae una nueva experiencia no solamente para el usuario final sino para los desarrolladores.<br /><a href=\"http://www.eventbrite.com/e/workshop-microsoft-edge-the-browser-for-doing-tickets-18381107387?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18381107387\" alt=\"Eventbrite - [Workshop] Microsoft Edge: The Browser for Doing\" /></a>"
   subtype: workshop
+  sala: A405
   language: es
   complexity: "Fácil"
   speakers: [48]
@@ -635,6 +650,7 @@
   title: "Fundamentos de Backbone.js"
   description: "En este workshop vamos a aprender los fundamentos de Backbone.js y construiremos un pequeño proyecto para entender como funciona. <br /><a href=\"http://www.eventbrite.com/e/workshop-fundamentos-de-backbonejs-tickets-18376124483?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18376124483\" alt=\"Eventbrite - [Workshop] Fundamentos de Backbone.js\" /></a>"
   subtype: workshop
+  sala: A403
   language: es
   complexity: "Fácil"
   speakers: [48]
@@ -643,6 +659,7 @@
   title: "Cómo definir el seniority de un desarrollador"
   description: "Durante una hora estos 3 experimentados programadores estarán charlando y debatiendo sobre la industria y cómo se define el seniority de un desarrollador"
   subtype: workshop
+  sala: Main Stage
   language: es
   complexity: "Intermedio"
   speakers: [15]
@@ -651,6 +668,7 @@
   title: "Escalando para los primeros millones de usuarios"
   description: "<br /><a href=\"http://www.eventbrite.com/e/amazon-escalando-para-los-primeros-millones-de-usuarios-tickets-18420665707?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18420665707\" alt=\"Eventbrite - AMAZON - Escalando para los primeros millones de usuarios\" /></a>"
   subtype: workshop
+  sala: A405
   language: es
   complexity: "Intermedio"
   speakers: [1]
@@ -659,6 +677,7 @@
   title: "How to get your first 1000 app downloads"
   description: "Worked hard on your app and made it into a polished product. Now all you need to do is to get users. As simple as it sounds, getting users is one of the hardest tricks for developers. We're going to explore growth hacks and tips to get to that initial 1000!"
   subtype: keynote
+  sala: A403
   language: en
   complexity: "Intermediate"
   speakers: [51]
@@ -685,6 +704,7 @@
   title: "Azure Web Apps: plataforma para desarrollo de aplicaciones Web en la Nube"
   description: "El servicio Azure Web Apps permite a los desarrolladores crear, implementar y administrar sitios y aplicaciones web. Permite construir aplicaciones web y APIs basadas en estándares no sólo con .NET sino que con NodeJS, PHP, Python y Java. En este presentación veremos cómo crear y hacer deploy de una aplicación Web de manera rápida, en alta disponibilidad y que auto escale según demanda en tre otras características."
   subtype: workshop
+  sala: A405
   language: en
   complexity: "Intermediate"
   speakers: [64]
@@ -693,6 +713,7 @@
   title: "Seguridad 3.0: Blindaje de aplicaciones en un mundo globalizado"
   description: "Los vectores de ataque y posibilidades de compromiso se multiplican, lo que hace que los aspectos referentes a Seguridad de la Información se conviertan en un factor crítico que típicamente es ignorado o es implementado de forma deficiente en las distintas fases del ciclo de vida del desarrollo y posterior puesta en producción de una aplicación. Durante el taller se analizaran los problemas de seguridad mas severos típicamente encontrados en un alto porcentaje de aplicaciones productivas y se mostraran técnicas de programación defensiva para intentar mitigar los mismos. <br /><a href=\"http://www.eventbrite.com/e/workshop-seguridad-30-blindaje-de-aplicaciones-en-un-mundo-globalizado-tickets-18376148555?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18376148555\" alt=\"Eventbrite - [Workshop] Seguridad 3.0: Blindaje de aplicaciones en un mundo globalizado\" /></a>"
   subtype: workshop
+  sala: A403
   language: en
   complexity: "Intermediate"
   speakers: [65]
@@ -701,6 +722,7 @@
   title: "Workflow profesional para el desarrollador independiente"
   description: "La alta demanda de la industria además del crecimiento exponencial del emprendimiento en Chile han llevado a que muchos desarrolladores trabajemos bajo el modelo freelance o de manera remota. En este taller revisaremos técnicas de organización, manejo de proyectos y trackeo de tareas. Recuerda traer tu proyecto y en conjunto obtendrás consejos para sacarle mayor provecho a tu tiempo."
   subtype: workshop
+  sala: A401
   language: es
   complexity: "Intermediate"
   speakers: [2]
