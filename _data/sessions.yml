@@ -647,3 +647,11 @@
   language: en
   complexity: "Intermediate"
   speakers: [65]
+-
+  id: 233
+  title: "Workflow profesional para el desarrollador independiente"
+  description: ""
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+  speakers: [2]
