@@ -488,6 +488,14 @@
   complexity: "Intermedia"
   speakers: [68]
 -
+  id: 159
+  title: "Hackealo: un portal de empleos diferente."
+  description: "Los co-fundadores de Hackealo.co, el portal de empleo para talento IT que está revolucionando la forma de contratar profesionales en la industria nos cuentan por qué fallan los reclutadores, cómo están innovando y cómo puedes encontrar la oportunidad ideal para ti. ¡No te lo puedes perder!"
+  subtype: keynote
+  language: es
+  complexity: "basic"
+  speakers: [69,70]
+-
   id: 202
   title: "ECMAScript 2015"
   description: "Conoce lo nuevo de Javascript con su nuevo estándar ECMAScript 2015, aprenderás las novedades que incluye la nueva versión, cuáles son sus ventajas y cómo podrás sacarle provecho desde hoy en tus aplicaciones utilizando BabelJS.Los participantes deben tener node.js instalado en su equipo, no requiere experiencia previa en node.js, pero sí conocimientos básicos en JavaScript.<br /><a href=\"http://www.eventbrite.com/e/workshop-ecmascript-2015-tickets-18375852670?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18375852670\" alt=\"Eventbrite - [Workshop] ECMAScript 2015\" /></a>"
@@ -560,7 +568,7 @@
   complexity: "Intermedia"
 -
   id: 211
-  title: "Aprender a programar en Angular con Coder house"
+  title: "Aprender a programar en Angular con Coderhouse"
   description: "Oscar realizará una introducción sobre AngularJS, el framework open-source de aplicaciones web creado por Google. <br /><a href=\"http://www.eventbrite.com/e/workshop-introduccion-a-angularjs-por-coderhouse-tickets-18377823565?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18377823565\" alt=\"Eventbrite - [Workshop] Introducción a AngularJS por Coderhouse\" /></a>"
   subtype: workshop
   sala: A303
@@ -655,6 +663,7 @@
   subtype: keynote
   sala: A304
   language: es
+  speakers: [52]
   complexity: "Fácil"
 -
   id: 223
@@ -682,7 +691,7 @@
   sala: A403
   language: es
   complexity: "Fácil"
-  speakers: [48]
+  speakers: [50]
 -
   id: 226
   title: "Cómo definir el seniority de un desarrollador"
@@ -755,3 +764,12 @@
   language: es
   complexity: "Intermedia"
   speakers: [2]
+
+-
+  id: 234
+  title: "Infraestructura como código con Azure Resource Manager"
+  description: "La definición de Infraestructura para ambientes de aplicaciones la haremos usando Azure Resource Manager. Este permite la creación de plantillas de implementación reutilizables, que describen de forma declarativa los recursos que conforman la aplicación (por ejemplo un website y una base de datos). En esencia, Azure Resource Manager proporciona un entorno para manejar la infraestructura, así como la información de configuración como código."
+  subtype: workshop
+  language: es
+  complexity: "Intermedia"
+  speakers: [53]
