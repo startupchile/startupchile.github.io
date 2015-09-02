@@ -652,3 +652,38 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/pablodavicino" }
+
+-
+  id: 66
+  name: "Ubaldo "
+  surname: "Taladríz"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ubaldo.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "" }
+
+-
+  id: 67
+  name: "Gaspar"
+  surname: "Espejo"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: gaspar.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "" }
+-
+  id: 68
+  name: "Wilson"
+  surname: "Pais"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: wilson.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "" }
