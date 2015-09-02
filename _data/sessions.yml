@@ -461,6 +461,33 @@
   complexity: "Intermedia"
   speakers: [59]
 -
+  id: 156
+  title: "Innovar y no morir en el intento. "
+  description: "Innovar y no morir en el intento. "
+  subtype: keynote
+  sala: A308
+  language: es
+  complexity: "Intermedia"
+  speakers: [67]
+-
+  id: 157
+  title: "Desarrollando aplicaciones reactivas con Akka y Scala."
+  description: "Desarrollando aplicaciones reactivas con Akka y Scala. "
+  subtype: keynote
+  sala: A303
+  language: es
+  complexity: "Intermedia"
+  speakers: [66]
+-
+  id: 158
+  title: "Innovación con Microsoft"
+  description: "Innovación con Microsoft"
+  subtype: keynote
+  sala: MAIN STAGE
+  language: es
+  complexity: "Intermedia"
+  speakers: [68]
+-
   id: 202
   title: "ECMAScript 2015"
   description: "Conoce lo nuevo de Javascript con su nuevo estándar ECMAScript 2015, aprenderás las novedades que incluye la nueva versión, cuáles son sus ventajas y cómo podrás sacarle provecho desde hoy en tus aplicaciones utilizando BabelJS.Los participantes deben tener node.js instalado en su equipo, no requiere experiencia previa en node.js, pero sí conocimientos básicos en JavaScript.<br /><a href=\"http://www.eventbrite.com/e/workshop-ecmascript-2015-tickets-18375852670?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18375852670\" alt=\"Eventbrite - [Workshop] ECMAScript 2015\" /></a>"
