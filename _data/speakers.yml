@@ -43,7 +43,7 @@
   social:
     - {name: "twitter", link: "https://www.twitter.com/janogonzalez"}
 -
-  id: 66
+  id: 3
   name: "Maximiliano"
   surname: "Castro"
   company: "Axiomzen"
@@ -623,7 +623,7 @@
   id: 62
   name: "AWS Team"
   surname: ""
-  company: "AMazon"
+  company: "Amazon"
   title: ""
   bio: ""
   thumbnailUrl: doge.jpg
