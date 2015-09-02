@@ -59,7 +59,7 @@
   subtype: keynote
   sala: Main Stage
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 108
   title: "Development with Docker"
@@ -67,7 +67,7 @@
   subtype: keynote
   sala: A308
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [61]
 -
   id: 109
@@ -76,7 +76,7 @@
   subtype: keynote
   sala: A308
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [61]
 -
   id: 110
@@ -85,7 +85,7 @@
   subtype: keynote
   sala: A308
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [61]
 -
   id: 111
@@ -112,7 +112,7 @@
   subtype: keynote
   sala: Auditorio
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 114
   title: "Construir una API con Django y RestFramework"
@@ -120,7 +120,7 @@
   subtype: keynote
   sala: A308
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 115
   title: "About developer communities and trends in San Francisco. "
@@ -128,7 +128,7 @@
   subtype: keynote
   sala: Main Stage
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [60]
 -
   id: 116
@@ -146,7 +146,7 @@
   subtype: keynote
   sala: A308
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [21]
 -
   id: 118
@@ -164,7 +164,7 @@
   subtype: keynote
   sala: Main Stage
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 120
   title: "La palabra de git"
@@ -173,14 +173,14 @@
   sala: A308
   speakers: [2]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 121
   title: "Automotive Security"
   description: "senior research scientist at Fraunhofer CESE and an assistant adjunct professor at the Computer Science department, University of Maryland. My research areas are: 1) software engineering for high-confidence, embedded systems with a focus on medical devices 2) medical device security and 3) social media data analytics."
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 122
   title: "The Impact of Data Visualisation"
@@ -197,7 +197,7 @@
   subtype: keynote
   sala: A401
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 124
   title: "Parkinson, Brooks, Lisp y Unix: Lecciones del siglo pasado para los devs de hoy"
@@ -206,14 +206,14 @@
   sala: Main Stage
   speakers: [7]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 125
   title: "Privacy and Security"
   description: ""
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 
 -
   id: 126
@@ -239,56 +239,56 @@
   description: ""
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 129
   title: "EC2: Cómputo en la Nube"
   description: "Amazon Summit"
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 130
   title: "Seguridad en la nube de AWS"
   description: "Amazon Summit"
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 131
   title: "Almacenamiento y respaldos en la nube de AWS"
   description: "Amazon Summit"
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 132
   title: "Bases de Datos en AWS"
   description: "Amazon Summit"
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 133
   title: "Aplicaciones Móviles en AWS"
   description: "Amazon Summit"
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 134
   title: "Big Data en AWS"
   description: "Amazon Summit"
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 135
   title: "Microsoft"
   description: ""
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 136
   title: "Introduction to agile"
@@ -296,7 +296,7 @@
   subtype: keynote
   sala: A304
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [57]
 -
   id: 137
@@ -305,7 +305,7 @@
   subtype: keynote
   sala: A403
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [47]
 -
   id: 138
@@ -322,7 +322,7 @@
   description: "Los lenguajes de programación dinámicos frecuentemente abandonan las ventajas de el chequeo de tipos estático -que ayuda a descubrir muchos errores comunes en tiempo de compilación- en favor de la conveniencia y la flexibilidad que los caracteriza."
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 140
   title: "Data Scientist, the sexiest job of the 21 century"
@@ -330,7 +330,7 @@
   subtype: keynote
   sala: Main Stage
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 141
   title: "Deployments múltiples con Docker"
@@ -365,7 +365,7 @@
   subtype: keynote
   sala: A304
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 145
   title: "User Experience Touch vs. Ouch: UX para dispositivos móviles"
@@ -399,21 +399,21 @@
   subtype: keynote
   sala: Main Stage
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 149
   title: "Técnicas para la toma de requerimientos"
   description: "Todo proyecto, por pequeño que sea, comienza con una toma de requerimientos. Lo que se logre entender en esta etapa será la base de la construcción del proyecto hasta su término, por lo que esta fase se convierte en algo crítico y fundamental. Esta exposición apunta a entregar técnicas aplicables en entornos reales para realizar una toma de requerimientos efectiva y que estos -y sus consecuencias- sean entendidos por ambas partes (cliente y prestador de servicios), quedando ambas expectativas alineadas y en sintonía. Enfocado a personas que tienen (o buscan) participación en proyectos TI, ya sea como clientes o como prestadores de servicios."
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 150
   title: "Desarrollo (De Software) Móvil"
   description: ""
   subtype: keynote
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 151
   title: "Guía definitiva para unirse al lado oscuro, emprender y levantar dinero siendo un programador."
@@ -431,7 +431,7 @@
   subtype: keynote
   sala: Main Stage
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 
 -
   id: 153
@@ -440,7 +440,7 @@
   subtype: keynote
   sala: A308
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [58]
 -
   id: 154
@@ -449,7 +449,7 @@
   subtype: keynote
   sala: A508
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [62]
 -
   id: 155
@@ -458,7 +458,7 @@
   subtype: workshop
   sala: A303
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [59]
 -
   id: 202
@@ -468,7 +468,7 @@
   sala: Auditorio
   speakers: [66]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 203
   title: "Introducción a la Visualización de Datos con D3"
@@ -485,7 +485,7 @@
   subtype: workshop
   speakers: [4]
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 206
   title: "Introducción a iOS con Objective-C"
@@ -494,7 +494,7 @@
   sala: A508
   speakers: [55]
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 207
   title: "Como desarrollar una aplicación web en Django en 120 minutos"
@@ -521,7 +521,7 @@
   sala: A304
   speakers: [11]
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 210
   title: "Cómo utilizar el nuevo producto de transbank"
@@ -530,7 +530,7 @@
   sala: Auditorio
   speakers: [63]
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 211
   title: "Aprender a programar en Angular con Coder house"
@@ -539,7 +539,7 @@
   sala: A303
   speakers: [54]
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 212
   title: "Como fracasar en un proyecto de desarrollo"
@@ -557,7 +557,7 @@
   sala: A304
   speakers: [60]
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
 -
   id: 214
   title: "MVC"
@@ -681,7 +681,7 @@
   subtype: keynote
   sala: A403
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [51]
 -
   id: 229
@@ -690,7 +690,7 @@
   subtype: workshop
   sala: A508
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [62]
 -
   id: 230
@@ -699,7 +699,7 @@
   subtype: workshop
   sala: A508
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [62]
 -
   id: 231
@@ -708,7 +708,7 @@
   subtype: workshop
   sala: A405
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [64]
 -
   id: 232
@@ -717,14 +717,14 @@
   subtype: workshop
   sala: A403
   language: en
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [65]
 -
   id: 233
   title: "Workflow profesional para el desarrollador independiente"
-  description: "La alta demanda de la industria además del crecimiento exponencial del emprendimiento en Chile han llevado a que muchos desarrolladores trabajemos bajo el modelo freelance o de manera remota. En este taller revisaremos técnicas de organización, manejo de proyectos y trackeo de tareas. Recuerda traer tu proyecto y en conjunto obtendrás consejos para sacarle mayor provecho a tu tiempo."
+  description: "La alta demanda de la industria además del crecimiento exponencial del emprendimiento en Chile han llevado a que muchos desarrolladores trabajemos bajo el modelo freelance o de manera remota. En este taller revisaremos técnicas de organización, manejo de proyectos y trackeo de tareas. Recuerda traer tu proyecto y en conjunto obtendrás consejos para sacarle mayor provecho a tu tiempo. <a href="http://www.eventbrite.com/e/workshop-workflow-profesional-para-el-desarrollador-independiente-tickets-18427490119?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=18427490119" alt="Eventbrite - [Workshop] Workflow profesional para el desarrollador independiente" /></a>"
   subtype: workshop
   sala: A401
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedia"
   speakers: [2]
