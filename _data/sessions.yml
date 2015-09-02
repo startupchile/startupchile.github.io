@@ -22,7 +22,7 @@
   description: "Qué es y como se desarrolla la televisión digital, las nuevas ventajas con el uso del middleware y como Ginga es el middleware que ha revolucionado los distintos tipos de normas de televisión digital. Aplicaciones, como se distribuyen, y pasos para crear su propia aplicación, fuentes, instalaciones y ejemplos de algunas aplicaciones. Alcance a las distintas verticales que se pueden lograr, dando como ejemplo uno de mis papers publicados en webmedia 2011 Florianapolis Brasil. "
   subtype: keynote
   sala: Main Stage
-  language: en
+  language: es
   complexity: "Intermedio"
   speakers: [17]
 -
@@ -58,7 +58,7 @@
   description: "En esta keynote conoceremos la historia de cómo un célebre grupo de rescatistas en México incorporaron la tecnología para financiar sus operaciones y salvar vidas."
   subtype: keynote
   sala: Main Stage
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 108
@@ -66,7 +66,7 @@
   description: ""
   subtype: keynote
   sala: A308
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [61]
 -
@@ -75,7 +75,7 @@
   description: ""
   subtype: keynote
   sala: A308
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [61]
 -
@@ -84,7 +84,7 @@
   description: ""
   subtype: keynote
   sala: A308
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [61]
 -
@@ -93,7 +93,7 @@
   description: "JavaScript is an important language because it is the language of the web browser. Its association with the browser makes it one of the most popular programming languages in the world. At the same time, it is one of the most despised programming languages in the world. The API of the browser, the Document Object Model (DOM) is quite awful, and JavaScript is unfairly blamed.JavaScript is built on some very good ideas and a few very bad ones.The very good ideas include functions, loose typing, dynamic objects, and an expressive object literal notation. The bad ideas include a programming model based on global variables."
   subtype: keynote
   sala: A308
-  language: en
+  language: es
   complexity: "Intermedio"
   speakers: [23]
 -
@@ -102,7 +102,7 @@
   description: "My experience in learning how to code, and give advice about getting a job as an engineer at a startup."
   subtype: keynote
   sala: Main Stage
-  language: en
+  language: es
   complexity: "Fácil"
   speakers: [24]
 -
@@ -111,7 +111,7 @@
   description: "Presentación de su nuevo producto"
   subtype: keynote
   sala: Auditorio
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 114
@@ -119,7 +119,7 @@
   description: "how to use Python to write in no time a fast and powerful API."
   subtype: keynote
   sala: A308
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 115
@@ -127,7 +127,7 @@
   description: ""
   subtype: keynote
   sala: Main Stage
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [60]
 -
@@ -145,7 +145,7 @@
   description: "Probablemente ya tienes 'el código funciona en mi máquina!' en tu diccionario de excusas. Muchas veces, al publicar nuestro trabajo, nos encontramos con errores que no aparecieron en desarrollo. Antes era carísimo tener una máquina sólo para probar, pero ahora puedes tener cuantas quepan en tu PC. En esta presentación, replicaré un servidor web como máquina virtual; y crearé la configuración para que otros compañeros de trabajo puedan usarlo (mediante Vagrant)"
   subtype: keynote
   sala: A308
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [21]
 -
@@ -163,7 +163,7 @@
   description: ""
   subtype: keynote
   sala: Main Stage
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 120
@@ -179,7 +179,7 @@
   title: "Automotive Security"
   description: "senior research scientist at Fraunhofer CESE and an assistant adjunct professor at the Computer Science department, University of Maryland. My research areas are: 1) software engineering for high-confidence, embedded systems with a focus on medical devices 2) medical device security and 3) social media data analytics."
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 122
@@ -212,7 +212,7 @@
   title: "Privacy and Security"
   description: ""
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 
 -
@@ -221,7 +221,7 @@
   description: "Ya ha transcurrido más de una década desde la publicación del imprescindible libro de Andy Hunt y David Thomas sobre las mejores prácticas del desarrollo de software. Esta keynote presenta una perspectiva personal sobre cómo los conceptos de este libro pueden ser una parte fundamental en la construcción de una carrera basada en el pensamiento pragmático. Hablaremos sobre el acercamiento a la resolución de problemas, la depuración del código y la creación de software resistente a bugs."
   subtype: keynote
   sala: A403
-  language: en
+  language: es
   complexity: "Intermedio"
   speakers: [46]
 -
@@ -230,7 +230,7 @@
   description: ""
   subtype: keynote
   sala: A403
-  language: en
+  language: es
   complexity: "Intermedio"
   speakers: [46]
 -
@@ -238,56 +238,56 @@
   title: " Internet of Things (Vessel.io)"
   description: ""
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 129
   title: "EC2: Cómputo en la Nube"
   description: "Amazon Summit"
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 130
   title: "Seguridad en la nube de AWS"
   description: "Amazon Summit"
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 131
   title: "Almacenamiento y respaldos en la nube de AWS"
   description: "Amazon Summit"
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 132
   title: "Bases de Datos en AWS"
   description: "Amazon Summit"
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 133
   title: "Aplicaciones Móviles en AWS"
   description: "Amazon Summit"
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 134
   title: "Big Data en AWS"
   description: "Amazon Summit"
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 135
   title: "Microsoft"
   description: ""
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 136
@@ -295,7 +295,7 @@
   description: "Introduction to Agile, Principles of Agile, The people in volved, Product Manager vs. Product Owner, Release vs. Sprint vs. Iteration, Product Backlog vs. Sprint Backlog, Agile Reports, Agile Solution Providers"
   subtype: keynote
   sala: A304
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [57]
 -
@@ -304,7 +304,7 @@
   description: "Alternativas sobre placas de desarrollo, comparaciones, ventajas, algo de sensores, etc"
   subtype: keynote
   sala: A403
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [47]
 -
@@ -321,7 +321,7 @@
   title: "¿Por qué importan los tipos?"
   description: "Los lenguajes de programación dinámicos frecuentemente abandonan las ventajas de el chequeo de tipos estático -que ayuda a descubrir muchos errores comunes en tiempo de compilación- en favor de la conveniencia y la flexibilidad que los caracteriza."
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 140
@@ -329,7 +329,7 @@
   description: ""
   subtype: keynote
   sala: Main Stage
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 141
@@ -364,7 +364,7 @@
   description: "¿Qué problemas vienen a resolver las metodologías ágiles? ¿Cómo lo logran? ¿Cómo integrar diseño y desarrollo en este marco? Proyectos que se vuelven interminables, clientes insatisfechos y productos finales con los que el equipo no se siente orgulloso, son problemas comunes a muchos proyectos de diseño y desarrollo. Esta presentación introduce conceptos fundamentales para que diseñadores y desarrolladores puedan lograr mejores resultados, y expone un caso real de aplicación de sus principios."
   subtype: keynote
   sala: A304
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 145
@@ -398,21 +398,21 @@
   description: ""
   subtype: keynote
   sala: Main Stage
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 149
   title: "Técnicas para la toma de requerimientos"
   description: "Todo proyecto, por pequeño que sea, comienza con una toma de requerimientos. Lo que se logre entender en esta etapa será la base de la construcción del proyecto hasta su término, por lo que esta fase se convierte en algo crítico y fundamental. Esta exposición apunta a entregar técnicas aplicables en entornos reales para realizar una toma de requerimientos efectiva y que estos -y sus consecuencias- sean entendidos por ambas partes (cliente y prestador de servicios), quedando ambas expectativas alineadas y en sintonía. Enfocado a personas que tienen (o buscan) participación en proyectos TI, ya sea como clientes o como prestadores de servicios."
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 150
   title: "Desarrollo (De Software) Móvil"
   description: ""
   subtype: keynote
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 151
@@ -430,7 +430,7 @@
   description: ""
   subtype: keynote
   sala: Main Stage
-  language: en
+  language: es
   complexity: "Intermedia"
 
 -
@@ -439,7 +439,7 @@
   description: ""
   subtype: keynote
   sala: A308
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [58]
 -
@@ -484,7 +484,7 @@
   description: "Los participantes deben tener experiencia con JavaScript/node.js, y GIT."
   subtype: workshop
   speakers: [4]
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 206
@@ -493,7 +493,7 @@
   subtype: workshop
   sala: A508
   speakers: [55]
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 207
@@ -520,7 +520,7 @@
   subtype: workshop
   sala: A304
   speakers: [11]
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 210
@@ -529,7 +529,7 @@
   subtype: workshop
   sala: Auditorio
   speakers: [63]
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 211
@@ -538,7 +538,7 @@
   subtype: workshop
   sala: A303
   speakers: [54]
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 212
@@ -556,7 +556,7 @@
   subtype: workshop
   sala: A304
   speakers: [60]
-  language: en
+  language: es
   complexity: "Intermedia"
 -
   id: 214
@@ -680,7 +680,7 @@
   description: "Worked hard on your app and made it into a polished product. Now all you need to do is to get users. As simple as it sounds, getting users is one of the hardest tricks for developers. We're going to explore growth hacks and tips to get to that initial 1000!"
   subtype: keynote
   sala: A403
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [51]
 -
@@ -689,7 +689,7 @@
   description: "<br /><a href=\"http://www.eventbrite.com/e/amazon-fireside-chat-la-nube-y-el-negocio-de-startups-tickets-18419180264?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18419180264\" alt=\"Eventbrite - AMAZON - Fireside Chat: La Nube y el Negocio de Startups\" /></a>"
   subtype: workshop
   sala: A508
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [62]
 -
@@ -698,7 +698,7 @@
   description: "<br /><a href=\"http://www.eventbrite.com/e/amazon-startup-best-practices-tickets-18419503230?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18419503230\" alt=\"Eventbrite - AMAZON - Startup Best Practices\" /></a>"
   subtype: workshop
   sala: A508
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [62]
 -
@@ -707,7 +707,7 @@
   description: "El servicio Azure Web Apps permite a los desarrolladores crear, implementar y administrar sitios y aplicaciones web. Permite construir aplicaciones web y APIs basadas en estándares no sólo con .NET sino que con NodeJS, PHP, Python y Java. En este presentación veremos cómo crear y hacer deploy de una aplicación Web de manera rápida, en alta disponibilidad y que auto escale según demanda en tre otras características."
   subtype: workshop
   sala: A405
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [64]
 -
@@ -716,7 +716,7 @@
   description: "Los vectores de ataque y posibilidades de compromiso se multiplican, lo que hace que los aspectos referentes a Seguridad de la Información se conviertan en un factor crítico que típicamente es ignorado o es implementado de forma deficiente en las distintas fases del ciclo de vida del desarrollo y posterior puesta en producción de una aplicación. Durante el taller se analizaran los problemas de seguridad mas severos típicamente encontrados en un alto porcentaje de aplicaciones productivas y se mostraran técnicas de programación defensiva para intentar mitigar los mismos. <br /><a href=\"http://www.eventbrite.com/e/workshop-seguridad-30-blindaje-de-aplicaciones-en-un-mundo-globalizado-tickets-18376148555?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18376148555\" alt=\"Eventbrite - [Workshop] Seguridad 3.0: Blindaje de aplicaciones en un mundo globalizado\" /></a>"
   subtype: workshop
   sala: A403
-  language: en
+  language: es
   complexity: "Intermedia"
   speakers: [65]
 -
