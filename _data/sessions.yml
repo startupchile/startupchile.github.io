@@ -226,7 +226,7 @@
   speakers: [46]
 -
   id: 127
-  title: "Intro to MoongoDB &/or NoSQL"
+  title: "Intro to MongoDB &/or NoSQL"
   description: ""
   subtype: keynote
   sala: A403
