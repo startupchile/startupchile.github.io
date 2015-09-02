@@ -15,7 +15,7 @@
   surname: "Cabargas"
   company: "Startup Podium"
   title: "Senior Frontend Developer"
-  bio: ""
+  bio: "@juanpintoduran es desarrollador Full Stack, aunque prefiere el título de FrontEnd Developer, campo en el cual posee experiencia por más de 5 años. Ha desarrollado con compañías y agencias de diversas nacionalidades y conoce el circuito de emprendimiento chileno desde sus inicios con la 1ra Generación de StartUp Chile"
   thumbnailUrl: felipecabargas.jpg
   rockstar: true
   social:
@@ -418,7 +418,7 @@
   thumbnailUrl: ivan_toledo.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://www.twitter.com/#" }
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=ADEAAABKI8QBpOXXG1lqu22Dl-WqvFAOhwTnzdE&authType=NAME_SEARCH&authToken=qAsb&locale=en_US&srchid=492643791440779912386&srchindex=1&srchtotal=114&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A492643791440779912386%2CVSRPtargetId%3A4858820%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH" }
 -
   id: 45
   name: "Henry"
@@ -508,3 +508,139 @@
   rockstar: false
   social:
     - {name: "twitter", link: "" }
+-
+  id: 54
+  name: "Oscar"
+  surname: "Molina"
+  company: "Coderhouse"
+  title: "Profesor de FrontEnd de Coderhouse"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 55
+  name: "José"
+  surname: "Antonio"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/jagonzalr182?fref=ts" }
+-
+  id: 56
+  name: "Sebastián "
+  surname: "Duran"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 57
+  name: "Daniil"
+  surname: "Brodovich"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=75651003&authType=name&authToken=mYvn&trk=api*a109924*s118458*" }
+-
+  id: 58
+  name: "Karthik"
+  surname: "Bhat"
+  company: "SecureDB"
+  title: "CEO"
+  bio: "Karthik Bhat is the Founder and CEO of SecureDB, Encryption as a Service company. Karthik has 15 years of coding experience with web, mobile and enterprise systems. Karthik hopes to see increase in security awareness among developers and strives to increase the adoption of encryption in mobile and web apps. You can read his thoughts [here](https://medium.com/@karthikvbhat)"
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=6139133&authType=name&authToken=rlPm&trk=api*a109924*s118458*" }
+-
+  id: 59
+  name: ""
+  surname: ""
+  company: "MCI"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 60
+  name: "Spencer"
+  surname: "Handley"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/spencer48" }
+-
+  id: 61
+  name: "Ankur"
+  surname: "Agarwal"
+  company: "Filtr.io"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ankurdadreamer" }
+-
+  id: 62
+  name: "AWS Team"
+  surname: ""
+  company: "AMazon"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 63
+  name: "Webpay Team"
+  surname: ""
+  company: "Transbank"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 64
+  name: "Juan"
+  surname: "Pablo Garcia"
+  company: "Microsoft"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 65
+  name: "Pablo"
+  surname: "Davicino"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pablodavicino" }
+
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }

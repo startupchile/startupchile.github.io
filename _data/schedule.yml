@@ -13,7 +13,27 @@
     - {
     	startTime: "11:00",
     	endTime: "12:00",
-    	sessionIds: [209,221]
+    	sessionIds: [221, 209]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "13:00",
+    	sessionIds: [404,211]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "13:00",
+    	sessionIds: [404,206]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "12:15",
+    	sessionIds: [212, 404]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:15",
+    	sessionIds: [136,404]
     }
     - {
     	startTime: "12:00",
@@ -23,7 +43,12 @@
     - {
     	startTime: "12:30",
     	endTime: "13:00",
-    	sessionIds: [120, 220]
+    	sessionIds: [120, 404]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "13:00",
+    	sessionIds: [220, 404]
     }
     - {
     	startTime: "12:30",
@@ -34,6 +59,11 @@
     	startTime: "12:30",
     	endTime: "13:00",
     	sessionIds: [104, 404]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "14:15",
+    	sessionIds: [153,404]
     }
     - {
     	startTime: "14:00",
@@ -53,7 +83,7 @@
     - {
     	startTime: "14:30",
     	endTime: "15:00",
-    	sessionIds: [404, 208]
+    	sessionIds: [154, 208]
     }
     - {
     	startTime: "14:30",
@@ -68,7 +98,23 @@
     - {
     	startTime: "15:00",
     	endTime: "15:15",
-    	sessionIds: [103, 219]
+    	sessionIds: [103, 404]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:15",
+    	sessionIds: [219, 404]
+    }
+
+    - {
+    	startTime: "15:00",
+    	endTime: "15:15",
+    	sessionIds: [110, 404]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:15",
+    	sessionIds: [115, 404]
     }
     - {
     	startTime: "15:30",
@@ -76,9 +122,24 @@
     	sessionIds: [143, 404]
     }
     - {
+    	startTime: "15:30",
+    	endTime: "15:45",
+    	sessionIds: [109, 404]
+    }
+    - {
     	startTime: "15:45",
     	endTime: "16:00",
     	sessionIds: [144, 404]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "18:00",
+    	sessionIds: [404, 229]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "18:00",
+    	sessionIds: [404, 155]
     }
     - {
     	startTime: "16:00",
@@ -97,8 +158,18 @@
     }
     - {
     	startTime: "17:00",
+    	endTime: "19:00",
+    	sessionIds: [213, 404]
+    }
+    - {
+    	startTime: "17:00",
     	endTime: "17:30",
     	sessionIds: [116, 404]
+    }
+    - {
+    	startTime: "17:15",
+    	endTime: "19:45",
+    	sessionIds: [404, 210]
     }
     - {
     	startTime: "17:30",
@@ -109,6 +180,11 @@
     	startTime: "17:30",
     	endTime: "18:00",
     	sessionIds: [122, 404]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "19:00",
+    	sessionIds: [404, 230]
     }
 
 -
@@ -132,11 +208,6 @@
         startTime: "10:30",
         endTime: "12:30",
         sessionIds: [404,215]
-      }
-    - {
-        startTime: "11:00",
-        endTime: "12:00",
-        sessionIds: [217, 404]
       }
     - {
         startTime: "11:15",
@@ -171,7 +242,7 @@
     - {
         startTime: "12:00",
         endTime: "13:00",
-        sessionIds: [218,224]
+        sessionIds: [404,224]
     }
     - {
         startTime: "14:00",
@@ -180,8 +251,8 @@
     }
     - {
         startTime: "14:00",
-        endTime: "15:30",
-        sessionIds: [217, 404]
+        endTime: "15:00",
+        sessionIds: [404, 217]
     }
     - {
         startTime: "14:00",
@@ -191,12 +262,32 @@
     - {
         startTime: "15:00",
         endTime: "16:00",
-        sessionIds: [218, 404]
+        sessionIds: [404, 218]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "17:30",
+        sessionIds: [404, 232]
     }
     - {
         startTime: "16:00",
         endTime: "17:00",
-        sessionIds: [227, 404]
+        sessionIds: [404, 227]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "19:00",
+        sessionIds: [404, 233]
+    }
+    - {
+        startTime: "17:45",
+        endTime: "18:30",
+        sessionIds: [404, 231]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "20:00",
+        sessionIds: [404, 202]
     }
     - {
         startTime: "19:00",

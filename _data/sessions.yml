@@ -67,6 +67,7 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+  speakers: [61]
 -
   id: 110
   title: "Development with Real Time (Websockets)"
@@ -74,6 +75,7 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+  speakers: [61]
 -
   id: 111
   title: "Javacript: The good and the bad parts"
@@ -111,6 +113,7 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+  speakers: [60]
 -
   id: 116
   title: "WordPress para prototipado de aplicaciones"
@@ -266,6 +269,7 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+  speakers: [57]
 -
   id: 137
   title: "Hardware IoT friendly..."
@@ -387,6 +391,31 @@
   subtype: keynote
   language: en
   complexity: "Intermediate"
+
+-
+  id: 153
+  title: "Software Development in the Age of Breaches (HANGOUT)"
+  description: ""
+  subtype: keynote
+  language: en
+  complexity: "Intermediate"
+  speakers: [58]
+-
+  id: 154
+  title: "Inscripción y Amazon Web Services Solutions Architect (SA) Corner"
+  description: ""
+  subtype: keynote
+  language: es
+  complexity: "Intermediate"
+  speakers: []
+-
+  id: 155
+  title: "Arduinos"
+  description: "En este taller se abordaran algunas temáticas  básicas que permiten desarrollar prototipos de manera fácil y rápida con Arduino. Los participantes verán algunos circuitos en donde se utilizarán las formas analógicas y digitales de entrada y salida, monitoreo y control vía comunicación serial, etc. Conocerán el entorno de programación de Arduino, en donde visualizarán de manera simple la programación de controles ON-OFF, salidas PWM, lectura de sensores analógicos para la medición de diversas variables físicas del entorno, etc. <br /><a href=\"http://www.eventbrite.com/e/workshop-arduino-tickets-18375800514?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18375800514\" alt=\"Eventbrite - [Workshop] Arduino\" /></a>"
+  subtype: workshop
+  language: es
+  complexity: "Intermediate"
+  speakers: [59]
 -
   id: 202
   title: "ECMAScript 2015"
@@ -416,7 +445,7 @@
   title: "Introducción a iOS con Objective-C"
   description: "Introducción a iOS con Objective-C: en 2 horas se aprenderá a hacer una ToDo app utilizando el lenguaje de programación Objective-C en donde se verán una de las estructuras básicas dentro de una app de iOS, las tablas. Se enseñará como programarlo y editar la forma en como se ve. Además veremos como agregar, editar y eliminar objetos dentro de la tabla. <br /><a href=\"http://www.eventbrite.com/e/workshop-introduccion-a-ios-con-objective-c-tickets-18375887775?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18375887775\" alt=\"Eventbrite - [Workshop] Introducción a iOS con Objective-C\" /></a>"
   subtype: workshop
-  speakers: [4]
+  speakers: [55]
   language: en
   complexity: "Intermediate"
 -
@@ -446,17 +475,17 @@
 -
   id: 210
   title: "Cómo utilizar el nuevo producto de transbank"
-  description: ""
+  description: "presentación de los productos Webpay, presentación del portal de integradores y practica con desarrolladores <br /><a href=\"http://www.eventbrite.com/e/workshop-como-utilizar-el-nuevo-producto-de-transbank-tickets-18414162255?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18414162255\" alt=\"Eventbrite - [workshop] Cómo utilizar el nuevo producto de transbank\" /></a>"
   subtype: workshop
-  speakers: [4]
+  speakers: [63]
   language: en
   complexity: "Intermediate"
 -
   id: 211
   title: "Aprender a programar en Angular con Coder house"
-  description: ""
+  description: "Oscar realizará una introducción sobre AngularJS, el framework open-source de aplicaciones web creado por Google. <br /><a href=\"http://www.eventbrite.com/e/workshop-introduccion-a-angularjs-por-coderhouse-tickets-18377823565?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18377823565\" alt=\"Eventbrite - [Workshop] Introducción a AngularJS por Coderhouse\" /></a>"
   subtype: workshop
-  speakers: [4]
+  speakers: [54]
   language: en
   complexity: "Intermediate"
 -
@@ -464,21 +493,21 @@
   title: "Como fracasar en un proyecto de desarrollo"
   description: "Hemos construido empresas que solucionaban varios problemas desde un punto de vista informatico y hemos fracasado. La idea de esta keynote es mostrar que tan fácil es hacer fracasar una buena idea"
   subtype: keynote
-  speakers: [4]
-  language: en
+  speakers: [54, 56]
+  language: es
   complexity: "Fácil"
 -
   id: 213
   title: "Mastering Grunt"
   description: "A deep dive into the core concepts of Grunt JS <br /><a href=\"http://www.eventbrite.com/e/workshop-mastering-gruntjs-tickets-18376058285?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18376058285\" alt=\"Eventbrite - [Workshop] Mastering Grunt.js\" /></a>"
   subtype: workshop
-  speakers: [4]
+  speakers: [60]
   language: en
   complexity: "Intermediate"
 -
   id: 214
   title: "MVC"
-  description: "La actividad consistira en ver como crear un blog, aplicando la arquitectura de diseño Modelo Vista Controlador. Se trabajara con PHP mas un framweok liviano Code Igniter, como agregado usaremos Boostrap 3. El objetivo es ir construyendo el sitio web paso a paso,  desglosando cada concepto para entender el rol que debe cumpli cada ente esto es que debe hacer un modelo, lo que debe hacer el controlador y lo que debe hacer la vista."
+  description: "La actividad consistira en ver como crear un blog, aplicando la arquitectura de diseño Modelo Vista Controlador. Se trabajara con PHP mas un framweok liviano Code Igniter, como agregado usaremos Boostrap 3. El objetivo es ir construyendo el sitio web paso a paso,  desglosando cada concepto para entender el rol que debe cumpli cada ente esto es que debe hacer un modelo, lo que debe hacer el controlador y lo que debe hacer la vista. <br /><a href=\"http://www.eventbrite.com/e/workshop-mvs-tickets-18414316717?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18414316717\" alt=\"Eventbrite - [workshop] MVS\" /></a>"
   subtype: workshop
   speakers: [49]
   language: es
@@ -494,7 +523,7 @@
 -
   id: 217
   title: "Innovación en la Escala de AWS"
-  description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube."
+  description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube.<br /><a href=\"http://www.eventbrite.com/e/amazon-innovacion-en-la-escala-de-aws-tickets-18419734923?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18419734923\" alt=\"Eventbrite - AMAZON - Innovación en la Escala de AWS\" /></a>"
   subtype: sala250
   speakers: [1]
   language: es
@@ -502,8 +531,8 @@
 -
   id: 218
   title: "El Tercer Por qué"
-  description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube."
-  subtype: keynote
+  description: "En esta sesión presentaremos una mirada atrás de bambalinas de las innovaciones que hacen única la nube de AWS. Mostraremos ejemplos de innovación en las redes basadas en la interregionalidad de AWS, pasando a lo largo de los routers y pilas de red personalizada, llegando en servidores individuales. Mostraremos a partir de ejemplos y características de hardware, almacenamiento y energía hasta la parte superior de la pila, el streaming y el procesamiento de datos a gran escala. También profundizaremos las innovaciones en las bases de datos donde AWS está redefiniendo los límites de la escalabilidad y el rendimiento, reduciendo los costos y la eliminación de gran parte de las tareas administrativas. Únete a esta sesión y sal con una comprensión más profunda de las innovaciones detrás de la nube.<br /><a href=\"http://www.eventbrite.com/e/amazon-el-tercer-por-que-tickets-18420616560?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18420616560\" alt=\"Eventbrite - AMAZON - El Tercer Por qué\" /></a>"
+  subtype: workshop
   speakers: [1]
   language: es
   complexity: "Fácil"
@@ -549,8 +578,8 @@
 -
   id: 224
   title: "Microsoft Edge: The Browser for Doing"
-  description: "Un nuevo browser unificado que entrega la mejor experiencia en todos los dispositivos Windows 10. En esta sesión veremos las ventajas de preparar los sitios para Edge, y analizaremos cómo el nuevo motor trae una nueva experiencia no solamente para el usuario final sino para los desarrolladores."
-  subtype: keynote
+  description: "Un nuevo browser unificado que entrega la mejor experiencia en todos los dispositivos Windows 10. En esta sesión veremos las ventajas de preparar los sitios para Edge, y analizaremos cómo el nuevo motor trae una nueva experiencia no solamente para el usuario final sino para los desarrolladores.<br /><a href=\"http://www.eventbrite.com/e/workshop-microsoft-edge-the-browser-for-doing-tickets-18381107387?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18381107387\" alt=\"Eventbrite - [Workshop] Microsoft Edge: The Browser for Doing\" /></a>"
+  subtype: workshop
   language: es
   complexity: "Fácil"
   speakers: [48]
@@ -573,8 +602,8 @@
 -
   id: 227
   title: "Escalando para los primeros millones de usuarios"
-  description: ""
-  subtype: keynote
+  description: "<br /><a href=\"http://www.eventbrite.com/e/amazon-escalando-para-los-primeros-millones-de-usuarios-tickets-18420665707?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18420665707\" alt=\"Eventbrite - AMAZON - Escalando para los primeros millones de usuarios\" /></a>"
+  subtype: workshop
   language: es
   complexity: "Intermedio"
   speakers: [1]
@@ -586,3 +615,43 @@
   language: en
   complexity: "Intermediate"
   speakers: [51]
+-
+  id: 229
+  title: "AMAZON - Fireside Chat: La Nube y el Negocio de Startups  - Amazon Web Services, 4 Startups (Casos de Éxito)"
+  description: "<br /><a href=\"http://www.eventbrite.com/e/amazon-fireside-chat-la-nube-y-el-negocio-de-startups-tickets-18419180264?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18419180264\" alt=\"Eventbrite - AMAZON - Fireside Chat: La Nube y el Negocio de Startups\" /></a>"
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+  speakers: [62]
+-
+  id: 230
+  title: "AMAZON - Startup Best Practices: Asesoramiento empresarial y técnico sobre los temas alrededor de negocios innovadores con AWS y Startup Chile"
+  description: "<br /><a href=\"http://www.eventbrite.com/e/amazon-startup-best-practices-tickets-18419503230?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18419503230\" alt=\"Eventbrite - AMAZON - Startup Best Practices\" /></a>"
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+  speakers: [62]
+-
+  id: 231
+  title: "Azure Web Apps: plataforma para desarrollo de aplicaciones Web en la Nube"
+  description: "El servicio Azure Web Apps permite a los desarrolladores crear, implementar y administrar sitios y aplicaciones web. Permite construir aplicaciones web y APIs basadas en estándares no sólo con .NET sino que con NodeJS, PHP, Python y Java. En este presentación veremos cómo crear y hacer deploy de una aplicación Web de manera rápida, en alta disponibilidad y que auto escale según demanda en tre otras características."
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+  speakers: [64]
+-
+  id: 232
+  title: "Seguridad 3.0: Blindaje de aplicaciones en un mundo globalizado"
+  description: "Los vectores de ataque y posibilidades de compromiso se multiplican, lo que hace que los aspectos referentes a Seguridad de la Información se conviertan en un factor crítico que típicamente es ignorado o es implementado de forma deficiente en las distintas fases del ciclo de vida del desarrollo y posterior puesta en producción de una aplicación. Durante el taller se analizaran los problemas de seguridad mas severos típicamente encontrados en un alto porcentaje de aplicaciones productivas y se mostraran técnicas de programación defensiva para intentar mitigar los mismos. <br /><a href=\"http://www.eventbrite.com/e/workshop-seguridad-30-blindaje-de-aplicaciones-en-un-mundo-globalizado-tickets-18376148555?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18376148555\" alt=\"Eventbrite - [Workshop] Seguridad 3.0: Blindaje de aplicaciones en un mundo globalizado\" /></a>"
+  subtype: workshop
+  language: en
+  complexity: "Intermediate"
+  speakers: [65]
+-
+  id: 233
+  title: "Workflow profesional para el desarrollador independiente"
+  description: "La alta demanda de la industria además del crecimiento exponencial del emprendimiento en Chile han llevado a que muchos desarrolladores trabajemos bajo el modelo freelance o de manera remota. En este taller revisaremos técnicas de organización, manejo de proyectos y trackeo de tareas. Recuerda traer tu proyecto y en conjunto obtendrás consejos para sacarle mayor provecho a tu tiempo."
+  subtype: workshop
+  language: es
+  complexity: "Intermediate"
+  speakers: [2]
