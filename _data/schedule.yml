@@ -111,8 +111,8 @@
     	sessionIds: [103, 404]
     }
     - {
-    	startTime: "15:00",
-    	endTime: "15:15",
+    	startTime: "15:15",
+    	endTime: "15:30",
     	sessionIds: [219, 404]
     }
 
