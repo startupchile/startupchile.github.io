@@ -497,6 +497,15 @@
   complexity: "basic"
   speakers: [69,70]
 -
+  id: 160
+  title: "Cómo hackear el sistema de Corfo y ganar fondos para tu startup."
+  description: "Acá te explicaremos todos los fondos disponibles para tu emprendimiento, cuánta plata es y cómo acceder a ellos."
+  subtype: keynote
+  sala: A408
+  language: es
+  complexity: "basic"
+  speakers: [73]
+-
   id: 202
   title: "ECMAScript 2015"
   description: "Conoce lo nuevo de Javascript con su nuevo estándar ECMAScript 2015, aprenderás las novedades que incluye la nueva versión, cuáles son sus ventajas y cómo podrás sacarle provecho desde hoy en tus aplicaciones utilizando BabelJS.Los participantes deben tener node.js instalado en su equipo, no requiere experiencia previa en node.js, pero sí conocimientos básicos en JavaScript.<br /><a href=\"http://www.eventbrite.com/e/workshop-ecmascript-2015-tickets-18375852670?ref=ebtn\" target=\"_blank\"><img src=\"https://www.eventbrite.com/custombutton?eid=18375852670\" alt=\"Eventbrite - [Workshop] ECMAScript 2015\" /></a>"
