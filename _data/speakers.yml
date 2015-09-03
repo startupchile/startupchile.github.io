@@ -281,7 +281,7 @@
   id: 29
   name: "Estanislao"
   surname: "López Morgan"
-  company: "Tallion"
+  company: "Entropy"
   title: "Software Engineer"
   bio: "Ingeniero electrónico egresado de la Facultad de Ingeniería de la Universidad de Buenos Aires, oriundo de la ciudad de Puerto Madryn provincia de Chubut;  Co fundador de entropy (www.entropy.com.ar), un emprendimiento de desarrollo de software & hardware especializado en IoT y aplicaciónes Android, y colaborador en EmprendING, una posgrado sobre emprendimientos dictado por emprendedores, en la Facultad de Ingeniería de la Universidad de Buenos Aires. Trabajé en la base Antártica San Martín durante el 2008 como técnico científico, luego en el rubro de sistemas y comunicaciones de PC por un par de años y finalmente como programador y desarrollador de dispositivos en el rubro de transporte y puntos de servicios. "
   thumbnailUrl: estanislao.jpg
@@ -391,8 +391,8 @@
   surname: "Förster"
   company: ""
   title: ""
-  bio: ""
-  thumbnailUrl: doge.jpg
+  bio: "Francisco Förster studied Civil Engineering and Astronomy at the University of Chile and received a Ph.D. in Physics at the University of Oxford. He has published several papers on the theory and observations of supernova progenitors and has led the installation of the first Chilean robotic telescope, at Cerro Tololo Interamerican Observatory. He is now project scientist of the Astrolab laboratory of the Center for Mathematical Modelling, a new interdisciplinary initiative that aims to bring together astronomy, mathematics, computer science and electrical engineering. He is also a young astronomer in the new Millennium Institute of Astrophysics."
+  thumbnailUrl: francisco_foster.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://www.twitter.com/#" }
