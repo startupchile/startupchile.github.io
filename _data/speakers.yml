@@ -353,7 +353,7 @@
   thumbnailUrl: sebasaavedra.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://www.twitter.com/elun" }
+    - {name: "twitter", link: "https://www.twitter.com/eseSebastian" }
 -
   id: 36
   name: "Pedro"
@@ -707,3 +707,25 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/ruben8816" }
+-
+  id: 71
+  name: "Claudio"
+  surname: "Barahona"
+  company: "Wayra"
+  title: ""
+  bio: ""
+  thumbnailUrl: doge.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/#" }
+-
+  id: 72
+  name: "Francisco"
+  surname: "Mardones"
+  company: "GECHS"
+  title: "Presidente del Grupo de Empresas Chilenas de Software (GECHS)"
+  bio: "Francisco Mardones es Ingeniero Civil Electrónico de la Universidad de Concepción y tiene más de 15 años de experiencia en la industria de software, cuando partió como ingeniero de Software en el centro de Motorola en Valparaíso. Ha formado y liderado varias empresas de alta tecnología como Airsage, dedicada a la analítica urbana en tiempo real y últimamente Nimbic, empresa chileno-californiana dedicada al desarrollo de software para el diseño de electrónica de alta velocidad y que fue adquirida por Mentor Graphics Corporation, donde hoy se desempeña como director para Chile. Desde 2014 preside el Grupo de Empresa Chilenas de Software GECHS A.G., gremio que reúne a más de 120 empresas que desarrollan tecnología desde Chile."
+  thumbnailUrl: francisco_mardones.png
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=224290410&trk=hp-identity-photo" }
