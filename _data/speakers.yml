@@ -729,3 +729,14 @@
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=224290410&trk=hp-identity-photo" }
+-
+  id: 73
+  name: "Tadashi"
+  surname: "Takaoka"
+  company: "Corfo"
+  title: "Subgerente de Financiamiento Temprano en la Gerencia de Emprendimiento de Corfo."
+  bio: "Tadashi Takaoka es Ingeniero Civil Industrial y Magister en Gestión de Operaciones de la Universidad de Chile. Es experto en Emprendimiento e Innovación y es el único caso en Chile que ha visto el ecosistema de emprendimiento desde los diversos frentes. Hoy se desempeña como Subgerente de Financiamiento Temprano en la Gerencia de Emprendimiento de Corfo, donde maneja la estrategia de financiamiento de startups en fondos como Start-Up Chile, Semilla Corfo y SSAF entre otros."
+  thumbnailUrl: tadashita.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/tadashitakaoka" }
