@@ -292,13 +292,13 @@
   id: 30
   name: "Aldrin"
   surname: "Martoq"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: doge.jpg
+  company: "A0"
+  title: "Gerente General y Cofundador - A0"
+  bio: "Me apasiona resolver problemas. Tengo casi 20 años de experiencia en TI con distintas tecnologías y ámbitos, desde infraestructura en grandes servidores hasta desarrollo de aplicaciones móviles. Orgulloso padre de un bebé de 4 meses."
+  thumbnailUrl: aldrin.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://www.twitter.com/#" }
+    - {name: "twitter", link: "https://www.twitter.com/aldrinmartoq" }
 -
   id: 31
   name: "Pedro"
