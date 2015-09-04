@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/schedule", text: "Programa"}
  - {permalink: "/speakers", text: "Speakers"}
- # - {permalink: "/hackathon", text: "Hackathon"}
+
 
 bottomNavigationLinks:
  - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Programadores", "Emprendedores", "Hackers"'
 typeoutFallback: "Programadores"
 heroButtons:
  - {link: "http://www.eventbrite.com/e/devconchile-tickets-17197913422?ref=ebtn", text: "Registrate"}
- #- {permalink: "/#tickets", text: "Obten tu ticket"}
+ - {link: "itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/u/86840584/manifest.plist", text: "Download App"}
 
 # About Block
 aboutTitle: "¿Qué es DevConChile?"
